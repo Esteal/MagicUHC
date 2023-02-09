@@ -1,0 +1,64 @@
+enforce_secure_profile: false
+listeners:
+- query_port: 25577
+  motd: '&1StarFac'
+  tab_list: SERVER
+  query_enabled: false
+  proxy_protocol: false
+  forced_hosts:
+    beta.starfac.fr: Lobby
+  ping_passthrough: false
+  priorities:
+  - Lobby
+  bind_local_address: true
+  host: 0.0.0.0:25565
+  max_players: 100
+  tab_size: 60
+  force_default_server: false
+remote_ping_cache: -1
+network_compression_threshold: 256
+permissions:
+  default:
+  - bungeecord.command.server
+  - bungeecord.command.list
+  admin:
+  - bungeecord.command.alert
+  - bungeecord.command.end
+  - bungeecord.command.ip
+  - bungeecord.command.reload
+  - bungeecord.command.kick
+log_pings: true
+connection_throttle_limit: 3
+server_connect_timeout: 5000
+timeout: 30000
+player_limit: 100
+prevent_proxy_connections: false
+ip_forward: false
+groups:
+  Midey1901:
+  - admin
+remote_ping_timeout: 5000
+connection_throttle: 4000
+log_commands: false
+stats: 5c791448-7958-4db9-9b6a-0b90eab8e91a
+online_mode: false
+forge_support: false
+disabled_commands:
+- disabledcommandhere
+servers:
+  Lobby:
+    motd: '&1Just another BungeeCord - Forced Host'
+    address: localhost:25566
+    restricted: false
+  Corucentre:
+    motd: '&1Just another BungeeCord - Forced Host'
+    address: localhost:25567
+    restricted: false
+  Korriban:
+    motd: '&1Just another BungeeCord - Forced Host'
+    address: localhost:25568
+    restricted: false
+  Yavin:
+    motd: '&1Just another BungeeCord - Forced Host'
+    address: localhost:25569
+    restricted: false

@@ -1,0 +1,426 @@
+12:48:32 [INFOS] Using standard Java JCE cipher.
+12:48:32 [INFOS] Using standard Java compressor.
+12:48:32 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.19-R0.1-SNAPSHOT:19424ab:1678
+12:48:32 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+12:48:32 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+12:48:32 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+12:48:32 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+12:48:32 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+12:48:32 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+12:48:32 [INFOS] Attempting to update plugin from null to ModuleVersion(build=1678, git=19424ab)
+12:48:32 [INFOS] Attempting to Jenkins download module cmd_alert v1678
+12:48:33 [INFOS] Download complete
+12:48:33 [INFOS] Attempting to update plugin from null to ModuleVersion(build=1678, git=19424ab)
+12:48:33 [INFOS] Attempting to Jenkins download module cmd_find v1678
+12:48:34 [INFOS] Download complete
+12:48:34 [INFOS] Attempting to update plugin from null to ModuleVersion(build=1678, git=19424ab)
+12:48:34 [INFOS] Attempting to Jenkins download module cmd_list v1678
+12:48:34 [INFOS] Download complete
+12:48:34 [INFOS] Attempting to update plugin from null to ModuleVersion(build=1678, git=19424ab)
+12:48:34 [INFOS] Attempting to Jenkins download module cmd_send v1678
+12:48:34 [INFOS] Download complete
+12:48:34 [INFOS] Attempting to update plugin from null to ModuleVersion(build=1678, git=19424ab)
+12:48:34 [INFOS] Attempting to Jenkins download module cmd_server v1678
+12:48:34 [INFOS] Download complete
+12:48:34 [INFOS] Attempting to update plugin from null to ModuleVersion(build=1678, git=19424ab)
+12:48:34 [INFOS] Attempting to Jenkins download module reconnect_yaml v1678
+12:48:35 [INFOS] Download complete
+12:48:35 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+12:48:35 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+12:48:35 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+12:48:35 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+12:48:35 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+12:48:35 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+12:48:35 [AVERTISSEMENT] Forced host server pvp is not defined
+12:48:35 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+12:48:35 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+12:48:35 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+12:48:35 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+12:48:35 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+12:48:35 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+12:48:36 [INFOS] Listening on /0.0.0.0:25577
+13:01:28 [INFOS] Using standard Java JCE cipher.
+13:01:28 [INFOS] Using standard Java compressor.
+13:01:28 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.19-R0.1-SNAPSHOT:19424ab:1678
+13:01:28 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+13:01:28 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+13:01:28 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+13:01:28 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+13:01:28 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+13:01:28 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+13:01:28 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+13:01:28 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+13:01:28 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+13:01:28 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+13:01:28 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+13:01:28 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+13:01:29 [AVERTISSEMENT] Forced host server pvp is not defined
+13:01:29 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+13:01:29 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+13:01:29 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+13:01:29 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+13:01:29 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+13:01:29 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+13:01:29 [AVERTISSEMENT] Could not bind to host /0.0.0.0:25577
+java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Unknown Source)
+	at sun.nio.ch.Net.bind(Unknown Source)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(Unknown Source)
+	at io.netty.channel.socket.nio.NioServerSocketChannel.doBind(NioServerSocketChannel.java:141)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.bind(AbstractChannel.java:562)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.bind(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeBind(AbstractChannelHandlerContext.java:600)
+	at io.netty.channel.AbstractChannelHandlerContext.bind(AbstractChannelHandlerContext.java:579)
+	at io.netty.channel.DefaultChannelPipeline.bind(DefaultChannelPipeline.java:973)
+	at io.netty.channel.AbstractChannel.bind(AbstractChannel.java:260)
+	at io.netty.bootstrap.AbstractBootstrap$2.run(AbstractBootstrap.java:356)
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:569)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.lang.Thread.run(Unknown Source)
+13:06:21 [INFOS] Using standard Java JCE cipher.
+13:06:21 [INFOS] Using standard Java compressor.
+13:06:21 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.19-R0.1-SNAPSHOT:19424ab:1678
+13:06:22 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+13:06:22 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+13:06:22 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+13:06:22 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+13:06:22 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+13:06:22 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+13:06:22 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+13:06:22 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+13:06:22 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+13:06:22 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+13:06:22 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+13:06:22 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+13:06:22 [AVERTISSEMENT] Forced host server pvp is not defined
+13:06:22 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+13:06:22 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+13:06:22 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+13:06:22 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+13:06:22 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+13:06:22 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+13:06:22 [INFOS] Listening on /0.0.0.0:25577
+13:22:48 [INFOS] §cCommand not found
+13:22:54 [INFOS] §cCommand not found
+13:23:00 [INFOS] §cCommand not found
+13:23:02 [INFOS] §cCommand not found
+15:35:59 [INFOS] Using standard Java JCE cipher.
+15:35:59 [INFOS] Using standard Java compressor.
+15:35:59 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.19-R0.1-SNAPSHOT:19424ab:1678
+15:35:59 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+15:35:59 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+15:35:59 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+15:35:59 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+15:35:59 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+15:35:59 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+15:35:59 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:35:59 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:35:59 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:35:59 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:35:59 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:35:59 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:35:59 [GRAVE] Exception in thread "main" 
+15:35:59 [GRAVE] java.lang.ClassCastException: java.lang.String cannot be cast to java.util.Map
+15:35:59 [GRAVE] 	at net.md_5.bungee.conf.YamlConfig.getListeners(YamlConfig.java:253)
+15:35:59 [GRAVE] 	at net.md_5.bungee.conf.Configuration.load(Configuration.java:89)
+15:35:59 [GRAVE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:282)
+15:35:59 [GRAVE] 	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:67)
+15:35:59 [GRAVE] 	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+15:38:29 [INFOS] Using standard Java JCE cipher.
+15:38:29 [INFOS] Using standard Java compressor.
+15:38:29 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.19-R0.1-SNAPSHOT:19424ab:1678
+15:38:30 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+15:38:30 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+15:38:30 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+15:38:30 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+15:38:30 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+15:38:30 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+15:38:30 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:38:30 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:38:30 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:38:30 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:38:30 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:38:30 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:38:30 [GRAVE] Exception in thread "main" 
+15:38:30 [GRAVE] java.lang.ClassCastException: java.lang.String cannot be cast to java.util.Map
+15:38:30 [GRAVE] 	at net.md_5.bungee.conf.YamlConfig.getListeners(YamlConfig.java:253)
+15:38:30 [GRAVE] 	at net.md_5.bungee.conf.Configuration.load(Configuration.java:89)
+15:38:30 [GRAVE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:282)
+15:38:30 [GRAVE] 	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:67)
+15:38:30 [GRAVE] 	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+15:40:07 [INFOS] Using standard Java JCE cipher.
+15:40:07 [INFOS] Using standard Java compressor.
+15:40:07 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.19-R0.1-SNAPSHOT:19424ab:1678
+15:40:07 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+15:40:07 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+15:40:07 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+15:40:07 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+15:40:07 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+15:40:07 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+15:40:07 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:40:07 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:40:07 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:40:07 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:40:07 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:40:07 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:40:07 [GRAVE] Exception in thread "main" 
+15:40:07 [GRAVE] java.lang.ClassCastException: java.lang.String cannot be cast to java.util.Map
+15:40:07 [GRAVE] 	at net.md_5.bungee.conf.YamlConfig.getListeners(YamlConfig.java:253)
+15:40:07 [GRAVE] 	at net.md_5.bungee.conf.Configuration.load(Configuration.java:89)
+15:40:07 [GRAVE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:282)
+15:40:07 [GRAVE] 	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:67)
+15:40:07 [GRAVE] 	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+15:40:57 [INFOS] Using standard Java JCE cipher.
+15:40:57 [INFOS] Using standard Java compressor.
+15:40:57 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.19-R0.1-SNAPSHOT:19424ab:1678
+15:40:57 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+15:40:57 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+15:40:57 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+15:40:57 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+15:40:57 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+15:40:57 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+15:40:57 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:40:57 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:40:57 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:40:57 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:40:57 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:40:57 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:40:57 [GRAVE] Exception in thread "main" 
+15:40:57 [GRAVE] java.lang.ClassCastException: java.lang.String cannot be cast to java.util.Map
+15:40:57 [GRAVE] 	at net.md_5.bungee.conf.YamlConfig.getListeners(YamlConfig.java:253)
+15:40:57 [GRAVE] 	at net.md_5.bungee.conf.Configuration.load(Configuration.java:89)
+15:40:57 [GRAVE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:282)
+15:40:57 [GRAVE] 	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:67)
+15:40:57 [GRAVE] 	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+16:20:09 [INFOS] Using standard Java JCE cipher.
+16:20:09 [INFOS] Using standard Java compressor.
+16:20:09 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.19-R0.1-SNAPSHOT:19424ab:1678
+16:20:09 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+16:20:09 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+16:20:09 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+16:20:09 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+16:20:09 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+16:20:09 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+16:20:09 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:20:09 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:20:09 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:20:09 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:20:09 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:20:09 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:20:09 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:20:09 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:20:09 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:20:09 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:20:09 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:20:09 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:20:10 [INFOS] Listening on /0.0.0.0:25565
+16:20:27 [INFOS] Closing listener [id: 0x7b84bfe0, L:/0:0:0:0:0:0:0:0:25565]
+16:20:27 [INFOS] Closing pending connections
+16:20:27 [INFOS] Disconnecting 0 connections
+16:20:28 [INFOS] Saving reconnect locations
+16:20:28 [INFOS] Disabling plugins
+16:20:28 [INFOS] Closing IO threads
+16:40:20 [INFOS] Using standard Java JCE cipher.
+16:40:20 [INFOS] Using standard Java compressor.
+16:40:20 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.19-R0.1-SNAPSHOT:19424ab:1678
+16:40:20 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+16:40:20 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+16:40:20 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+16:40:20 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+16:40:20 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+16:40:20 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+16:40:20 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:40:20 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:40:20 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:40:20 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:40:20 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:40:20 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:40:20 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:40:20 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:40:20 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:40:20 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:40:20 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:40:20 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:40:21 [INFOS] Listening on /0.0.0.0:25565
+16:40:34 [INFOS] [/127.0.0.1:50457] <-> InitialHandler has connected
+16:40:35 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+16:40:35 [INFOS] [Midey1901] disconnected with: §cKicked whilst connecting to Lobby: §fIf you wish to use IP forwarding, please enable it in your BungeeCord config as well!
+16:40:35 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+16:40:35 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has disconnected
+16:40:36 [INFOS] [/127.0.0.1:50460] <-> InitialHandler has connected
+16:40:37 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+16:40:37 [INFOS] [Midey1901] disconnected with: §cKicked whilst connecting to Lobby: §fIf you wish to use IP forwarding, please enable it in your BungeeCord config as well!
+16:40:37 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+16:40:37 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has disconnected
+16:40:39 [INFOS] [/127.0.0.1:50463] <-> InitialHandler has connected
+16:40:39 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+16:40:39 [INFOS] [Midey1901] disconnected with: §cKicked whilst connecting to Lobby: §fIf you wish to use IP forwarding, please enable it in your BungeeCord config as well!
+16:40:39 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+16:40:39 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has disconnected
+16:42:47 [INFOS] [/127.0.0.1:50514] <-> InitialHandler has pinged
+16:44:38 [INFOS] [/127.0.0.1:50552] <-> InitialHandler has connected
+16:44:38 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+16:44:38 [INFOS] [Midey1901] disconnected with: §cKicked whilst connecting to Lobby: §fIf you wish to use IP forwarding, please enable it in your BungeeCord config as well!
+16:44:38 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+16:44:38 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has disconnected
+16:45:00 [INFOS] [/127.0.0.1:50562] <-> InitialHandler has pinged
+16:45:02 [INFOS] [/127.0.0.1:50566] <-> InitialHandler has connected
+16:45:02 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+16:45:02 [INFOS] [Midey1901] disconnected with: §cKicked whilst connecting to Lobby: §fIf you wish to use IP forwarding, please enable it in your BungeeCord config as well!
+16:45:02 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+16:45:02 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has disconnected
+16:45:04 [INFOS] [/127.0.0.1:50571] <-> InitialHandler has connected
+16:45:04 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+16:45:04 [INFOS] [Midey1901] disconnected with: §cKicked whilst connecting to Lobby: §fIf you wish to use IP forwarding, please enable it in your BungeeCord config as well!
+16:45:04 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+16:45:04 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has disconnected
+16:45:06 [INFOS] [/127.0.0.1:50574] <-> InitialHandler has connected
+16:45:07 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+16:45:07 [INFOS] [Midey1901] disconnected with: §cKicked whilst connecting to Lobby: §fIf you wish to use IP forwarding, please enable it in your BungeeCord config as well!
+16:45:07 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+16:45:07 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has disconnected
+16:45:17 [INFOS] Closing listener [id: 0x58447eac, L:/0:0:0:0:0:0:0:0:25565]
+16:45:17 [INFOS] Closing pending connections
+16:45:17 [INFOS] Disconnecting 0 connections
+16:45:17 [INFOS] Saving reconnect locations
+16:45:17 [INFOS] Disabling plugins
+16:45:17 [INFOS] Closing IO threads
+16:45:19 [INFOS] Thank you and goodbye
+16:45:22 [INFOS] Using standard Java JCE cipher.
+16:45:22 [INFOS] Using standard Java compressor.
+16:45:22 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.19-R0.1-SNAPSHOT:19424ab:1678
+16:45:23 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+16:45:23 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+16:45:23 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+16:45:23 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+16:45:23 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+16:45:23 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+16:45:23 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:45:23 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:45:23 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:45:23 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:45:23 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:45:23 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:45:23 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:45:23 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:45:23 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:45:23 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:45:23 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:45:23 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:45:23 [INFOS] Listening on /0.0.0.0:25565
+16:45:33 [INFOS] [/127.0.0.1:50624] <-> InitialHandler has connected
+16:45:34 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+16:45:34 [INFOS] [Midey1901] disconnected with: §cKicked whilst connecting to Lobby: §fIf you wish to use IP forwarding, please enable it in your BungeeCord config as well!
+16:45:34 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+16:45:34 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has disconnected
+16:45:40 [INFOS] [/127.0.0.1:50628] <-> InitialHandler has connected
+16:45:40 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+16:45:40 [INFOS] [Midey1901] disconnected with: §cKicked whilst connecting to Lobby: §fIf you wish to use IP forwarding, please enable it in your BungeeCord config as well!
+16:45:40 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+16:45:40 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has disconnected
+16:46:52 [INFOS] [/127.0.0.1:50658] <-> InitialHandler has connected
+16:46:52 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+16:46:52 [INFOS] [Midey1901] disconnected with: §cKicked whilst connecting to Lobby: §fIf you wish to use IP forwarding, please enable it in your BungeeCord config as well!
+16:46:52 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+16:46:52 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has disconnected
+16:47:01 [INFOS] Closing listener [id: 0x9bab6c85, L:/0:0:0:0:0:0:0:0:25565]
+16:47:01 [INFOS] Closing pending connections
+16:47:01 [INFOS] Disconnecting 0 connections
+16:47:01 [INFOS] Saving reconnect locations
+16:47:01 [INFOS] Disabling plugins
+16:47:01 [INFOS] Closing IO threads
+16:47:03 [INFOS] Thank you and goodbye
+16:47:09 [INFOS] Using standard Java JCE cipher.
+16:47:09 [INFOS] Using standard Java compressor.
+16:47:09 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.19-R0.1-SNAPSHOT:19424ab:1678
+16:47:09 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+16:47:09 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+16:47:09 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+16:47:09 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+16:47:09 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+16:47:09 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+16:47:09 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:47:09 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:47:09 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:47:09 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:47:09 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:47:09 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:47:09 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:47:09 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:47:09 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:47:09 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:47:09 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:47:09 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:47:10 [INFOS] Listening on /0.0.0.0:25565
+16:47:18 [INFOS] [/127.0.0.1:50707] <-> InitialHandler has connected
+16:47:19 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+16:47:19 [INFOS] [Midey1901] disconnected with: §cKicked whilst connecting to Lobby: §fIf you wish to use IP forwarding, please enable it in your BungeeCord config as well!
+16:47:19 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+16:47:19 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has disconnected
+16:47:24 [INFOS] [/127.0.0.1:50714] <-> InitialHandler has pinged
+16:49:42 [INFOS] [/127.0.0.1:50776] <-> InitialHandler has pinged
+16:49:43 [INFOS] [Midey1901,/127.0.0.1:50778] <-> InitialHandler has connected
+16:49:44 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+16:49:44 [INFOS] [Midey1901] disconnected with: §cKicked whilst connecting to Lobby: §fIf you wish to use IP forwarding, please enable it in your BungeeCord config as well!
+16:49:44 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+16:49:44 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has disconnected
+16:51:45 [INFOS] Closing listener [id: 0xd1c11377, L:/0:0:0:0:0:0:0:0:25565]
+16:51:45 [INFOS] Closing pending connections
+16:51:45 [INFOS] Disconnecting 0 connections
+16:51:45 [INFOS] Saving reconnect locations
+16:51:45 [INFOS] Disabling plugins
+16:51:45 [INFOS] Closing IO threads
+16:52:24 [INFOS] Using standard Java JCE cipher.
+16:52:24 [INFOS] Using standard Java compressor.
+16:52:24 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.19-R0.1-SNAPSHOT:19424ab:1678
+16:52:24 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+16:52:24 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+16:52:24 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+16:52:24 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+16:52:24 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+16:52:24 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+16:52:24 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:52:24 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:52:24 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:52:24 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:52:24 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:52:24 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:52:24 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:52:24 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:52:24 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:52:24 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:52:24 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:52:24 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:52:25 [INFOS] Listening on /0.0.0.0:25565
+16:52:38 [INFOS] [/127.0.0.1:50878] <-> InitialHandler has connected
+16:52:38 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+16:52:38 [INFOS] [Midey1901] disconnected with: §cKicked whilst connecting to Lobby: §fIf you wish to use IP forwarding, please enable it in your BungeeCord config as well!
+16:52:38 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+16:52:38 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has disconnected
+16:52:40 [INFOS] [/127.0.0.1:50880] <-> InitialHandler has connected
+16:52:41 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+16:52:41 [INFOS] [Midey1901] disconnected with: §cKicked whilst connecting to Lobby: §fIf you wish to use IP forwarding, please enable it in your BungeeCord config as well!
+16:52:41 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+16:52:41 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has disconnected
+16:52:51 [INFOS] [/127.0.0.1:50883] <-> InitialHandler has connected
+16:52:51 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+16:52:51 [INFOS] [Midey1901] disconnected with: §cKicked whilst connecting to Lobby: §fIf you wish to use IP forwarding, please enable it in your BungeeCord config as well!
+16:52:51 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+16:52:51 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has disconnected
+16:52:54 [INFOS] [/127.0.0.1:50886] <-> InitialHandler has connected
+16:52:54 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+16:52:54 [INFOS] [Midey1901] disconnected with: §cKicked whilst connecting to Lobby: §fIf you wish to use IP forwarding, please enable it in your BungeeCord config as well!
+16:52:54 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+16:52:54 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has disconnected
+16:53:00 [INFOS] Closing listener [id: 0x0f53f266, L:/0:0:0:0:0:0:0:0:25565]
+16:53:00 [INFOS] Closing pending connections
+16:53:00 [INFOS] Disconnecting 0 connections
+16:53:00 [INFOS] Saving reconnect locations
+16:53:00 [INFOS] Disabling plugins
+16:53:00 [INFOS] Closing IO threads
+16:53:03 [INFOS] Thank you and goodbye
