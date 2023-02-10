@@ -424,3 +424,127 @@ java.net.BindException: Address already in use: bind
 16:53:00 [INFOS] Disabling plugins
 16:53:00 [INFOS] Closing IO threads
 16:53:03 [INFOS] Thank you and goodbye
+19:00:06 [INFOS] Using standard Java JCE cipher.
+19:00:06 [INFOS] Using standard Java compressor.
+19:00:06 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.19-R0.1-SNAPSHOT:19424ab:1678
+19:00:06 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+19:00:06 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+19:00:06 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+19:00:06 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+19:00:06 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+19:00:06 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+19:00:06 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+19:00:06 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+19:00:06 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+19:00:06 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+19:00:06 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+19:00:06 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+19:00:06 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+19:00:06 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+19:00:06 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+19:00:06 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+19:00:06 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+19:00:06 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+19:00:06 [INFOS] Listening on /0.0.0.0:25565
+19:02:03 [INFOS] [/127.0.0.1:64227] <-> InitialHandler has connected
+19:02:03 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+19:02:03 [INFOS] [Midey1901] disconnected with: §cKicked whilst connecting to Lobby: §fIf you wish to use IP forwarding, please enable it in your BungeeCord config as well!
+19:02:03 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+19:02:03 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has disconnected
+19:16:25 [INFOS] Closing listener [id: 0xb8668c1a, L:/0:0:0:0:0:0:0:0:25565]
+19:16:25 [INFOS] Closing pending connections
+19:16:25 [INFOS] Disconnecting 0 connections
+19:16:26 [INFOS] Saving reconnect locations
+19:16:26 [INFOS] Disabling plugins
+19:16:26 [INFOS] Closing IO threads
+19:16:28 [INFOS] Thank you and goodbye
+19:16:45 [INFOS] Using standard Java JCE cipher.
+19:16:45 [INFOS] Using standard Java compressor.
+19:16:45 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.19-R0.1-SNAPSHOT:19424ab:1678
+19:16:45 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+19:16:45 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+19:16:45 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+19:16:45 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+19:16:45 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+19:16:45 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+19:16:45 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+19:16:45 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+19:16:45 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+19:16:45 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+19:16:45 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+19:16:45 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+19:16:45 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+19:16:45 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+19:16:45 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+19:16:45 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+19:16:45 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+19:16:45 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+19:16:46 [INFOS] Listening on /0.0.0.0:25565
+19:16:52 [INFOS] [/127.0.0.1:57011] <-> InitialHandler has connected
+19:16:52 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+19:17:06 [INFOS] [Midey1901] <-> ServerConnector [Yavin] has connected
+19:17:06 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+19:17:17 [INFOS] [Midey1901] <-> ServerConnector [Korriban] has connected
+19:17:17 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Yavin] has disconnected
+19:17:22 [INFOS] [Midey1901] <-> ServerConnector [Corucentre] has connected
+19:17:22 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Korriban] has disconnected
+19:17:24 [INFOS] [Midey1901] <-> ServerConnector [Korriban] has connected
+19:17:24 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Corucentre] has disconnected
+10:07:32 [INFOS] Closing listener [id: 0x2c819f21, L:/0:0:0:0:0:0:0:0:25565]
+10:07:32 [INFOS] Closing pending connections
+10:07:32 [INFOS] Disconnecting 1 connections
+10:07:32 [INFOS] [Midey1901] disconnected with: §cThe proxy server is restarting
+10:07:32 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Korriban] has disconnected
+10:07:32 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+10:07:32 [INFOS] Saving reconnect locations
+10:07:32 [INFOS] Disabling plugins
+10:07:32 [INFOS] Closing IO threads
+10:07:42 [INFOS] Using standard Java JCE cipher.
+10:07:42 [INFOS] Using standard Java compressor.
+10:07:42 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.19-R0.1-SNAPSHOT:19424ab:1678
+10:07:42 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+10:07:42 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+10:07:42 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+10:07:42 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+10:07:42 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+10:07:42 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+10:07:42 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+10:07:42 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+10:07:42 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+10:07:42 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+10:07:42 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+10:07:42 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+10:07:42 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+10:07:42 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+10:07:42 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+10:07:42 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+10:07:42 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+10:07:42 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+10:07:43 [INFOS] Listening on /0.0.0.0:25565
+10:07:56 [INFOS] [/127.0.0.1:54083] <-> InitialHandler has connected
+10:07:56 [INFOS] [Midey1901] <-> ServerConnector [Korriban] has connected
+10:07:59 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+10:07:59 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Korriban] has disconnected
+10:08:01 [INFOS] [Midey1901,/127.0.0.1:54085] <-> InitialHandler has connected
+10:08:01 [INFOS] [Midey1901] <-> ServerConnector [Korriban] has connected
+10:08:25 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+10:08:25 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Korriban] has disconnected
+10:08:27 [INFOS] [Midey1901,/127.0.0.1:52770] <-> InitialHandler has connected
+10:08:27 [INFOS] [Midey1901] <-> ServerConnector [Korriban] has connected
+10:08:57 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+10:08:57 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Korriban] has disconnected
+10:08:58 [INFOS] [Midey1901,/127.0.0.1:52778] <-> InitialHandler has connected
+10:08:58 [INFOS] [Midey1901] <-> ServerConnector [Korriban] has connected
+10:10:12 [AVERTISSEMENT] [Midey1901] <-> DownstreamBridge <-> [Korriban] - IOException: Une connexion existante a dû être fermée par l’hôte distant
+10:10:12 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Korriban] has disconnected
+10:10:12 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+10:10:20 [AVERTISSEMENT] [Midey1901] <-> DownstreamBridge <-> [Lobby] - IOException: Une connexion existante a dû être fermée par l’hôte distant
+10:10:20 [INFOS] [Midey1901] disconnected with: §fIOException : Une connexion existante a dû être fermée par l’hôte distant @ sun.nio.ch.SocketDispatcher:-2
+10:10:20 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+10:10:20 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+10:10:21 [INFOS] Closing listener [id: 0xb9c7d33a, L:/0:0:0:0:0:0:0:0:25565]
+10:10:21 [INFOS] Closing pending connections
+10:10:21 [INFOS] Disconnecting 0 connections
+10:10:22 [INFOS] Saving reconnect locations
+10:10:22 [INFOS] Disabling plugins
+10:10:22 [INFOS] Closing IO threads

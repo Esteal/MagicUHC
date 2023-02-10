@@ -33,7 +33,7 @@ server_connect_timeout: 5000
 timeout: 30000
 player_limit: 100
 prevent_proxy_connections: false
-ip_forward: false
+ip_forward: true
 groups:
   Midey1901:
   - admin
