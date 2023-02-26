@@ -1736,3 +1736,46 @@ java.net.BindException: Address already in use: bind
 00:18:49 [INFOS] Saving reconnect locations
 00:18:49 [INFOS] Disabling plugins
 00:18:49 [INFOS] Closing IO threads
+15:03:53 [INFOS] Using standard Java JCE cipher.
+15:03:53 [INFOS] Using standard Java compressor.
+15:03:53 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.19-R0.1-SNAPSHOT:19424ab:1678
+15:03:53 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+15:03:53 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+15:03:53 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+15:03:53 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+15:03:53 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+15:03:53 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+15:03:53 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:03:53 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:03:53 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:03:53 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:03:53 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:03:53 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:03:53 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:03:53 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:03:53 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:03:53 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:03:53 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:03:53 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:03:54 [INFOS] Listening on /0.0.0.0:25565
+15:04:19 [INFOS] [/127.0.0.1:50504] <-> InitialHandler has pinged
+15:04:21 [INFOS] [/127.0.0.1:50527] <-> InitialHandler has connected
+15:04:21 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+15:17:50 [INFOS] [/127.0.0.1:50716] <-> InitialHandler has pinged
+15:17:54 [INFOS] [/127.0.0.1:50750] <-> InitialHandler has connected
+15:17:54 [INFOS] [Arzodiacc] <-> ServerConnector [Lobby] has connected
+19:41:01 [AVERTISSEMENT] [Midey1901] -> UpstreamBridge - IOException: Une connexion existante a dû être fermée par l’hôte distant
+19:41:01 [INFOS] [Midey1901] disconnected with: §fIOException : Une connexion existante a dû être fermée par l’hôte distant @ sun.nio.ch.SocketDispatcher:-2
+19:41:01 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+19:41:01 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+19:41:02 [AVERTISSEMENT] [Arzodiacc] -> UpstreamBridge - IOException: Une connexion existante a dû être fermée par l’hôte distant
+19:41:02 [INFOS] [Arzodiacc] disconnected with: §fIOException : Une connexion existante a dû être fermée par l’hôte distant @ sun.nio.ch.SocketDispatcher:-2
+19:41:02 [INFOS] [Arzodiacc] <-> DownstreamBridge <-> [Lobby] has disconnected
+19:41:02 [INFOS] [Arzodiacc] -> UpstreamBridge has disconnected
+19:41:16 [INFOS] Closing listener [id: 0x70455b26, L:/0:0:0:0:0:0:0:0:25565]
+19:41:16 [INFOS] Closing pending connections
+19:41:16 [INFOS] Disconnecting 0 connections
+19:41:17 [INFOS] Saving reconnect locations
+19:41:17 [INFOS] Disabling plugins
+19:41:17 [INFOS] Closing IO threads
+19:41:17 [INFOS] §cCommand not found
