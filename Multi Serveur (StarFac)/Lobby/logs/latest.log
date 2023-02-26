@@ -1563,3 +1563,13 @@ Caused by: java.lang.ArrayIndexOutOfBoundsException: 3
 [00:40:22] [Server thread/INFO]: Le joueur [0;33;1mMidey1901[m vient de passer [0;36;1mApprenti jedi[m
 [00:40:39] [Server thread/INFO]: Midey1901 issued server command: /stat
 [00:40:40] [Server thread/INFO]: Midey1901 issued server command: /stats
+[00:48:31] [Server thread/INFO]: Stopping the server
+[00:48:31] [Server thread/INFO]: Stopping server
+[00:48:31] [Server thread/INFO]: [StarCraftStats] Disabling StarCraftStats v1.0
+[00:48:31] [Server thread/INFO]: Saving players
+[00:48:31] [Server thread/INFO]: Midey1901 lost connection: Server closed
+[00:48:31] [Server thread/INFO]: Midey1901 left the game.
+[00:48:32] [Server thread/INFO]: Saving worlds
+[00:48:32] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[00:48:32] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[00:48:32] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
