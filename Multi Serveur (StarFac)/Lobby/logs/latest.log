@@ -1,2 +1,2197 @@
-[10:10:12] [Thread-7/INFO]: UUID of player Midey1901 is 220ad524-76ba-3fd9-8db5-d7d2733679e1
-[10:10:12] [Server thread/INFO]: Midey1901[/127.0.0.1:49952] logged in with entity id 479 at ([world]-101.5, 80.0, 265.5)
+[00:01:13] [Server thread/INFO]: Midey1901 issued server command: /rl
+[00:01:13] [Server thread/INFO]: Midey1901: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[00:01:13] [Server thread/INFO]: Midey1901: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[00:01:13] [Server thread/INFO]: Debug logging is disabled
+[00:01:13] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:01:13] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:01:13] [Server thread/INFO]: -------- World Settings For [world] --------
+[00:01:13] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:01:13] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:01:13] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:01:13] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:01:13] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:01:13] [Server thread/INFO]: View Distance: 10
+[00:01:13] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:01:13] [Server thread/INFO]: Anti X-Ray: true
+[00:01:13] [Server thread/INFO]: 	Engine Mode: 1
+[00:01:13] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[00:01:13] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[00:01:13] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:01:13] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:01:13] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:01:13] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:01:13] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:01:13] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:01:13] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:01:13] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:01:13] [Server thread/INFO]: Mob Spawn Range: 4
+[00:01:13] [Server thread/INFO]: Max TNT Explosions: 100
+[00:01:13] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:01:13] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[00:01:13] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:01:13] [Server thread/INFO]: Random Lighting Updates: false
+[00:01:13] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:01:13] [Server thread/INFO]: Sending up to 10 chunks per packet
+[00:01:13] [Server thread/INFO]: Structure Info Saving: true
+[00:01:13] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[00:01:13] [Server thread/INFO]: Max Entity Collisions: 8
+[00:01:13] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[00:01:13] [Server thread/INFO]: Clear tick list: false
+[00:01:13] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:01:13] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[00:01:13] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:01:13] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:01:13] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:01:13] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:01:13] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:01:13] [Server thread/INFO]: View Distance: 10
+[00:01:13] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:01:13] [Server thread/INFO]: Anti X-Ray: true
+[00:01:13] [Server thread/INFO]: 	Engine Mode: 1
+[00:01:13] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[00:01:13] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[00:01:13] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:01:13] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:01:13] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:01:13] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:01:13] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:01:13] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:01:13] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:01:13] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:01:13] [Server thread/INFO]: Mob Spawn Range: 4
+[00:01:13] [Server thread/INFO]: Max TNT Explosions: 100
+[00:01:13] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:01:13] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[00:01:13] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:01:13] [Server thread/INFO]: Random Lighting Updates: false
+[00:01:13] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:01:13] [Server thread/INFO]: Sending up to 10 chunks per packet
+[00:01:13] [Server thread/INFO]: Structure Info Saving: true
+[00:01:13] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[00:01:13] [Server thread/INFO]: Max Entity Collisions: 8
+[00:01:13] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[00:01:13] [Server thread/INFO]: Clear tick list: false
+[00:01:13] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:01:13] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[00:01:13] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:01:13] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:01:13] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:01:13] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:01:13] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:01:13] [Server thread/INFO]: View Distance: 10
+[00:01:13] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:01:13] [Server thread/INFO]: Anti X-Ray: true
+[00:01:13] [Server thread/INFO]: 	Engine Mode: 1
+[00:01:13] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[00:01:13] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[00:01:13] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:01:13] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:01:13] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:01:13] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:01:13] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:01:13] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:01:13] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:01:13] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:01:13] [Server thread/INFO]: Mob Spawn Range: 4
+[00:01:13] [Server thread/INFO]: Max TNT Explosions: 100
+[00:01:13] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:01:13] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[00:01:13] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:01:13] [Server thread/INFO]: Random Lighting Updates: false
+[00:01:13] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:01:13] [Server thread/INFO]: Sending up to 10 chunks per packet
+[00:01:13] [Server thread/INFO]: Structure Info Saving: true
+[00:01:13] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[00:01:13] [Server thread/INFO]: Max Entity Collisions: 8
+[00:01:13] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[00:01:13] [Server thread/INFO]: Clear tick list: false
+[00:01:13] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:01:13] [Server thread/INFO]: [StarCraftStats] Disabling StarCraftStats v1.0
+[00:01:13] [Server thread/INFO]: [StarCraftStats] Loading StarCraftStats v1.0
+[00:01:13] [Server thread/INFO]: [StarCraftStats] Enabling StarCraftStats v1.0
+[00:01:14] [Server thread/INFO]: Succesfully connected to DB.
+[00:01:14] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:01:14] [Server thread/INFO]: Midey1901: [0;32;1mReload complete.[m
+[00:01:21] [Server thread/WARN]: [StarCraftStats] Task #1330 for StarCraftStats v1.0 generated an exception
+java.lang.IllegalArgumentException: Health must be between 0 and 20.0
+	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftLivingEntity.setHealth(CraftLivingEntity.java:83) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at fr.midey.starcraft.formParticle.Circle.drawCircle(Circle.java:81) ~[?:?]
+	at fr.midey.starcraft.Spell.BouclierDeForce$1.run(BouclierDeForce.java:52) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:723) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_321]
+[00:01:25] [Server thread/INFO]: Midey1901 issued server command: /rl
+[00:01:25] [Server thread/INFO]: Midey1901: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[00:01:25] [Server thread/INFO]: Midey1901: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[00:01:25] [Server thread/INFO]: Debug logging is disabled
+[00:01:25] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:01:25] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:01:25] [Server thread/INFO]: -------- World Settings For [world] --------
+[00:01:25] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:01:25] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:01:25] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:01:25] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:01:25] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:01:25] [Server thread/INFO]: View Distance: 10
+[00:01:25] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:01:25] [Server thread/INFO]: Anti X-Ray: true
+[00:01:25] [Server thread/INFO]: 	Engine Mode: 1
+[00:01:25] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[00:01:25] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[00:01:25] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:01:25] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:01:25] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:01:25] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:01:25] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:01:25] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:01:25] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:01:25] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:01:25] [Server thread/INFO]: Mob Spawn Range: 4
+[00:01:25] [Server thread/INFO]: Max TNT Explosions: 100
+[00:01:25] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:01:25] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[00:01:25] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:01:25] [Server thread/INFO]: Random Lighting Updates: false
+[00:01:25] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:01:25] [Server thread/INFO]: Sending up to 10 chunks per packet
+[00:01:25] [Server thread/INFO]: Structure Info Saving: true
+[00:01:25] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[00:01:25] [Server thread/INFO]: Max Entity Collisions: 8
+[00:01:25] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[00:01:25] [Server thread/INFO]: Clear tick list: false
+[00:01:25] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:01:25] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[00:01:25] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:01:25] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:01:25] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:01:25] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:01:25] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:01:25] [Server thread/INFO]: View Distance: 10
+[00:01:25] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:01:25] [Server thread/INFO]: Anti X-Ray: true
+[00:01:25] [Server thread/INFO]: 	Engine Mode: 1
+[00:01:25] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[00:01:25] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[00:01:25] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:01:25] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:01:25] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:01:25] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:01:25] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:01:25] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:01:25] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:01:25] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:01:25] [Server thread/INFO]: Mob Spawn Range: 4
+[00:01:25] [Server thread/INFO]: Max TNT Explosions: 100
+[00:01:25] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:01:25] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[00:01:25] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:01:25] [Server thread/INFO]: Random Lighting Updates: false
+[00:01:25] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:01:25] [Server thread/INFO]: Sending up to 10 chunks per packet
+[00:01:25] [Server thread/INFO]: Structure Info Saving: true
+[00:01:25] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[00:01:25] [Server thread/INFO]: Max Entity Collisions: 8
+[00:01:25] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[00:01:25] [Server thread/INFO]: Clear tick list: false
+[00:01:25] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:01:25] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[00:01:25] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:01:25] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:01:25] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:01:25] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:01:25] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:01:25] [Server thread/INFO]: View Distance: 10
+[00:01:25] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:01:25] [Server thread/INFO]: Anti X-Ray: true
+[00:01:25] [Server thread/INFO]: 	Engine Mode: 1
+[00:01:25] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[00:01:25] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[00:01:25] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:01:25] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:01:25] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:01:25] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:01:25] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:01:25] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:01:25] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:01:25] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:01:25] [Server thread/INFO]: Mob Spawn Range: 4
+[00:01:25] [Server thread/INFO]: Max TNT Explosions: 100
+[00:01:25] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:01:25] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[00:01:25] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:01:25] [Server thread/INFO]: Random Lighting Updates: false
+[00:01:25] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:01:25] [Server thread/INFO]: Sending up to 10 chunks per packet
+[00:01:25] [Server thread/INFO]: Structure Info Saving: true
+[00:01:25] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[00:01:25] [Server thread/INFO]: Max Entity Collisions: 8
+[00:01:25] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[00:01:25] [Server thread/INFO]: Clear tick list: false
+[00:01:25] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:01:25] [Server thread/INFO]: [StarCraftStats] Disabling StarCraftStats v1.0
+[00:01:25] [Server thread/INFO]: [StarCraftStats] Loading StarCraftStats v1.0
+[00:01:25] [Server thread/INFO]: [StarCraftStats] Enabling StarCraftStats v1.0
+[00:01:25] [Server thread/INFO]: Succesfully connected to DB.
+[00:01:25] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:01:25] [Server thread/INFO]: Midey1901: [0;32;1mReload complete.[m
+[00:01:29] [Server thread/WARN]: [StarCraftStats] Task #1335 for StarCraftStats v1.0 generated an exception
+java.lang.IllegalArgumentException: Health must be between 0 and 20.0
+	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftLivingEntity.setHealth(CraftLivingEntity.java:83) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at fr.midey.starcraft.formParticle.Circle.drawCircle(Circle.java:81) ~[?:?]
+	at fr.midey.starcraft.Spell.BouclierDeForce$1.run(BouclierDeForce.java:52) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:723) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_321]
+[00:01:29] [Server thread/WARN]: [StarCraftStats] Task #1335 for StarCraftStats v1.0 generated an exception
+java.lang.IllegalArgumentException: Health must be between 0 and 20.0
+	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftLivingEntity.setHealth(CraftLivingEntity.java:83) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at fr.midey.starcraft.formParticle.Circle.drawCircle(Circle.java:81) ~[?:?]
+	at fr.midey.starcraft.Spell.BouclierDeForce$1.run(BouclierDeForce.java:52) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:723) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_321]
+[00:01:30] [Server thread/WARN]: [StarCraftStats] Task #1335 for StarCraftStats v1.0 generated an exception
+java.lang.IllegalArgumentException: Health must be between 0 and 20.0
+	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftLivingEntity.setHealth(CraftLivingEntity.java:83) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at fr.midey.starcraft.formParticle.Circle.drawCircle(Circle.java:81) ~[?:?]
+	at fr.midey.starcraft.Spell.BouclierDeForce$1.run(BouclierDeForce.java:52) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:723) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_321]
+[00:01:30] [Server thread/WARN]: [StarCraftStats] Task #1335 for StarCraftStats v1.0 generated an exception
+java.lang.IllegalArgumentException: Health must be between 0 and 20.0
+	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftLivingEntity.setHealth(CraftLivingEntity.java:83) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at fr.midey.starcraft.formParticle.Circle.drawCircle(Circle.java:81) ~[?:?]
+	at fr.midey.starcraft.Spell.BouclierDeForce$1.run(BouclierDeForce.java:52) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:723) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_321]
+[00:01:30] [Server thread/WARN]: [StarCraftStats] Task #1335 for StarCraftStats v1.0 generated an exception
+java.lang.IllegalArgumentException: Health must be between 0 and 20.0
+	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftLivingEntity.setHealth(CraftLivingEntity.java:83) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at fr.midey.starcraft.formParticle.Circle.drawCircle(Circle.java:81) ~[?:?]
+	at fr.midey.starcraft.Spell.BouclierDeForce$1.run(BouclierDeForce.java:52) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:723) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_321]
+[00:01:30] [Server thread/WARN]: [StarCraftStats] Task #1335 for StarCraftStats v1.0 generated an exception
+java.lang.IllegalArgumentException: Health must be between 0 and 20.0
+	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftLivingEntity.setHealth(CraftLivingEntity.java:83) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at fr.midey.starcraft.formParticle.Circle.drawCircle(Circle.java:81) ~[?:?]
+	at fr.midey.starcraft.Spell.BouclierDeForce$1.run(BouclierDeForce.java:52) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:723) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_321]
+[00:01:31] [Server thread/WARN]: [StarCraftStats] Task #1335 for StarCraftStats v1.0 generated an exception
+java.lang.IllegalArgumentException: Health must be between 0 and 20.0
+	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftLivingEntity.setHealth(CraftLivingEntity.java:83) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at fr.midey.starcraft.formParticle.Circle.drawCircle(Circle.java:81) ~[?:?]
+	at fr.midey.starcraft.Spell.BouclierDeForce$1.run(BouclierDeForce.java:52) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:723) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_321]
+[00:01:31] [Server thread/WARN]: [StarCraftStats] Task #1335 for StarCraftStats v1.0 generated an exception
+java.lang.IllegalArgumentException: Health must be between 0 and 20.0
+	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftLivingEntity.setHealth(CraftLivingEntity.java:83) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at fr.midey.starcraft.formParticle.Circle.drawCircle(Circle.java:81) ~[?:?]
+	at fr.midey.starcraft.Spell.BouclierDeForce$1.run(BouclierDeForce.java:52) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:723) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_321]
+[00:01:32] [Server thread/WARN]: [StarCraftStats] Task #1335 for StarCraftStats v1.0 generated an exception
+java.lang.IllegalArgumentException: Health must be between 0 and 20.0
+	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftLivingEntity.setHealth(CraftLivingEntity.java:83) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at fr.midey.starcraft.formParticle.Circle.drawCircle(Circle.java:81) ~[?:?]
+	at fr.midey.starcraft.Spell.BouclierDeForce$1.run(BouclierDeForce.java:52) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:723) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_321]
+[00:01:32] [Server thread/WARN]: [StarCraftStats] Task #1335 for StarCraftStats v1.0 generated an exception
+java.lang.IllegalArgumentException: Health must be between 0 and 20.0
+	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftLivingEntity.setHealth(CraftLivingEntity.java:83) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at fr.midey.starcraft.formParticle.Circle.drawCircle(Circle.java:81) ~[?:?]
+	at fr.midey.starcraft.Spell.BouclierDeForce$1.run(BouclierDeForce.java:52) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:723) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_321]
+[00:01:32] [Server thread/WARN]: [StarCraftStats] Task #1335 for StarCraftStats v1.0 generated an exception
+java.lang.IllegalArgumentException: Health must be between 0 and 20.0
+	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftLivingEntity.setHealth(CraftLivingEntity.java:83) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at fr.midey.starcraft.formParticle.Circle.drawCircle(Circle.java:81) ~[?:?]
+	at fr.midey.starcraft.Spell.BouclierDeForce$1.run(BouclierDeForce.java:52) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:723) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_321]
+[00:01:33] [Server thread/WARN]: [StarCraftStats] Task #1335 for StarCraftStats v1.0 generated an exception
+java.lang.IllegalArgumentException: Health must be between 0 and 20.0
+	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftLivingEntity.setHealth(CraftLivingEntity.java:83) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at fr.midey.starcraft.formParticle.Circle.drawCircle(Circle.java:81) ~[?:?]
+	at fr.midey.starcraft.Spell.BouclierDeForce$1.run(BouclierDeForce.java:52) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:723) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_321]
+[00:01:33] [Server thread/WARN]: [StarCraftStats] Task #1335 for StarCraftStats v1.0 generated an exception
+java.lang.IllegalArgumentException: Health must be between 0 and 20.0
+	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftLivingEntity.setHealth(CraftLivingEntity.java:83) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at fr.midey.starcraft.formParticle.Circle.drawCircle(Circle.java:81) ~[?:?]
+	at fr.midey.starcraft.Spell.BouclierDeForce$1.run(BouclierDeForce.java:52) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:723) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_321]
+[00:01:34] [Server thread/WARN]: [StarCraftStats] Task #1335 for StarCraftStats v1.0 generated an exception
+java.lang.IllegalArgumentException: Health must be between 0 and 20.0
+	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftLivingEntity.setHealth(CraftLivingEntity.java:83) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at fr.midey.starcraft.formParticle.Circle.drawCircle(Circle.java:81) ~[?:?]
+	at fr.midey.starcraft.Spell.BouclierDeForce$1.run(BouclierDeForce.java:52) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:723) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_321]
+[00:01:34] [Server thread/WARN]: [StarCraftStats] Task #1335 for StarCraftStats v1.0 generated an exception
+java.lang.IllegalArgumentException: Health must be between 0 and 20.0
+	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftLivingEntity.setHealth(CraftLivingEntity.java:83) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at fr.midey.starcraft.formParticle.Circle.drawCircle(Circle.java:81) ~[?:?]
+	at fr.midey.starcraft.Spell.BouclierDeForce$1.run(BouclierDeForce.java:52) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:723) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_321]
+[00:01:34] [Server thread/WARN]: [StarCraftStats] Task #1335 for StarCraftStats v1.0 generated an exception
+java.lang.IllegalArgumentException: Health must be between 0 and 20.0
+	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftLivingEntity.setHealth(CraftLivingEntity.java:83) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at fr.midey.starcraft.formParticle.Circle.drawCircle(Circle.java:81) ~[?:?]
+	at fr.midey.starcraft.Spell.BouclierDeForce$1.run(BouclierDeForce.java:52) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:723) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_321]
+[00:01:34] [Server thread/WARN]: [StarCraftStats] Task #1335 for StarCraftStats v1.0 generated an exception
+java.lang.IllegalArgumentException: Health must be between 0 and 20.0
+	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftLivingEntity.setHealth(CraftLivingEntity.java:83) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at fr.midey.starcraft.formParticle.Circle.drawCircle(Circle.java:81) ~[?:?]
+	at fr.midey.starcraft.Spell.BouclierDeForce$1.run(BouclierDeForce.java:52) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:723) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_321]
+[00:01:35] [Server thread/WARN]: [StarCraftStats] Task #1335 for StarCraftStats v1.0 generated an exception
+java.lang.IllegalArgumentException: Health must be between 0 and 20.0
+	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftLivingEntity.setHealth(CraftLivingEntity.java:83) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at fr.midey.starcraft.formParticle.Circle.drawCircle(Circle.java:81) ~[?:?]
+	at fr.midey.starcraft.Spell.BouclierDeForce$1.run(BouclierDeForce.java:52) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:723) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_321]
+[00:01:35] [Server thread/WARN]: [StarCraftStats] Task #1335 for StarCraftStats v1.0 generated an exception
+java.lang.IllegalArgumentException: Health must be between 0 and 20.0
+	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftLivingEntity.setHealth(CraftLivingEntity.java:83) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at fr.midey.starcraft.formParticle.Circle.drawCircle(Circle.java:81) ~[?:?]
+	at fr.midey.starcraft.Spell.BouclierDeForce$1.run(BouclierDeForce.java:52) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:723) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_321]
+[00:01:35] [Server thread/WARN]: [StarCraftStats] Task #1335 for StarCraftStats v1.0 generated an exception
+java.lang.IllegalArgumentException: Health must be between 0 and 20.0
+	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftLivingEntity.setHealth(CraftLivingEntity.java:83) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at fr.midey.starcraft.formParticle.Circle.drawCircle(Circle.java:81) ~[?:?]
+	at fr.midey.starcraft.Spell.BouclierDeForce$1.run(BouclierDeForce.java:52) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:723) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_321]
+[00:01:35] [Server thread/WARN]: [StarCraftStats] Task #1335 for StarCraftStats v1.0 generated an exception
+java.lang.IllegalArgumentException: Health must be between 0 and 20.0
+	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftLivingEntity.setHealth(CraftLivingEntity.java:83) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at fr.midey.starcraft.formParticle.Circle.drawCircle(Circle.java:81) ~[?:?]
+	at fr.midey.starcraft.Spell.BouclierDeForce$1.run(BouclierDeForce.java:52) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:723) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_321]
+[00:01:36] [Server thread/WARN]: [StarCraftStats] Task #1335 for StarCraftStats v1.0 generated an exception
+java.lang.IllegalArgumentException: Health must be between 0 and 20.0
+	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftLivingEntity.setHealth(CraftLivingEntity.java:83) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at fr.midey.starcraft.formParticle.Circle.drawCircle(Circle.java:81) ~[?:?]
+	at fr.midey.starcraft.Spell.BouclierDeForce$1.run(BouclierDeForce.java:52) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:723) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_321]
+[00:01:36] [Server thread/WARN]: [StarCraftStats] Task #1335 for StarCraftStats v1.0 generated an exception
+java.lang.IllegalArgumentException: Health must be between 0 and 20.0
+	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftLivingEntity.setHealth(CraftLivingEntity.java:83) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at fr.midey.starcraft.formParticle.Circle.drawCircle(Circle.java:81) ~[?:?]
+	at fr.midey.starcraft.Spell.BouclierDeForce$1.run(BouclierDeForce.java:52) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:723) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_321]
+[00:01:36] [Server thread/WARN]: [StarCraftStats] Task #1335 for StarCraftStats v1.0 generated an exception
+java.lang.IllegalArgumentException: Health must be between 0 and 20.0
+	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftLivingEntity.setHealth(CraftLivingEntity.java:83) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at fr.midey.starcraft.formParticle.Circle.drawCircle(Circle.java:81) ~[?:?]
+	at fr.midey.starcraft.Spell.BouclierDeForce$1.run(BouclierDeForce.java:52) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:723) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_321]
+[00:01:36] [Async Chat Thread - #0/INFO]: [0;36;1m[Chevalier jedi] [mMidey1901 - [0;37;22mt[m
+[00:01:36] [Server thread/WARN]: [StarCraftStats] Task #1335 for StarCraftStats v1.0 generated an exception
+java.lang.IllegalArgumentException: Health must be between 0 and 20.0
+	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftLivingEntity.setHealth(CraftLivingEntity.java:83) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at fr.midey.starcraft.formParticle.Circle.drawCircle(Circle.java:81) ~[?:?]
+	at fr.midey.starcraft.Spell.BouclierDeForce$1.run(BouclierDeForce.java:52) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:723) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_321]
+[00:01:37] [Server thread/WARN]: [StarCraftStats] Task #1335 for StarCraftStats v1.0 generated an exception
+java.lang.IllegalArgumentException: Health must be between 0 and 20.0
+	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftLivingEntity.setHealth(CraftLivingEntity.java:83) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at fr.midey.starcraft.formParticle.Circle.drawCircle(Circle.java:81) ~[?:?]
+	at fr.midey.starcraft.Spell.BouclierDeForce$1.run(BouclierDeForce.java:52) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:723) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_321]
+[00:01:37] [Server thread/WARN]: [StarCraftStats] Task #1335 for StarCraftStats v1.0 generated an exception
+java.lang.IllegalArgumentException: Health must be between 0 and 20.0
+	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftLivingEntity.setHealth(CraftLivingEntity.java:83) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at fr.midey.starcraft.formParticle.Circle.drawCircle(Circle.java:81) ~[?:?]
+	at fr.midey.starcraft.Spell.BouclierDeForce$1.run(BouclierDeForce.java:52) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:723) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_321]
+[00:01:37] [Server thread/WARN]: [StarCraftStats] Task #1335 for StarCraftStats v1.0 generated an exception
+java.lang.IllegalArgumentException: Health must be between 0 and 20.0
+	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftLivingEntity.setHealth(CraftLivingEntity.java:83) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at fr.midey.starcraft.formParticle.Circle.drawCircle(Circle.java:81) ~[?:?]
+	at fr.midey.starcraft.Spell.BouclierDeForce$1.run(BouclierDeForce.java:52) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:723) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_321]
+[00:01:37] [Server thread/WARN]: [StarCraftStats] Task #1335 for StarCraftStats v1.0 generated an exception
+java.lang.IllegalArgumentException: Health must be between 0 and 20.0
+	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftLivingEntity.setHealth(CraftLivingEntity.java:83) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at fr.midey.starcraft.formParticle.Circle.drawCircle(Circle.java:81) ~[?:?]
+	at fr.midey.starcraft.Spell.BouclierDeForce$1.run(BouclierDeForce.java:52) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:723) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_321]
+[00:01:38] [Server thread/WARN]: [StarCraftStats] Task #1335 for StarCraftStats v1.0 generated an exception
+java.lang.IllegalArgumentException: Health must be between 0 and 20.0
+	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftLivingEntity.setHealth(CraftLivingEntity.java:83) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at fr.midey.starcraft.formParticle.Circle.drawCircle(Circle.java:81) ~[?:?]
+	at fr.midey.starcraft.Spell.BouclierDeForce$1.run(BouclierDeForce.java:52) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:723) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_321]
+[00:02:01] [Server thread/INFO]: Arzodiacc issued server command: /gamemode 0
+[00:02:01] [Server thread/INFO]: [Arzodiacc: Set own game mode to Survival Mode]
+[00:02:09] [Server thread/INFO]: Arzodiacc issued server command: /gamemode 1
+[00:02:09] [Server thread/INFO]: [Arzodiacc: Set own game mode to Creative Mode]
+[00:02:39] [Server thread/WARN]: [StarCraftStats] Task #1337 for StarCraftStats v1.0 generated an exception
+java.lang.IllegalArgumentException: Health must be between 0 and 20.0
+	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftLivingEntity.setHealth(CraftLivingEntity.java:83) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at fr.midey.starcraft.formParticle.Circle.drawCircle(Circle.java:81) ~[?:?]
+	at fr.midey.starcraft.Spell.BouclierDeForce$1.run(BouclierDeForce.java:52) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:723) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_321]
+[00:02:44] [Server thread/INFO]: Arzodiacc issued server command: /gamemode 0
+[00:02:44] [Server thread/INFO]: [Arzodiacc: Set own game mode to Survival Mode]
+[00:02:47] [Server thread/WARN]: Arzodiacc moved wrongly!
+[00:02:49] [Server thread/WARN]: [StarCraftStats] Task #1337 for StarCraftStats v1.0 generated an exception
+java.lang.IllegalArgumentException: Health must be between 0 and 20.0
+	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftLivingEntity.setHealth(CraftLivingEntity.java:83) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at fr.midey.starcraft.formParticle.Circle.drawCircle(Circle.java:81) ~[?:?]
+	at fr.midey.starcraft.Spell.BouclierDeForce$1.run(BouclierDeForce.java:52) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:723) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) [spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_321]
+[00:09:01] [Server thread/INFO]: Midey1901 issued server command: /rl
+[00:09:01] [Server thread/INFO]: Midey1901: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[00:09:01] [Server thread/INFO]: Midey1901: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[00:09:01] [Server thread/INFO]: Debug logging is disabled
+[00:09:01] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:09:01] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:09:01] [Server thread/INFO]: -------- World Settings For [world] --------
+[00:09:01] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:09:01] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:09:01] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:09:01] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:09:01] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:09:01] [Server thread/INFO]: View Distance: 10
+[00:09:01] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:09:01] [Server thread/INFO]: Anti X-Ray: true
+[00:09:01] [Server thread/INFO]: 	Engine Mode: 1
+[00:09:01] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[00:09:01] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[00:09:01] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:09:01] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:09:01] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:09:01] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:09:01] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:09:01] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:09:01] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:09:01] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:09:01] [Server thread/INFO]: Mob Spawn Range: 4
+[00:09:01] [Server thread/INFO]: Max TNT Explosions: 100
+[00:09:01] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:09:01] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[00:09:01] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:09:01] [Server thread/INFO]: Random Lighting Updates: false
+[00:09:01] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:09:01] [Server thread/INFO]: Sending up to 10 chunks per packet
+[00:09:01] [Server thread/INFO]: Structure Info Saving: true
+[00:09:01] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[00:09:01] [Server thread/INFO]: Max Entity Collisions: 8
+[00:09:01] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[00:09:01] [Server thread/INFO]: Clear tick list: false
+[00:09:01] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:09:01] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[00:09:01] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:09:01] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:09:01] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:09:01] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:09:01] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:09:01] [Server thread/INFO]: View Distance: 10
+[00:09:01] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:09:01] [Server thread/INFO]: Anti X-Ray: true
+[00:09:01] [Server thread/INFO]: 	Engine Mode: 1
+[00:09:01] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[00:09:01] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[00:09:01] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:09:01] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:09:01] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:09:01] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:09:01] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:09:01] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:09:01] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:09:01] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:09:01] [Server thread/INFO]: Mob Spawn Range: 4
+[00:09:01] [Server thread/INFO]: Max TNT Explosions: 100
+[00:09:01] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:09:01] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[00:09:01] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:09:01] [Server thread/INFO]: Random Lighting Updates: false
+[00:09:01] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:09:01] [Server thread/INFO]: Sending up to 10 chunks per packet
+[00:09:01] [Server thread/INFO]: Structure Info Saving: true
+[00:09:01] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[00:09:01] [Server thread/INFO]: Max Entity Collisions: 8
+[00:09:01] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[00:09:01] [Server thread/INFO]: Clear tick list: false
+[00:09:01] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:09:01] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[00:09:01] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:09:01] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:09:01] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:09:01] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:09:01] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:09:01] [Server thread/INFO]: View Distance: 10
+[00:09:01] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:09:01] [Server thread/INFO]: Anti X-Ray: true
+[00:09:01] [Server thread/INFO]: 	Engine Mode: 1
+[00:09:01] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[00:09:01] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[00:09:01] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:09:01] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:09:01] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:09:01] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:09:01] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:09:01] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:09:01] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:09:01] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:09:01] [Server thread/INFO]: Mob Spawn Range: 4
+[00:09:01] [Server thread/INFO]: Max TNT Explosions: 100
+[00:09:01] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:09:01] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[00:09:01] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:09:01] [Server thread/INFO]: Random Lighting Updates: false
+[00:09:01] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:09:01] [Server thread/INFO]: Sending up to 10 chunks per packet
+[00:09:01] [Server thread/INFO]: Structure Info Saving: true
+[00:09:01] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[00:09:01] [Server thread/INFO]: Max Entity Collisions: 8
+[00:09:01] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[00:09:01] [Server thread/INFO]: Clear tick list: false
+[00:09:01] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:09:01] [Server thread/INFO]: [StarCraftStats] Disabling StarCraftStats v1.0
+[00:09:20] [Server thread/WARN]: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet successfully received from the server was 474 754 milliseconds ago.  The last packet sent successfully to the server was 19 190 milliseconds ago.
+[00:09:20] [Server thread/WARN]: 	at sun.reflect.GeneratedConstructorAccessor61.newInstance(Unknown Source)
+[00:09:20] [Server thread/WARN]: 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+[00:09:20] [Server thread/WARN]: 	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+[00:09:20] [Server thread/WARN]: 	at com.mysql.jdbc.Util.handleNewInstance(Util.java:407)
+[00:09:20] [Server thread/WARN]: 	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1116)
+[00:09:20] [Server thread/WARN]: 	at com.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:3082)
+[00:09:20] [Server thread/WARN]: 	at com.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:2968)
+[00:09:20] [Server thread/WARN]: 	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3516)
+[00:09:20] [Server thread/WARN]: 	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1986)
+[00:09:20] [Server thread/WARN]: 	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2140)
+[00:09:20] [Server thread/WARN]: 	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2626)
+[00:09:20] [Server thread/WARN]: 	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2111)
+[00:09:20] [Server thread/WARN]: 	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2407)
+[00:09:20] [Server thread/WARN]: 	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2325)
+[00:09:20] [Server thread/WARN]: 	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2310)
+[00:09:20] [Server thread/WARN]: 	at fr.midey.starcraft.mySQL.DbUpdate.updateBDD(DbUpdate.java:34)
+[00:09:20] [Server thread/WARN]: 	at fr.midey.starcraft.Stats.onDisable(Stats.java:138)
+[00:09:20] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:323)
+[00:09:20] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:364)
+[00:09:20] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:424)
+[00:09:20] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:417)
+[00:09:20] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.clearPlugins(SimplePluginManager.java:458)
+[00:09:20] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.reload(CraftServer.java:708)
+[00:09:20] [Server thread/WARN]: 	at org.bukkit.Bukkit.reload(Bukkit.java:535)
+[00:09:20] [Server thread/WARN]: 	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:25)
+[00:09:20] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141)
+[00:09:20] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.dispatchCommand(CraftServer.java:641)
+[00:09:20] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerConnection.handleCommand(PlayerConnection.java:1162)
+[00:09:20] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:997)
+[00:09:20] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.PacketPlayInChat.a(PacketPlayInChat.java:45)
+[00:09:20] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.PacketPlayInChat.a(PacketPlayInChat.java:1)
+[00:09:20] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13)
+[00:09:20] [Server thread/WARN]: 	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[00:09:20] [Server thread/WARN]: 	at java.util.concurrent.FutureTask.run(Unknown Source)
+[00:09:20] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44)
+[00:09:20] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:715)
+[00:09:20] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374)
+[00:09:20] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654)
+[00:09:20] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557)
+[00:09:20] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[00:09:20] [Server thread/WARN]: Caused by: java.net.SocketTimeoutException: Read timed out
+[00:09:20] [Server thread/WARN]: 	at java.net.SocketInputStream.socketRead0(Native Method)
+[00:09:20] [Server thread/WARN]: 	at java.net.SocketInputStream.socketRead(Unknown Source)
+[00:09:20] [Server thread/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[00:09:20] [Server thread/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[00:09:20] [Server thread/WARN]: 	at com.mysql.jdbc.util.ReadAheadInputStream.fill(ReadAheadInputStream.java:114)
+[00:09:20] [Server thread/WARN]: 	at com.mysql.jdbc.util.ReadAheadInputStream.readFromUnderlyingStreamIfNecessary(ReadAheadInputStream.java:161)
+[00:09:20] [Server thread/WARN]: 	at com.mysql.jdbc.util.ReadAheadInputStream.read(ReadAheadInputStream.java:189)
+[00:09:20] [Server thread/WARN]: 	at com.mysql.jdbc.MysqlIO.readFully(MysqlIO.java:2526)
+[00:09:20] [Server thread/WARN]: 	at com.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:2979)
+[00:09:20] [Server thread/WARN]: 	... 34 more
+[00:09:20] [Server thread/INFO]: Succesfully connected to DB.
+[00:09:20] [Server thread/INFO]: [StarCraftStats] Loading StarCraftStats v1.0
+[00:09:20] [Server thread/INFO]: [StarCraftStats] Enabling StarCraftStats v1.0
+[00:09:21] [Server thread/INFO]: Succesfully connected to DB.
+[00:09:21] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:09:21] [Server thread/INFO]: Midey1901: [0;32;1mReload complete.[m
+[00:09:21] [Server thread/INFO]: Midey1901 issued server command: /time set day
+[00:09:21] [Server thread/INFO]: [Midey1901: Set the time to 1000]
+[00:09:33] [Server thread/INFO]: CONSOLE: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[00:09:33] [Server thread/INFO]: CONSOLE: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[00:09:33] [Server thread/INFO]: Debug logging is disabled
+[00:09:33] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:09:33] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:09:33] [Server thread/INFO]: -------- World Settings For [world] --------
+[00:09:33] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:09:33] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:09:33] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:09:33] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:09:33] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:09:33] [Server thread/INFO]: View Distance: 10
+[00:09:33] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:09:33] [Server thread/INFO]: Anti X-Ray: true
+[00:09:33] [Server thread/INFO]: 	Engine Mode: 1
+[00:09:33] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[00:09:33] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[00:09:33] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:09:33] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:09:33] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:09:33] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:09:33] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:09:33] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:09:33] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:09:33] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:09:33] [Server thread/INFO]: Mob Spawn Range: 4
+[00:09:33] [Server thread/INFO]: Max TNT Explosions: 100
+[00:09:33] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:09:33] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[00:09:33] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:09:33] [Server thread/INFO]: Random Lighting Updates: false
+[00:09:33] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:09:33] [Server thread/INFO]: Sending up to 10 chunks per packet
+[00:09:33] [Server thread/INFO]: Structure Info Saving: true
+[00:09:33] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[00:09:33] [Server thread/INFO]: Max Entity Collisions: 8
+[00:09:33] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[00:09:33] [Server thread/INFO]: Clear tick list: false
+[00:09:33] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:09:33] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[00:09:33] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:09:33] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:09:33] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:09:33] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:09:33] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:09:33] [Server thread/INFO]: View Distance: 10
+[00:09:33] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:09:33] [Server thread/INFO]: Anti X-Ray: true
+[00:09:33] [Server thread/INFO]: 	Engine Mode: 1
+[00:09:33] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[00:09:33] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[00:09:33] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:09:33] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:09:33] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:09:33] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:09:33] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:09:33] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:09:33] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:09:33] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:09:33] [Server thread/INFO]: Mob Spawn Range: 4
+[00:09:33] [Server thread/INFO]: Max TNT Explosions: 100
+[00:09:33] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:09:33] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[00:09:33] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:09:33] [Server thread/INFO]: Random Lighting Updates: false
+[00:09:33] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:09:33] [Server thread/INFO]: Sending up to 10 chunks per packet
+[00:09:33] [Server thread/INFO]: Structure Info Saving: true
+[00:09:33] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[00:09:33] [Server thread/INFO]: Max Entity Collisions: 8
+[00:09:33] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[00:09:33] [Server thread/INFO]: Clear tick list: false
+[00:09:33] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:09:33] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[00:09:33] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:09:33] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:09:33] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:09:33] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:09:33] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:09:33] [Server thread/INFO]: View Distance: 10
+[00:09:33] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:09:33] [Server thread/INFO]: Anti X-Ray: true
+[00:09:33] [Server thread/INFO]: 	Engine Mode: 1
+[00:09:33] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[00:09:33] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[00:09:33] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:09:33] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:09:33] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:09:33] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:09:33] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:09:33] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:09:33] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:09:33] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:09:33] [Server thread/INFO]: Mob Spawn Range: 4
+[00:09:33] [Server thread/INFO]: Max TNT Explosions: 100
+[00:09:33] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:09:33] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[00:09:33] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:09:33] [Server thread/INFO]: Random Lighting Updates: false
+[00:09:33] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:09:33] [Server thread/INFO]: Sending up to 10 chunks per packet
+[00:09:33] [Server thread/INFO]: Structure Info Saving: true
+[00:09:33] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[00:09:33] [Server thread/INFO]: Max Entity Collisions: 8
+[00:09:33] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[00:09:33] [Server thread/INFO]: Clear tick list: false
+[00:09:33] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:09:33] [Server thread/INFO]: [StarCraftStats] Disabling StarCraftStats v1.0
+[00:09:33] [Server thread/INFO]: [StarCraftStats] Loading StarCraftStats v1.0
+[00:09:33] [Server thread/INFO]: [StarCraftStats] Enabling StarCraftStats v1.0
+[00:09:34] [Server thread/INFO]: Succesfully connected to DB.
+[00:09:34] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:09:34] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[00:09:42] [Server thread/INFO]: Arzodiacc fell from a high place
+[00:09:57] [Server thread/INFO]: Midey1901 issued server command: /tp Arzodiacc Midey1901
+[00:09:57] [Server thread/INFO]: [Midey1901: Teleported Arzodiacc to Midey1901]
+[00:10:13] [Server thread/INFO]: Midey1901 issued server command: /rl
+[00:10:13] [Server thread/INFO]: Midey1901: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[00:10:13] [Server thread/INFO]: Midey1901: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[00:10:13] [Server thread/INFO]: Debug logging is disabled
+[00:10:13] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:10:13] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:10:13] [Server thread/INFO]: -------- World Settings For [world] --------
+[00:10:13] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:10:13] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:10:13] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:10:13] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:10:13] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:10:13] [Server thread/INFO]: View Distance: 10
+[00:10:13] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:10:13] [Server thread/INFO]: Anti X-Ray: true
+[00:10:13] [Server thread/INFO]: 	Engine Mode: 1
+[00:10:13] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[00:10:13] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[00:10:13] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:10:13] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:10:13] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:10:13] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:10:13] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:10:13] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:10:13] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:10:13] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:10:13] [Server thread/INFO]: Mob Spawn Range: 4
+[00:10:13] [Server thread/INFO]: Max TNT Explosions: 100
+[00:10:13] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:10:13] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[00:10:13] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:10:13] [Server thread/INFO]: Random Lighting Updates: false
+[00:10:13] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:10:13] [Server thread/INFO]: Sending up to 10 chunks per packet
+[00:10:13] [Server thread/INFO]: Structure Info Saving: true
+[00:10:13] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[00:10:13] [Server thread/INFO]: Max Entity Collisions: 8
+[00:10:13] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[00:10:13] [Server thread/INFO]: Clear tick list: false
+[00:10:13] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:10:13] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[00:10:13] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:10:13] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:10:13] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:10:13] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:10:13] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:10:13] [Server thread/INFO]: View Distance: 10
+[00:10:13] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:10:13] [Server thread/INFO]: Anti X-Ray: true
+[00:10:13] [Server thread/INFO]: 	Engine Mode: 1
+[00:10:13] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[00:10:13] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[00:10:13] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:10:13] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:10:13] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:10:13] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:10:13] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:10:13] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:10:13] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:10:13] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:10:13] [Server thread/INFO]: Mob Spawn Range: 4
+[00:10:13] [Server thread/INFO]: Max TNT Explosions: 100
+[00:10:13] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:10:13] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[00:10:13] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:10:13] [Server thread/INFO]: Random Lighting Updates: false
+[00:10:13] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:10:13] [Server thread/INFO]: Sending up to 10 chunks per packet
+[00:10:13] [Server thread/INFO]: Structure Info Saving: true
+[00:10:13] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[00:10:13] [Server thread/INFO]: Max Entity Collisions: 8
+[00:10:13] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[00:10:13] [Server thread/INFO]: Clear tick list: false
+[00:10:13] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:10:13] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[00:10:13] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:10:13] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:10:13] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:10:13] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:10:13] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:10:13] [Server thread/INFO]: View Distance: 10
+[00:10:13] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:10:13] [Server thread/INFO]: Anti X-Ray: true
+[00:10:13] [Server thread/INFO]: 	Engine Mode: 1
+[00:10:13] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[00:10:13] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[00:10:13] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:10:13] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:10:13] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:10:13] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:10:13] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:10:13] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:10:13] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:10:13] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:10:13] [Server thread/INFO]: Mob Spawn Range: 4
+[00:10:13] [Server thread/INFO]: Max TNT Explosions: 100
+[00:10:13] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:10:13] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[00:10:13] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:10:13] [Server thread/INFO]: Random Lighting Updates: false
+[00:10:13] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:10:13] [Server thread/INFO]: Sending up to 10 chunks per packet
+[00:10:13] [Server thread/INFO]: Structure Info Saving: true
+[00:10:13] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[00:10:13] [Server thread/INFO]: Max Entity Collisions: 8
+[00:10:13] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[00:10:13] [Server thread/INFO]: Clear tick list: false
+[00:10:13] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:10:13] [Server thread/INFO]: [StarCraftStats] Disabling StarCraftStats v1.0
+[00:10:13] [Server thread/INFO]: [StarCraftStats] Loading StarCraftStats v1.0
+[00:10:13] [Server thread/INFO]: [StarCraftStats] Enabling StarCraftStats v1.0
+[00:10:13] [Server thread/INFO]: Succesfully connected to DB.
+[00:10:13] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:10:13] [Server thread/INFO]: Midey1901: [0;32;1mReload complete.[m
+[00:10:28] [Server thread/INFO]: CONSOLE: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[00:10:28] [Server thread/INFO]: CONSOLE: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[00:10:28] [Server thread/INFO]: Debug logging is disabled
+[00:10:28] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:10:28] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:10:28] [Server thread/INFO]: -------- World Settings For [world] --------
+[00:10:28] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:10:28] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:10:28] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:10:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:10:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:10:28] [Server thread/INFO]: View Distance: 10
+[00:10:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:10:28] [Server thread/INFO]: Anti X-Ray: true
+[00:10:28] [Server thread/INFO]: 	Engine Mode: 1
+[00:10:28] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[00:10:28] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[00:10:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:10:28] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:10:28] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:10:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:10:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:10:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:10:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:10:28] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:10:28] [Server thread/INFO]: Mob Spawn Range: 4
+[00:10:28] [Server thread/INFO]: Max TNT Explosions: 100
+[00:10:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:10:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[00:10:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:10:28] [Server thread/INFO]: Random Lighting Updates: false
+[00:10:28] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:10:28] [Server thread/INFO]: Sending up to 10 chunks per packet
+[00:10:28] [Server thread/INFO]: Structure Info Saving: true
+[00:10:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[00:10:28] [Server thread/INFO]: Max Entity Collisions: 8
+[00:10:28] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[00:10:28] [Server thread/INFO]: Clear tick list: false
+[00:10:28] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:10:28] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[00:10:28] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:10:28] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:10:28] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:10:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:10:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:10:28] [Server thread/INFO]: View Distance: 10
+[00:10:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:10:28] [Server thread/INFO]: Anti X-Ray: true
+[00:10:28] [Server thread/INFO]: 	Engine Mode: 1
+[00:10:28] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[00:10:28] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[00:10:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:10:28] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:10:28] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:10:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:10:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:10:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:10:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:10:28] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:10:28] [Server thread/INFO]: Mob Spawn Range: 4
+[00:10:28] [Server thread/INFO]: Max TNT Explosions: 100
+[00:10:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:10:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[00:10:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:10:28] [Server thread/INFO]: Random Lighting Updates: false
+[00:10:28] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:10:28] [Server thread/INFO]: Sending up to 10 chunks per packet
+[00:10:28] [Server thread/INFO]: Structure Info Saving: true
+[00:10:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[00:10:28] [Server thread/INFO]: Max Entity Collisions: 8
+[00:10:28] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[00:10:28] [Server thread/INFO]: Clear tick list: false
+[00:10:28] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:10:28] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[00:10:28] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:10:28] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:10:28] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:10:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:10:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:10:28] [Server thread/INFO]: View Distance: 10
+[00:10:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:10:28] [Server thread/INFO]: Anti X-Ray: true
+[00:10:28] [Server thread/INFO]: 	Engine Mode: 1
+[00:10:28] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[00:10:28] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[00:10:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:10:28] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:10:28] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:10:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:10:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:10:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:10:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:10:28] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:10:28] [Server thread/INFO]: Mob Spawn Range: 4
+[00:10:28] [Server thread/INFO]: Max TNT Explosions: 100
+[00:10:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:10:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[00:10:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:10:28] [Server thread/INFO]: Random Lighting Updates: false
+[00:10:28] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:10:28] [Server thread/INFO]: Sending up to 10 chunks per packet
+[00:10:28] [Server thread/INFO]: Structure Info Saving: true
+[00:10:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[00:10:28] [Server thread/INFO]: Max Entity Collisions: 8
+[00:10:28] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[00:10:28] [Server thread/INFO]: Clear tick list: false
+[00:10:28] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:10:28] [Server thread/INFO]: [StarCraftStats] Disabling StarCraftStats v1.0
+[00:10:28] [Server thread/INFO]: [StarCraftStats] Loading StarCraftStats v1.0
+[00:10:28] [Server thread/INFO]: [StarCraftStats] Enabling StarCraftStats v1.0
+[00:10:29] [Server thread/INFO]: Succesfully connected to DB.
+[00:10:29] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:10:29] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[00:11:23] [Server thread/INFO]: Midey1901 issued server command: /rl
+[00:11:23] [Server thread/INFO]: Midey1901: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[00:11:23] [Server thread/INFO]: Midey1901: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[00:11:23] [Server thread/INFO]: Debug logging is disabled
+[00:11:23] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:11:23] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:11:23] [Server thread/INFO]: -------- World Settings For [world] --------
+[00:11:23] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:11:23] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:11:23] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:11:23] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:11:23] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:11:23] [Server thread/INFO]: View Distance: 10
+[00:11:23] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:11:23] [Server thread/INFO]: Anti X-Ray: true
+[00:11:23] [Server thread/INFO]: 	Engine Mode: 1
+[00:11:23] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[00:11:23] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[00:11:23] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:11:23] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:11:23] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:11:23] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:11:23] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:11:23] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:11:23] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:11:23] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:11:23] [Server thread/INFO]: Mob Spawn Range: 4
+[00:11:23] [Server thread/INFO]: Max TNT Explosions: 100
+[00:11:23] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:11:23] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[00:11:23] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:11:23] [Server thread/INFO]: Random Lighting Updates: false
+[00:11:23] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:11:23] [Server thread/INFO]: Sending up to 10 chunks per packet
+[00:11:23] [Server thread/INFO]: Structure Info Saving: true
+[00:11:23] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[00:11:23] [Server thread/INFO]: Max Entity Collisions: 8
+[00:11:23] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[00:11:23] [Server thread/INFO]: Clear tick list: false
+[00:11:23] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:11:23] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[00:11:23] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:11:23] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:11:23] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:11:23] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:11:23] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:11:23] [Server thread/INFO]: View Distance: 10
+[00:11:23] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:11:23] [Server thread/INFO]: Anti X-Ray: true
+[00:11:23] [Server thread/INFO]: 	Engine Mode: 1
+[00:11:23] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[00:11:23] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[00:11:23] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:11:23] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:11:23] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:11:23] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:11:23] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:11:23] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:11:23] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:11:23] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:11:23] [Server thread/INFO]: Mob Spawn Range: 4
+[00:11:23] [Server thread/INFO]: Max TNT Explosions: 100
+[00:11:23] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:11:23] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[00:11:23] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:11:23] [Server thread/INFO]: Random Lighting Updates: false
+[00:11:23] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:11:23] [Server thread/INFO]: Sending up to 10 chunks per packet
+[00:11:23] [Server thread/INFO]: Structure Info Saving: true
+[00:11:23] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[00:11:23] [Server thread/INFO]: Max Entity Collisions: 8
+[00:11:23] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[00:11:23] [Server thread/INFO]: Clear tick list: false
+[00:11:23] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:11:23] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[00:11:23] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:11:23] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:11:23] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:11:23] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:11:23] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:11:23] [Server thread/INFO]: View Distance: 10
+[00:11:23] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:11:23] [Server thread/INFO]: Anti X-Ray: true
+[00:11:23] [Server thread/INFO]: 	Engine Mode: 1
+[00:11:23] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[00:11:23] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[00:11:23] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:11:23] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:11:23] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:11:23] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:11:23] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:11:23] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:11:23] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:11:23] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:11:23] [Server thread/INFO]: Mob Spawn Range: 4
+[00:11:23] [Server thread/INFO]: Max TNT Explosions: 100
+[00:11:23] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:11:23] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[00:11:23] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:11:23] [Server thread/INFO]: Random Lighting Updates: false
+[00:11:23] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:11:23] [Server thread/INFO]: Sending up to 10 chunks per packet
+[00:11:23] [Server thread/INFO]: Structure Info Saving: true
+[00:11:23] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[00:11:23] [Server thread/INFO]: Max Entity Collisions: 8
+[00:11:23] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[00:11:23] [Server thread/INFO]: Clear tick list: false
+[00:11:23] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:11:23] [Server thread/INFO]: [StarCraftStats] Disabling StarCraftStats v1.0
+[00:11:23] [Server thread/INFO]: [StarCraftStats] Loading StarCraftStats v1.0
+[00:11:23] [Server thread/INFO]: [StarCraftStats] Enabling StarCraftStats v1.0
+[00:11:23] [Server thread/INFO]: Succesfully connected to DB.
+[00:11:23] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:11:23] [Server thread/INFO]: Midey1901: [0;32;1mReload complete.[m
+[00:12:26] [Server thread/INFO]: Arzodiacc issued server command: /rl
+[00:12:26] [Server thread/INFO]: Arzodiacc: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[00:12:26] [Server thread/INFO]: Arzodiacc: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[00:12:26] [Server thread/INFO]: Debug logging is disabled
+[00:12:26] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:12:26] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:12:26] [Server thread/INFO]: -------- World Settings For [world] --------
+[00:12:26] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:12:26] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:12:26] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:12:26] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:12:26] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:12:26] [Server thread/INFO]: View Distance: 10
+[00:12:26] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:12:26] [Server thread/INFO]: Anti X-Ray: true
+[00:12:26] [Server thread/INFO]: 	Engine Mode: 1
+[00:12:26] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[00:12:26] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[00:12:26] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:12:26] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:12:26] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:12:26] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:12:26] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:12:26] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:12:26] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:12:26] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:12:26] [Server thread/INFO]: Mob Spawn Range: 4
+[00:12:26] [Server thread/INFO]: Max TNT Explosions: 100
+[00:12:26] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:12:26] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[00:12:26] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:12:26] [Server thread/INFO]: Random Lighting Updates: false
+[00:12:26] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:12:26] [Server thread/INFO]: Sending up to 10 chunks per packet
+[00:12:26] [Server thread/INFO]: Structure Info Saving: true
+[00:12:26] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[00:12:26] [Server thread/INFO]: Max Entity Collisions: 8
+[00:12:26] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[00:12:26] [Server thread/INFO]: Clear tick list: false
+[00:12:26] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:12:26] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[00:12:26] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:12:26] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:12:26] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:12:26] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:12:26] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:12:26] [Server thread/INFO]: View Distance: 10
+[00:12:26] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:12:26] [Server thread/INFO]: Anti X-Ray: true
+[00:12:26] [Server thread/INFO]: 	Engine Mode: 1
+[00:12:26] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[00:12:26] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[00:12:26] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:12:26] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:12:26] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:12:26] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:12:26] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:12:26] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:12:26] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:12:26] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:12:26] [Server thread/INFO]: Mob Spawn Range: 4
+[00:12:26] [Server thread/INFO]: Max TNT Explosions: 100
+[00:12:26] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:12:26] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[00:12:26] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:12:26] [Server thread/INFO]: Random Lighting Updates: false
+[00:12:26] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:12:26] [Server thread/INFO]: Sending up to 10 chunks per packet
+[00:12:26] [Server thread/INFO]: Structure Info Saving: true
+[00:12:26] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[00:12:26] [Server thread/INFO]: Max Entity Collisions: 8
+[00:12:26] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[00:12:26] [Server thread/INFO]: Clear tick list: false
+[00:12:26] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:12:26] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[00:12:26] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:12:26] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:12:26] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:12:26] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:12:26] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:12:26] [Server thread/INFO]: View Distance: 10
+[00:12:26] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:12:26] [Server thread/INFO]: Anti X-Ray: true
+[00:12:26] [Server thread/INFO]: 	Engine Mode: 1
+[00:12:26] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[00:12:26] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[00:12:26] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:12:26] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:12:26] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:12:26] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:12:26] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:12:26] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:12:26] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:12:26] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:12:26] [Server thread/INFO]: Mob Spawn Range: 4
+[00:12:26] [Server thread/INFO]: Max TNT Explosions: 100
+[00:12:26] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:12:26] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[00:12:26] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:12:26] [Server thread/INFO]: Random Lighting Updates: false
+[00:12:26] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:12:26] [Server thread/INFO]: Sending up to 10 chunks per packet
+[00:12:26] [Server thread/INFO]: Structure Info Saving: true
+[00:12:26] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[00:12:26] [Server thread/INFO]: Max Entity Collisions: 8
+[00:12:26] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[00:12:26] [Server thread/INFO]: Clear tick list: false
+[00:12:26] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:12:26] [Server thread/INFO]: [StarCraftStats] Disabling StarCraftStats v1.0
+[00:12:26] [Server thread/INFO]: [StarCraftStats] Loading StarCraftStats v1.0
+[00:12:26] [Server thread/INFO]: [StarCraftStats] Enabling StarCraftStats v1.0
+[00:12:26] [Server thread/INFO]: Succesfully connected to DB.
+[00:12:26] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:12:26] [Server thread/INFO]: Arzodiacc: [0;32;1mReload complete.[m
+[00:12:46] [Server thread/INFO]: Arzodiacc issued server command: /gamemode 1
+[00:12:46] [Server thread/INFO]: [Arzodiacc: Set own game mode to Creative Mode]
+[00:12:54] [Server thread/INFO]: Arzodiacc issued server command: /gamemode 0
+[00:12:54] [Server thread/INFO]: [Arzodiacc: Set own game mode to Survival Mode]
+[00:13:04] [Server thread/INFO]: Midey1901 issued server command: /rl
+[00:13:04] [Server thread/INFO]: Midey1901: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[00:13:04] [Server thread/INFO]: Midey1901: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[00:13:04] [Server thread/INFO]: Debug logging is disabled
+[00:13:04] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:13:04] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:13:04] [Server thread/INFO]: -------- World Settings For [world] --------
+[00:13:04] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:13:04] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:13:04] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:13:04] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:13:04] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:13:04] [Server thread/INFO]: View Distance: 10
+[00:13:04] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:13:04] [Server thread/INFO]: Anti X-Ray: true
+[00:13:04] [Server thread/INFO]: 	Engine Mode: 1
+[00:13:04] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[00:13:04] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[00:13:04] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:13:04] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:13:04] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:13:04] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:13:04] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:13:04] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:13:04] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:13:04] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:13:04] [Server thread/INFO]: Mob Spawn Range: 4
+[00:13:04] [Server thread/INFO]: Max TNT Explosions: 100
+[00:13:04] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:13:04] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[00:13:04] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:13:04] [Server thread/INFO]: Random Lighting Updates: false
+[00:13:04] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:13:04] [Server thread/INFO]: Sending up to 10 chunks per packet
+[00:13:04] [Server thread/INFO]: Structure Info Saving: true
+[00:13:04] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[00:13:04] [Server thread/INFO]: Max Entity Collisions: 8
+[00:13:04] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[00:13:04] [Server thread/INFO]: Clear tick list: false
+[00:13:04] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:13:04] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[00:13:04] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:13:04] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:13:04] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:13:04] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:13:04] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:13:04] [Server thread/INFO]: View Distance: 10
+[00:13:04] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:13:04] [Server thread/INFO]: Anti X-Ray: true
+[00:13:04] [Server thread/INFO]: 	Engine Mode: 1
+[00:13:04] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[00:13:04] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[00:13:04] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:13:04] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:13:04] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:13:04] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:13:04] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:13:04] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:13:04] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:13:04] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:13:04] [Server thread/INFO]: Mob Spawn Range: 4
+[00:13:04] [Server thread/INFO]: Max TNT Explosions: 100
+[00:13:04] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:13:04] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[00:13:04] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:13:04] [Server thread/INFO]: Random Lighting Updates: false
+[00:13:04] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:13:04] [Server thread/INFO]: Sending up to 10 chunks per packet
+[00:13:04] [Server thread/INFO]: Structure Info Saving: true
+[00:13:04] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[00:13:04] [Server thread/INFO]: Max Entity Collisions: 8
+[00:13:04] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[00:13:04] [Server thread/INFO]: Clear tick list: false
+[00:13:04] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:13:04] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[00:13:04] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:13:04] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:13:04] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:13:04] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:13:04] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:13:04] [Server thread/INFO]: View Distance: 10
+[00:13:04] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:13:04] [Server thread/INFO]: Anti X-Ray: true
+[00:13:04] [Server thread/INFO]: 	Engine Mode: 1
+[00:13:04] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[00:13:04] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[00:13:04] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:13:04] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:13:04] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:13:04] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:13:04] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:13:04] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:13:04] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:13:04] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:13:04] [Server thread/INFO]: Mob Spawn Range: 4
+[00:13:04] [Server thread/INFO]: Max TNT Explosions: 100
+[00:13:04] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:13:04] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[00:13:04] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:13:04] [Server thread/INFO]: Random Lighting Updates: false
+[00:13:04] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:13:04] [Server thread/INFO]: Sending up to 10 chunks per packet
+[00:13:04] [Server thread/INFO]: Structure Info Saving: true
+[00:13:04] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[00:13:04] [Server thread/INFO]: Max Entity Collisions: 8
+[00:13:04] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[00:13:04] [Server thread/INFO]: Clear tick list: false
+[00:13:04] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:13:04] [Server thread/INFO]: [StarCraftStats] Disabling StarCraftStats v1.0
+[00:13:04] [Server thread/INFO]: [StarCraftStats] Loading StarCraftStats v1.0
+[00:13:04] [Server thread/INFO]: [StarCraftStats] Enabling StarCraftStats v1.0
+[00:13:04] [Server thread/INFO]: Succesfully connected to DB.
+[00:13:05] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:13:05] [Server thread/INFO]: Midey1901: [0;32;1mReload complete.[m
+[00:13:15] [Server thread/INFO]: Arzodiacc fell from a high place
+[00:13:18] [Server thread/INFO]: Arzodiacc fell from a high place
+[00:13:20] [Server thread/INFO]: Arzodiacc fell from a high place
+[00:13:27] [Server thread/INFO]: Midey1901 issued server command: /tp Arzodiacc Midey1901
+[00:13:27] [Server thread/INFO]: [Midey1901: Teleported Arzodiacc to Midey1901]
+[00:13:45] [Server thread/INFO]: Arzodiacc issued server command: /rl
+[00:13:45] [Server thread/INFO]: Arzodiacc: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[00:13:45] [Server thread/INFO]: Arzodiacc: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[00:13:45] [Server thread/INFO]: Debug logging is disabled
+[00:13:45] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:13:45] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:13:45] [Server thread/INFO]: -------- World Settings For [world] --------
+[00:13:45] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:13:45] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:13:45] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:13:45] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:13:45] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:13:45] [Server thread/INFO]: View Distance: 10
+[00:13:45] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:13:45] [Server thread/INFO]: Anti X-Ray: true
+[00:13:45] [Server thread/INFO]: 	Engine Mode: 1
+[00:13:45] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[00:13:45] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[00:13:45] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:13:45] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:13:45] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:13:45] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:13:45] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:13:45] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:13:45] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:13:45] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:13:45] [Server thread/INFO]: Mob Spawn Range: 4
+[00:13:45] [Server thread/INFO]: Max TNT Explosions: 100
+[00:13:45] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:13:45] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[00:13:45] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:13:45] [Server thread/INFO]: Random Lighting Updates: false
+[00:13:45] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:13:45] [Server thread/INFO]: Sending up to 10 chunks per packet
+[00:13:45] [Server thread/INFO]: Structure Info Saving: true
+[00:13:45] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[00:13:45] [Server thread/INFO]: Max Entity Collisions: 8
+[00:13:45] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[00:13:45] [Server thread/INFO]: Clear tick list: false
+[00:13:45] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:13:45] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[00:13:45] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:13:45] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:13:45] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:13:45] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:13:45] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:13:45] [Server thread/INFO]: View Distance: 10
+[00:13:45] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:13:45] [Server thread/INFO]: Anti X-Ray: true
+[00:13:45] [Server thread/INFO]: 	Engine Mode: 1
+[00:13:45] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[00:13:45] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[00:13:45] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:13:45] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:13:45] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:13:45] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:13:45] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:13:45] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:13:45] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:13:45] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:13:45] [Server thread/INFO]: Mob Spawn Range: 4
+[00:13:45] [Server thread/INFO]: Max TNT Explosions: 100
+[00:13:45] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:13:45] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[00:13:45] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:13:45] [Server thread/INFO]: Random Lighting Updates: false
+[00:13:45] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:13:45] [Server thread/INFO]: Sending up to 10 chunks per packet
+[00:13:45] [Server thread/INFO]: Structure Info Saving: true
+[00:13:45] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[00:13:45] [Server thread/INFO]: Max Entity Collisions: 8
+[00:13:45] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[00:13:45] [Server thread/INFO]: Clear tick list: false
+[00:13:45] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:13:45] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[00:13:45] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:13:45] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:13:45] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:13:45] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:13:45] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:13:45] [Server thread/INFO]: View Distance: 10
+[00:13:45] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:13:45] [Server thread/INFO]: Anti X-Ray: true
+[00:13:45] [Server thread/INFO]: 	Engine Mode: 1
+[00:13:45] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[00:13:45] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[00:13:45] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:13:45] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:13:45] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:13:45] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:13:45] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:13:45] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:13:45] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:13:45] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:13:45] [Server thread/INFO]: Mob Spawn Range: 4
+[00:13:45] [Server thread/INFO]: Max TNT Explosions: 100
+[00:13:45] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:13:45] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[00:13:45] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:13:45] [Server thread/INFO]: Random Lighting Updates: false
+[00:13:45] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:13:45] [Server thread/INFO]: Sending up to 10 chunks per packet
+[00:13:45] [Server thread/INFO]: Structure Info Saving: true
+[00:13:45] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[00:13:45] [Server thread/INFO]: Max Entity Collisions: 8
+[00:13:45] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[00:13:45] [Server thread/INFO]: Clear tick list: false
+[00:13:45] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:13:45] [Server thread/INFO]: [StarCraftStats] Disabling StarCraftStats v1.0
+[00:13:45] [Server thread/INFO]: [StarCraftStats] Loading StarCraftStats v1.0
+[00:13:45] [Server thread/INFO]: [StarCraftStats] Enabling StarCraftStats v1.0
+[00:13:45] [Server thread/INFO]: Succesfully connected to DB.
+[00:13:45] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:13:45] [Server thread/INFO]: Arzodiacc: [0;32;1mReload complete.[m
+[00:14:27] [Server thread/INFO]: Arzodiacc issued server command: /gamemode 1
+[00:14:27] [Server thread/INFO]: [Arzodiacc: Set own game mode to Creative Mode]
+[00:14:29] [Server thread/INFO]: Arzodiacc issued server command: /rl
+[00:14:29] [Server thread/INFO]: Arzodiacc: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[00:14:29] [Server thread/INFO]: Arzodiacc: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[00:14:29] [Server thread/INFO]: Debug logging is disabled
+[00:14:29] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:14:29] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:14:29] [Server thread/INFO]: -------- World Settings For [world] --------
+[00:14:29] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:14:29] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:14:29] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:14:29] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:14:29] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:14:29] [Server thread/INFO]: View Distance: 10
+[00:14:29] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:14:29] [Server thread/INFO]: Anti X-Ray: true
+[00:14:29] [Server thread/INFO]: 	Engine Mode: 1
+[00:14:29] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[00:14:29] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[00:14:29] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:14:29] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:14:29] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:14:29] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:14:29] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:14:29] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:14:29] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:14:29] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:14:29] [Server thread/INFO]: Mob Spawn Range: 4
+[00:14:29] [Server thread/INFO]: Max TNT Explosions: 100
+[00:14:29] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:14:29] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[00:14:29] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:14:29] [Server thread/INFO]: Random Lighting Updates: false
+[00:14:29] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:14:29] [Server thread/INFO]: Sending up to 10 chunks per packet
+[00:14:29] [Server thread/INFO]: Structure Info Saving: true
+[00:14:29] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[00:14:29] [Server thread/INFO]: Max Entity Collisions: 8
+[00:14:29] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[00:14:29] [Server thread/INFO]: Clear tick list: false
+[00:14:29] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:14:29] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[00:14:29] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:14:29] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:14:29] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:14:29] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:14:29] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:14:29] [Server thread/INFO]: View Distance: 10
+[00:14:29] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:14:29] [Server thread/INFO]: Anti X-Ray: true
+[00:14:29] [Server thread/INFO]: 	Engine Mode: 1
+[00:14:29] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[00:14:29] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[00:14:29] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:14:29] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:14:29] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:14:29] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:14:29] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:14:29] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:14:29] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:14:29] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:14:29] [Server thread/INFO]: Mob Spawn Range: 4
+[00:14:29] [Server thread/INFO]: Max TNT Explosions: 100
+[00:14:29] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:14:29] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[00:14:29] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:14:29] [Server thread/INFO]: Random Lighting Updates: false
+[00:14:29] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:14:29] [Server thread/INFO]: Sending up to 10 chunks per packet
+[00:14:29] [Server thread/INFO]: Structure Info Saving: true
+[00:14:29] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[00:14:29] [Server thread/INFO]: Max Entity Collisions: 8
+[00:14:29] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[00:14:29] [Server thread/INFO]: Clear tick list: false
+[00:14:29] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:14:29] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[00:14:29] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:14:29] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:14:29] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:14:29] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:14:29] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:14:29] [Server thread/INFO]: View Distance: 10
+[00:14:29] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:14:29] [Server thread/INFO]: Anti X-Ray: true
+[00:14:29] [Server thread/INFO]: 	Engine Mode: 1
+[00:14:29] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[00:14:29] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[00:14:29] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:14:29] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:14:29] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:14:29] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:14:29] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:14:29] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:14:29] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:14:29] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:14:29] [Server thread/INFO]: Mob Spawn Range: 4
+[00:14:29] [Server thread/INFO]: Max TNT Explosions: 100
+[00:14:29] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:14:29] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[00:14:29] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:14:29] [Server thread/INFO]: Random Lighting Updates: false
+[00:14:29] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:14:29] [Server thread/INFO]: Sending up to 10 chunks per packet
+[00:14:29] [Server thread/INFO]: Structure Info Saving: true
+[00:14:29] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[00:14:29] [Server thread/INFO]: Max Entity Collisions: 8
+[00:14:29] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[00:14:29] [Server thread/INFO]: Clear tick list: false
+[00:14:29] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:14:29] [Server thread/INFO]: [StarCraftStats] Disabling StarCraftStats v1.0
+[00:14:29] [Server thread/INFO]: [StarCraftStats] Loading StarCraftStats v1.0
+[00:14:29] [Server thread/INFO]: [StarCraftStats] Enabling StarCraftStats v1.0
+[00:14:29] [Server thread/INFO]: Succesfully connected to DB.
+[00:14:29] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:14:29] [Server thread/INFO]: Arzodiacc: [0;32;1mReload complete.[m
+[00:14:48] [Server thread/INFO]: Midey1901 issued server command: /rl
+[00:14:48] [Server thread/INFO]: Midey1901: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[00:14:48] [Server thread/INFO]: Midey1901: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[00:14:48] [Server thread/INFO]: Debug logging is disabled
+[00:14:48] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:14:48] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:14:48] [Server thread/INFO]: -------- World Settings For [world] --------
+[00:14:48] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:14:48] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:14:48] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:14:48] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:14:48] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:14:48] [Server thread/INFO]: View Distance: 10
+[00:14:48] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:14:48] [Server thread/INFO]: Anti X-Ray: true
+[00:14:48] [Server thread/INFO]: 	Engine Mode: 1
+[00:14:48] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[00:14:48] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[00:14:48] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:14:48] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:14:48] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:14:48] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:14:48] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:14:48] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:14:48] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:14:48] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:14:48] [Server thread/INFO]: Mob Spawn Range: 4
+[00:14:48] [Server thread/INFO]: Max TNT Explosions: 100
+[00:14:48] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:14:48] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[00:14:48] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:14:48] [Server thread/INFO]: Random Lighting Updates: false
+[00:14:48] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:14:48] [Server thread/INFO]: Sending up to 10 chunks per packet
+[00:14:48] [Server thread/INFO]: Structure Info Saving: true
+[00:14:48] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[00:14:48] [Server thread/INFO]: Max Entity Collisions: 8
+[00:14:48] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[00:14:48] [Server thread/INFO]: Clear tick list: false
+[00:14:48] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:14:48] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[00:14:48] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:14:48] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:14:48] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:14:48] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:14:48] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:14:48] [Server thread/INFO]: View Distance: 10
+[00:14:48] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:14:48] [Server thread/INFO]: Anti X-Ray: true
+[00:14:48] [Server thread/INFO]: 	Engine Mode: 1
+[00:14:48] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[00:14:48] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[00:14:48] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:14:48] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:14:48] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:14:48] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:14:48] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:14:48] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:14:48] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:14:48] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:14:48] [Server thread/INFO]: Mob Spawn Range: 4
+[00:14:48] [Server thread/INFO]: Max TNT Explosions: 100
+[00:14:48] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:14:48] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[00:14:48] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:14:48] [Server thread/INFO]: Random Lighting Updates: false
+[00:14:48] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:14:48] [Server thread/INFO]: Sending up to 10 chunks per packet
+[00:14:48] [Server thread/INFO]: Structure Info Saving: true
+[00:14:48] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[00:14:48] [Server thread/INFO]: Max Entity Collisions: 8
+[00:14:48] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[00:14:48] [Server thread/INFO]: Clear tick list: false
+[00:14:48] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:14:48] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[00:14:48] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:14:48] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:14:48] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:14:48] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:14:48] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:14:48] [Server thread/INFO]: View Distance: 10
+[00:14:48] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:14:48] [Server thread/INFO]: Anti X-Ray: true
+[00:14:48] [Server thread/INFO]: 	Engine Mode: 1
+[00:14:48] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[00:14:48] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[00:14:48] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:14:48] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:14:48] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:14:48] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:14:48] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:14:48] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:14:48] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:14:48] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:14:48] [Server thread/INFO]: Mob Spawn Range: 4
+[00:14:48] [Server thread/INFO]: Max TNT Explosions: 100
+[00:14:48] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:14:48] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[00:14:48] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:14:48] [Server thread/INFO]: Random Lighting Updates: false
+[00:14:48] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:14:48] [Server thread/INFO]: Sending up to 10 chunks per packet
+[00:14:48] [Server thread/INFO]: Structure Info Saving: true
+[00:14:48] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[00:14:48] [Server thread/INFO]: Max Entity Collisions: 8
+[00:14:48] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[00:14:48] [Server thread/INFO]: Clear tick list: false
+[00:14:48] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:14:48] [Server thread/INFO]: [StarCraftStats] Disabling StarCraftStats v1.0
+[00:14:48] [Server thread/INFO]: [StarCraftStats] Loading StarCraftStats v1.0
+[00:14:48] [Server thread/INFO]: [StarCraftStats] Enabling StarCraftStats v1.0
+[00:14:49] [Server thread/INFO]: Succesfully connected to DB.
+[00:14:49] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:14:49] [Server thread/INFO]: Midey1901: [0;32;1mReload complete.[m
+[00:16:01] [Server thread/INFO]: Arzodiacc issued server command: /rl
+[00:16:01] [Server thread/INFO]: Arzodiacc: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[00:16:01] [Server thread/INFO]: Arzodiacc: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[00:16:01] [Server thread/INFO]: Debug logging is disabled
+[00:16:01] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:16:01] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:16:01] [Server thread/INFO]: -------- World Settings For [world] --------
+[00:16:01] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:16:01] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:16:01] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:16:01] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:16:01] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:16:01] [Server thread/INFO]: View Distance: 10
+[00:16:01] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:16:01] [Server thread/INFO]: Anti X-Ray: true
+[00:16:01] [Server thread/INFO]: 	Engine Mode: 1
+[00:16:01] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[00:16:01] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[00:16:01] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:16:01] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:16:01] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:16:01] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:16:01] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:16:01] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:16:01] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:16:01] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:16:01] [Server thread/INFO]: Mob Spawn Range: 4
+[00:16:01] [Server thread/INFO]: Max TNT Explosions: 100
+[00:16:01] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:16:01] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[00:16:01] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:16:01] [Server thread/INFO]: Random Lighting Updates: false
+[00:16:01] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:16:01] [Server thread/INFO]: Sending up to 10 chunks per packet
+[00:16:01] [Server thread/INFO]: Structure Info Saving: true
+[00:16:01] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[00:16:01] [Server thread/INFO]: Max Entity Collisions: 8
+[00:16:01] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[00:16:01] [Server thread/INFO]: Clear tick list: false
+[00:16:01] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:16:01] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[00:16:01] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:16:01] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:16:01] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:16:01] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:16:01] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:16:01] [Server thread/INFO]: View Distance: 10
+[00:16:01] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:16:01] [Server thread/INFO]: Anti X-Ray: true
+[00:16:01] [Server thread/INFO]: 	Engine Mode: 1
+[00:16:01] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[00:16:01] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[00:16:01] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:16:01] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:16:01] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:16:01] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:16:01] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:16:01] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:16:01] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:16:01] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:16:01] [Server thread/INFO]: Mob Spawn Range: 4
+[00:16:01] [Server thread/INFO]: Max TNT Explosions: 100
+[00:16:01] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:16:01] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[00:16:01] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:16:01] [Server thread/INFO]: Random Lighting Updates: false
+[00:16:01] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:16:01] [Server thread/INFO]: Sending up to 10 chunks per packet
+[00:16:01] [Server thread/INFO]: Structure Info Saving: true
+[00:16:01] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[00:16:01] [Server thread/INFO]: Max Entity Collisions: 8
+[00:16:01] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[00:16:01] [Server thread/INFO]: Clear tick list: false
+[00:16:01] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:16:01] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[00:16:01] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:16:01] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:16:01] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:16:01] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:16:01] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:16:01] [Server thread/INFO]: View Distance: 10
+[00:16:01] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:16:01] [Server thread/INFO]: Anti X-Ray: true
+[00:16:01] [Server thread/INFO]: 	Engine Mode: 1
+[00:16:01] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[00:16:01] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[00:16:01] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:16:01] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:16:01] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:16:01] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:16:01] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:16:01] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:16:01] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:16:01] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:16:01] [Server thread/INFO]: Mob Spawn Range: 4
+[00:16:01] [Server thread/INFO]: Max TNT Explosions: 100
+[00:16:01] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:16:01] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[00:16:01] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:16:01] [Server thread/INFO]: Random Lighting Updates: false
+[00:16:01] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:16:01] [Server thread/INFO]: Sending up to 10 chunks per packet
+[00:16:01] [Server thread/INFO]: Structure Info Saving: true
+[00:16:01] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[00:16:01] [Server thread/INFO]: Max Entity Collisions: 8
+[00:16:01] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[00:16:01] [Server thread/INFO]: Clear tick list: false
+[00:16:01] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:16:01] [Server thread/INFO]: [StarCraftStats] Disabling StarCraftStats v1.0
+[00:16:02] [Server thread/INFO]: [StarCraftStats] Loading StarCraftStats v1.0
+[00:16:02] [Server thread/INFO]: [StarCraftStats] Enabling StarCraftStats v1.0
+[00:16:02] [Server thread/INFO]: Succesfully connected to DB.
+[00:16:02] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:16:02] [Server thread/INFO]: Arzodiacc: [0;32;1mReload complete.[m
+[00:17:29] [Server thread/INFO]: Midey1901 issued server command: /rl
+[00:17:29] [Server thread/INFO]: Midey1901: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[00:17:29] [Server thread/INFO]: Midey1901: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[00:17:29] [Server thread/INFO]: Debug logging is disabled
+[00:17:29] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:17:29] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:17:29] [Server thread/INFO]: -------- World Settings For [world] --------
+[00:17:29] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:17:29] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:17:29] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:17:29] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:17:29] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:17:29] [Server thread/INFO]: View Distance: 10
+[00:17:29] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:17:29] [Server thread/INFO]: Anti X-Ray: true
+[00:17:29] [Server thread/INFO]: 	Engine Mode: 1
+[00:17:29] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[00:17:29] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[00:17:29] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:17:29] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:17:29] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:17:29] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:17:29] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:17:29] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:17:29] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:17:29] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:17:29] [Server thread/INFO]: Mob Spawn Range: 4
+[00:17:29] [Server thread/INFO]: Max TNT Explosions: 100
+[00:17:29] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:17:29] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[00:17:29] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:17:29] [Server thread/INFO]: Random Lighting Updates: false
+[00:17:29] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:17:29] [Server thread/INFO]: Sending up to 10 chunks per packet
+[00:17:29] [Server thread/INFO]: Structure Info Saving: true
+[00:17:29] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[00:17:29] [Server thread/INFO]: Max Entity Collisions: 8
+[00:17:29] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[00:17:29] [Server thread/INFO]: Clear tick list: false
+[00:17:29] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:17:29] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[00:17:29] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:17:29] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:17:29] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:17:29] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:17:29] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:17:29] [Server thread/INFO]: View Distance: 10
+[00:17:29] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:17:29] [Server thread/INFO]: Anti X-Ray: true
+[00:17:29] [Server thread/INFO]: 	Engine Mode: 1
+[00:17:29] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[00:17:29] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[00:17:29] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:17:29] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:17:29] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:17:29] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:17:29] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:17:29] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:17:29] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:17:29] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:17:29] [Server thread/INFO]: Mob Spawn Range: 4
+[00:17:29] [Server thread/INFO]: Max TNT Explosions: 100
+[00:17:29] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:17:29] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[00:17:29] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:17:29] [Server thread/INFO]: Random Lighting Updates: false
+[00:17:29] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:17:29] [Server thread/INFO]: Sending up to 10 chunks per packet
+[00:17:29] [Server thread/INFO]: Structure Info Saving: true
+[00:17:29] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[00:17:29] [Server thread/INFO]: Max Entity Collisions: 8
+[00:17:29] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[00:17:29] [Server thread/INFO]: Clear tick list: false
+[00:17:29] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:17:29] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[00:17:29] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:17:29] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:17:29] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:17:29] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:17:29] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:17:29] [Server thread/INFO]: View Distance: 10
+[00:17:29] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:17:29] [Server thread/INFO]: Anti X-Ray: true
+[00:17:29] [Server thread/INFO]: 	Engine Mode: 1
+[00:17:29] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[00:17:29] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[00:17:29] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:17:29] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:17:29] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:17:29] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:17:29] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:17:29] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:17:29] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:17:29] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:17:29] [Server thread/INFO]: Mob Spawn Range: 4
+[00:17:29] [Server thread/INFO]: Max TNT Explosions: 100
+[00:17:29] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:17:29] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[00:17:29] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:17:29] [Server thread/INFO]: Random Lighting Updates: false
+[00:17:29] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:17:29] [Server thread/INFO]: Sending up to 10 chunks per packet
+[00:17:29] [Server thread/INFO]: Structure Info Saving: true
+[00:17:29] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[00:17:29] [Server thread/INFO]: Max Entity Collisions: 8
+[00:17:29] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[00:17:29] [Server thread/INFO]: Clear tick list: false
+[00:17:29] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:17:29] [Server thread/INFO]: [StarCraftStats] Disabling StarCraftStats v1.0
+[00:17:29] [Server thread/INFO]: [StarCraftStats] Loading StarCraftStats v1.0
+[00:17:29] [Server thread/INFO]: [StarCraftStats] Enabling StarCraftStats v1.0
+[00:17:29] [Server thread/INFO]: Succesfully connected to DB.
+[00:17:29] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:17:29] [Server thread/INFO]: Midey1901: [0;32;1mReload complete.[m
+[00:17:59] [Server thread/INFO]: Arzodiacc issued server command: /gamemode 0
+[00:17:59] [Server thread/INFO]: [Arzodiacc: Set own game mode to Survival Mode]
+[00:18:05] [Server thread/INFO]: Arzodiacc issued server command: /rl
+[00:18:05] [Server thread/INFO]: Arzodiacc: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[00:18:05] [Server thread/INFO]: Arzodiacc: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[00:18:05] [Server thread/INFO]: Debug logging is disabled
+[00:18:05] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:18:05] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:18:05] [Server thread/INFO]: -------- World Settings For [world] --------
+[00:18:05] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:18:05] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:18:05] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:18:05] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:18:05] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:18:05] [Server thread/INFO]: View Distance: 10
+[00:18:05] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:18:05] [Server thread/INFO]: Anti X-Ray: true
+[00:18:05] [Server thread/INFO]: 	Engine Mode: 1
+[00:18:05] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[00:18:05] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[00:18:05] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:18:05] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:18:05] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:18:05] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:18:05] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:18:05] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:18:05] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:18:05] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:18:05] [Server thread/INFO]: Mob Spawn Range: 4
+[00:18:05] [Server thread/INFO]: Max TNT Explosions: 100
+[00:18:05] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:18:05] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[00:18:05] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:18:05] [Server thread/INFO]: Random Lighting Updates: false
+[00:18:05] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:18:05] [Server thread/INFO]: Sending up to 10 chunks per packet
+[00:18:05] [Server thread/INFO]: Structure Info Saving: true
+[00:18:05] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[00:18:05] [Server thread/INFO]: Max Entity Collisions: 8
+[00:18:05] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[00:18:05] [Server thread/INFO]: Clear tick list: false
+[00:18:05] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:18:05] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[00:18:05] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:18:05] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:18:05] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:18:05] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:18:05] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:18:05] [Server thread/INFO]: View Distance: 10
+[00:18:05] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:18:05] [Server thread/INFO]: Anti X-Ray: true
+[00:18:05] [Server thread/INFO]: 	Engine Mode: 1
+[00:18:05] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[00:18:05] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[00:18:05] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:18:05] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:18:05] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:18:05] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:18:05] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:18:05] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:18:05] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:18:05] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:18:05] [Server thread/INFO]: Mob Spawn Range: 4
+[00:18:05] [Server thread/INFO]: Max TNT Explosions: 100
+[00:18:05] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:18:05] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[00:18:05] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:18:05] [Server thread/INFO]: Random Lighting Updates: false
+[00:18:05] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:18:05] [Server thread/INFO]: Sending up to 10 chunks per packet
+[00:18:05] [Server thread/INFO]: Structure Info Saving: true
+[00:18:05] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[00:18:05] [Server thread/INFO]: Max Entity Collisions: 8
+[00:18:05] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[00:18:05] [Server thread/INFO]: Clear tick list: false
+[00:18:05] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:18:05] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[00:18:05] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:18:05] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:18:05] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:18:05] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:18:05] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:18:05] [Server thread/INFO]: View Distance: 10
+[00:18:05] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:18:05] [Server thread/INFO]: Anti X-Ray: true
+[00:18:05] [Server thread/INFO]: 	Engine Mode: 1
+[00:18:05] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[00:18:05] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[00:18:05] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:18:05] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:18:05] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:18:05] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:18:05] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:18:05] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:18:05] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:18:05] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:18:05] [Server thread/INFO]: Mob Spawn Range: 4
+[00:18:05] [Server thread/INFO]: Max TNT Explosions: 100
+[00:18:05] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:18:05] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[00:18:05] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:18:05] [Server thread/INFO]: Random Lighting Updates: false
+[00:18:05] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:18:05] [Server thread/INFO]: Sending up to 10 chunks per packet
+[00:18:05] [Server thread/INFO]: Structure Info Saving: true
+[00:18:05] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[00:18:05] [Server thread/INFO]: Max Entity Collisions: 8
+[00:18:05] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[00:18:05] [Server thread/INFO]: Clear tick list: false
+[00:18:05] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:18:05] [Server thread/INFO]: [StarCraftStats] Disabling StarCraftStats v1.0
+[00:18:05] [Server thread/INFO]: [StarCraftStats] Loading StarCraftStats v1.0
+[00:18:05] [Server thread/INFO]: [StarCraftStats] Enabling StarCraftStats v1.0
+[00:18:05] [Server thread/INFO]: Succesfully connected to DB.
+[00:18:05] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:18:05] [Server thread/INFO]: Arzodiacc: [0;32;1mReload complete.[m
+[00:18:37] [Server thread/INFO]: Arzodiacc lost connection: Disconnected
+[00:18:37] [Server thread/INFO]: Arzodiacc left the game.
+[00:18:38] [Server thread/INFO]: Midey1901 lost connection: Disconnected
+[00:18:38] [Server thread/INFO]: Midey1901 left the game.
+[00:18:40] [Server thread/INFO]: Stopping the server
+[00:18:40] [Server thread/INFO]: Stopping server
+[00:18:40] [Server thread/INFO]: [StarCraftStats] Disabling StarCraftStats v1.0
+[00:18:40] [Server thread/INFO]: Saving players
+[00:18:40] [Server thread/INFO]: Saving worlds
+[00:18:40] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[00:18:40] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[00:18:40] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End

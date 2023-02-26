@@ -548,3 +548,1191 @@ java.net.BindException: Address already in use: bind
 10:10:22 [INFOS] Saving reconnect locations
 10:10:22 [INFOS] Disabling plugins
 10:10:22 [INFOS] Closing IO threads
+11:43:17 [INFOS] Using standard Java JCE cipher.
+11:43:17 [INFOS] Using standard Java compressor.
+11:43:17 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.19-R0.1-SNAPSHOT:19424ab:1678
+11:43:17 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+11:43:17 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+11:43:17 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+11:43:17 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+11:43:17 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+11:43:17 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+11:43:17 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+11:43:17 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+11:43:17 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+11:43:17 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+11:43:17 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+11:43:17 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+11:43:17 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+11:43:17 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+11:43:17 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+11:43:17 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+11:43:17 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+11:43:17 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+11:43:18 [INFOS] Listening on /0.0.0.0:25565
+11:44:13 [INFOS] [/127.0.0.1:53068] <-> InitialHandler has pinged
+11:44:15 [INFOS] [/127.0.0.1:53084] <-> InitialHandler has connected
+11:44:15 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+11:44:22 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+11:44:22 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+11:44:23 [INFOS] [/127.0.0.1:53101] <-> InitialHandler has pinged
+12:08:08 [INFOS] Closing listener [id: 0x1a38a938, L:/0:0:0:0:0:0:0:0:25565]
+12:08:08 [INFOS] Closing pending connections
+12:08:08 [INFOS] Disconnecting 0 connections
+12:08:09 [INFOS] Saving reconnect locations
+12:08:09 [INFOS] Disabling plugins
+12:08:09 [INFOS] Closing IO threads
+12:08:09 [INFOS] §cCommand not found
+12:08:40 [INFOS] Using standard Java JCE cipher.
+12:08:40 [INFOS] Using standard Java compressor.
+12:08:40 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.19-R0.1-SNAPSHOT:19424ab:1678
+12:08:40 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+12:08:40 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+12:08:40 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+12:08:40 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+12:08:40 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+12:08:40 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+12:08:40 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+12:08:40 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+12:08:40 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+12:08:40 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+12:08:40 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+12:08:40 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+12:08:40 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+12:08:40 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+12:08:40 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+12:08:40 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+12:08:40 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+12:08:40 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+12:08:41 [INFOS] Listening on /0.0.0.0:25565
+12:08:58 [INFOS] §cCommand not found
+12:09:00 [INFOS] §cCommand not found
+12:09:02 [INFOS] §6You may connect to the following servers at this time: §6Corucentre§6, Korriban§6, Yavin§6, Lobby
+12:09:18 [INFOS] §cCommand not found
+12:09:29 [INFOS] §cCommand not found
+12:09:34 [INFOS] §cCommand not found
+12:12:27 [INFOS] Closing listener [id: 0xefa0d8ed, L:/0:0:0:0:0:0:0:0:25565]
+12:12:27 [INFOS] Closing pending connections
+12:12:27 [INFOS] Disconnecting 0 connections
+12:12:27 [INFOS] Saving reconnect locations
+12:12:27 [INFOS] Disabling plugins
+12:12:27 [INFOS] Closing IO threads
+12:12:46 [INFOS] Using standard Java JCE cipher.
+12:12:46 [INFOS] Using standard Java compressor.
+12:12:46 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.19-R0.1-SNAPSHOT:19424ab:1678
+12:12:47 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+12:12:47 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+12:12:47 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+12:12:47 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+12:12:47 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+12:12:47 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+12:12:47 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+12:12:47 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+12:12:47 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+12:12:47 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+12:12:47 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+12:12:47 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+12:12:47 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+12:12:47 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+12:12:47 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+12:12:47 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+12:12:47 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+12:12:47 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+12:12:47 [INFOS] Listening on /0.0.0.0:25565
+12:12:59 [INFOS] §6You may connect to the following servers at this time: §6Corucentre§6, Korriban§6, Yavin§6, Lobby
+15:17:10 [INFOS] Closing listener [id: 0xdbaf8a8a, L:/0:0:0:0:0:0:0:0:25565]
+15:17:10 [INFOS] Closing pending connections
+15:17:10 [INFOS] Disconnecting 0 connections
+15:17:11 [INFOS] Saving reconnect locations
+15:17:11 [INFOS] Disabling plugins
+15:17:11 [INFOS] Closing IO threads
+15:17:29 [INFOS] Using standard Java JCE cipher.
+15:17:29 [INFOS] Using standard Java compressor.
+15:17:29 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.19-R0.1-SNAPSHOT:19424ab:1678
+15:17:29 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+15:17:29 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+15:17:29 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+15:17:29 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+15:17:29 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+15:17:29 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+15:17:29 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:17:29 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:17:29 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:17:29 [AVERTISSEMENT] Error loading plugin StarCraftBungee
+java.lang.ClassNotFoundException: fr.midey.starcraft.Main
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass0(PluginClassloader.java:103)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass(PluginClassloader.java:59)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at net.md_5.bungee.api.plugin.PluginManager.enablePlugin(PluginManager.java:340)
+	at net.md_5.bungee.api.plugin.PluginManager.loadPlugins(PluginManager.java:250)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:281)
+	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:67)
+	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+15:17:29 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:17:29 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:17:29 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:17:29 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:17:29 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:17:29 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:17:29 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:17:29 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:17:29 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:17:30 [INFOS] Listening on /0.0.0.0:25565
+15:17:40 [INFOS] Closing listener [id: 0x12d1bf5b, L:/0:0:0:0:0:0:0:0:25565]
+15:17:40 [INFOS] Closing pending connections
+15:17:40 [INFOS] Disconnecting 0 connections
+15:17:40 [INFOS] Saving reconnect locations
+15:17:40 [INFOS] Disabling plugins
+15:17:40 [INFOS] Closing IO threads
+15:17:59 [INFOS] Using standard Java JCE cipher.
+15:17:59 [INFOS] Using standard Java compressor.
+15:17:59 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.19-R0.1-SNAPSHOT:19424ab:1678
+15:17:59 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+15:17:59 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+15:17:59 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+15:17:59 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+15:17:59 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+15:17:59 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+15:17:59 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:17:59 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:17:59 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:17:59 [AVERTISSEMENT] Error loading plugin StarCraftBungee
+java.lang.ClassNotFoundException: fr.midey.starcraft.Main
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass0(PluginClassloader.java:103)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass(PluginClassloader.java:59)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at net.md_5.bungee.api.plugin.PluginManager.enablePlugin(PluginManager.java:340)
+	at net.md_5.bungee.api.plugin.PluginManager.loadPlugins(PluginManager.java:250)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:281)
+	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:67)
+	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+15:17:59 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:17:59 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:17:59 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:17:59 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:17:59 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:17:59 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:17:59 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:17:59 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:17:59 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+15:18:00 [INFOS] Listening on /0.0.0.0:25565
+15:18:22 [INFOS] §6You may connect to the following servers at this time: §6Corucentre§6, Korriban§6, Yavin§6, Lobby
+15:18:29 [INFOS] §cCommand not found
+15:18:33 [INFOS] §cCommand not found
+16:11:54 [INFOS] Using standard Java JCE cipher.
+16:11:54 [INFOS] Using standard Java compressor.
+16:11:54 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.19-R0.1-SNAPSHOT:19424ab:1678
+16:11:54 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+16:11:54 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+16:11:54 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+16:11:54 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+16:11:54 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+16:11:54 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+16:11:54 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:11:54 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:11:54 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:11:54 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:11:54 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:11:54 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:11:54 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:11:54 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:11:54 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:11:54 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:11:54 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:11:54 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:11:55 [INFOS] Listening on /0.0.0.0:25565
+16:12:42 [INFOS] [/127.0.0.1:49820] <-> InitialHandler has pinged
+16:12:44 [INFOS] [/127.0.0.1:49829] <-> InitialHandler has connected
+16:12:44 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+16:13:48 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+16:13:48 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+16:13:48 [INFOS] [/127.0.0.1:49836] <-> InitialHandler has pinged
+16:13:56 [INFOS] [/127.0.0.1:49839] <-> InitialHandler has connected
+16:13:56 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+16:14:54 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+16:14:54 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+16:14:55 [INFOS] [/127.0.0.1:49849] <-> InitialHandler has pinged
+16:15:02 [INFOS] [Midey1901,/127.0.0.1:49852] <-> InitialHandler has connected
+16:15:02 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+16:17:05 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+16:17:05 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+16:17:05 [INFOS] [/127.0.0.1:49862] <-> InitialHandler has pinged
+16:17:14 [INFOS] [Midey1901,/127.0.0.1:49864] <-> InitialHandler has connected
+16:17:14 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+16:17:57 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+16:17:57 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+16:17:57 [INFOS] [/127.0.0.1:49874] <-> InitialHandler has pinged
+16:18:00 [INFOS] [Midey1901,/127.0.0.1:49875] <-> InitialHandler has connected
+16:18:00 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+16:19:10 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+16:19:10 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+16:19:10 [INFOS] [/127.0.0.1:49882] <-> InitialHandler has pinged
+16:19:13 [INFOS] [Midey1901,/127.0.0.1:49883] <-> InitialHandler has connected
+16:19:13 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+16:19:31 [INFOS] Closing listener [id: 0xba7c43dc, L:/0:0:0:0:0:0:0:0:25565]
+16:19:31 [INFOS] Closing pending connections
+16:19:31 [INFOS] Disconnecting 1 connections
+16:19:31 [INFOS] [Midey1901] disconnected with: §cThe proxy server is restarting
+16:19:31 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+16:19:31 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+16:19:31 [INFOS] Saving reconnect locations
+16:19:31 [INFOS] Disabling plugins
+16:19:31 [INFOS] Closing IO threads
+16:19:53 [INFOS] Using standard Java JCE cipher.
+16:19:53 [INFOS] Using standard Java compressor.
+16:19:53 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.19-R0.1-SNAPSHOT:19424ab:1678
+16:19:54 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+16:19:54 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+16:19:54 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+16:19:54 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+16:19:54 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+16:19:54 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+16:19:54 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:19:54 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:19:54 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:19:54 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:19:54 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:19:54 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:19:54 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:19:54 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:19:54 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:19:54 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:19:54 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:19:54 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:19:54 [INFOS] Listening on /0.0.0.0:25565
+16:20:23 [INFOS] [/127.0.0.1:49938] <-> InitialHandler has connected
+16:20:23 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+16:24:00 [INFOS] [Midey1901] disconnected with: §fServer closed
+16:24:00 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+16:24:00 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+16:24:27 [INFOS] [/127.0.0.1:49960] <-> InitialHandler has connected
+16:24:27 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+16:25:43 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+16:25:43 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+16:25:43 [INFOS] [/127.0.0.1:49974] <-> InitialHandler has pinged
+16:25:46 [INFOS] [Midey1901,/127.0.0.1:49975] <-> InitialHandler has connected
+16:25:46 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+16:26:01 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+16:26:01 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+16:26:02 [INFOS] [/127.0.0.1:49982] <-> InitialHandler has pinged
+16:26:04 [INFOS] [Midey1901,/127.0.0.1:49983] <-> InitialHandler has connected
+16:26:04 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+16:26:13 [INFOS] Closing listener [id: 0x1dc64f2f, L:/0:0:0:0:0:0:0:0:25565]
+16:26:13 [INFOS] §l§cBungeeCord has been reloaded. This is NOT advisable and you will not be supported with any issues that arise! Please restart BungeeCord ASAP.
+16:26:13 [INFOS] Listening on /0.0.0.0:25565
+16:26:22 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+16:26:22 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+16:26:22 [INFOS] [/127.0.0.1:49994] <-> InitialHandler has pinged
+16:26:25 [INFOS] [Midey1901,/127.0.0.1:49995] <-> InitialHandler has connected
+16:26:25 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+16:28:07 [INFOS] [Midey1901] disconnected with: §fServer closed
+16:28:07 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+16:28:07 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+16:28:10 [INFOS] Closing listener [id: 0x0e45ad6d, L:/0:0:0:0:0:0:0:0:25565]
+16:28:10 [INFOS] Closing pending connections
+16:28:10 [INFOS] Disconnecting 0 connections
+16:28:10 [INFOS] §cCommand not found
+16:28:11 [INFOS] Saving reconnect locations
+16:28:11 [INFOS] Disabling plugins
+16:28:11 [INFOS] Closing IO threads
+16:28:13 [INFOS] Thank you and goodbye
+16:28:39 [INFOS] Using standard Java JCE cipher.
+16:28:39 [INFOS] Using standard Java compressor.
+16:28:39 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.19-R0.1-SNAPSHOT:19424ab:1678
+16:28:39 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+16:28:39 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+16:28:39 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+16:28:39 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+16:28:39 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+16:28:39 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+16:28:39 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:28:39 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:28:39 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:28:39 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:28:39 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:28:39 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:28:39 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:28:39 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:28:39 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:28:39 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:28:39 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:28:39 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:28:39 [INFOS] Listening on /0.0.0.0:25565
+16:28:52 [INFOS] [/127.0.0.1:50042] <-> InitialHandler has connected
+16:28:52 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+16:29:14 [INFOS] Closing listener [id: 0xcf46c9f9, L:/0:0:0:0:0:0:0:0:25565]
+16:29:14 [INFOS] §l§cBungeeCord has been reloaded. This is NOT advisable and you will not be supported with any issues that arise! Please restart BungeeCord ASAP.
+16:29:14 [INFOS] Listening on /0.0.0.0:25565
+16:29:25 [INFOS] §cCommand not found
+16:29:25 [INFOS] §cCommand not found
+16:29:27 [INFOS] Closing listener [id: 0xd1e0bd62, L:/0:0:0:0:0:0:0:0:25565]
+16:29:27 [INFOS] Closing pending connections
+16:29:27 [INFOS] Disconnecting 1 connections
+16:29:27 [INFOS] [Midey1901] disconnected with: §cThe proxy server is restarting
+16:29:27 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+16:29:27 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+16:29:27 [INFOS] Saving reconnect locations
+16:29:27 [INFOS] Disabling plugins
+16:29:27 [INFOS] Closing IO threads
+16:29:37 [INFOS] Using standard Java JCE cipher.
+16:29:37 [INFOS] Using standard Java compressor.
+16:29:37 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.19-R0.1-SNAPSHOT:19424ab:1678
+16:29:38 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+16:29:38 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+16:29:38 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+16:29:38 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+16:29:38 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+16:29:38 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+16:29:38 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:29:38 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:29:38 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:29:38 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:29:38 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:29:38 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:29:38 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:29:38 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:29:38 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:29:38 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:29:38 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:29:38 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:29:38 [INFOS] Listening on /0.0.0.0:25565
+16:29:55 [INFOS] [/127.0.0.1:50084] <-> InitialHandler has connected
+16:29:56 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+16:36:29 [INFOS] [Midey1901] disconnected with: §fServer closed
+16:36:29 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+16:36:29 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+16:36:55 [INFOS] [/127.0.0.1:50110] <-> InitialHandler has connected
+16:36:55 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+16:37:00 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+16:37:00 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+16:37:01 [INFOS] [/127.0.0.1:50112] <-> InitialHandler has pinged
+16:37:34 [INFOS] [Midey1901,/127.0.0.1:50130] <-> InitialHandler has connected
+16:37:34 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+16:38:16 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+16:38:16 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+16:38:16 [INFOS] [/127.0.0.1:50136] <-> InitialHandler has pinged
+16:38:19 [INFOS] [Midey1901,/127.0.0.1:50137] <-> InitialHandler has connected
+16:38:19 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+16:38:26 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+16:38:26 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+16:38:26 [INFOS] [/127.0.0.1:50140] <-> InitialHandler has pinged
+16:38:29 [INFOS] [Midey1901,/127.0.0.1:50141] <-> InitialHandler has connected
+16:38:29 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+16:39:30 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+16:39:30 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+16:39:30 [INFOS] [/127.0.0.1:50152] <-> InitialHandler has pinged
+16:39:33 [INFOS] [Midey1901,/127.0.0.1:50153] <-> InitialHandler has connected
+16:39:33 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+16:44:05 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+16:44:05 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+16:44:05 [INFOS] [/127.0.0.1:50164] <-> InitialHandler has pinged
+16:44:12 [INFOS] [Midey1901,/127.0.0.1:50166] <-> InitialHandler has connected
+16:44:12 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+16:57:27 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+16:57:27 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+16:57:27 [INFOS] [/127.0.0.1:50180] <-> InitialHandler has pinged
+16:57:30 [INFOS] [Midey1901,/127.0.0.1:50181] <-> InitialHandler has connected
+16:57:30 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+17:02:30 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+17:02:30 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+17:02:30 [INFOS] [/127.0.0.1:50192] <-> InitialHandler has pinged
+17:02:33 [INFOS] [Midey1901,/127.0.0.1:50193] <-> InitialHandler has connected
+17:02:33 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+17:24:35 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+17:24:35 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+17:24:36 [INFOS] [/127.0.0.1:50256] <-> InitialHandler has pinged
+17:24:38 [INFOS] [Midey1901,/127.0.0.1:50257] <-> InitialHandler has connected
+17:24:38 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+17:30:24 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+17:30:24 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+17:30:24 [INFOS] [/127.0.0.1:50272] <-> InitialHandler has pinged
+17:30:26 [INFOS] [Midey1901,/127.0.0.1:50273] <-> InitialHandler has connected
+17:30:26 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+18:25:32 [INFOS] Closing listener [id: 0xc60b34fe, L:/0:0:0:0:0:0:0:0:25565]
+18:25:32 [INFOS] §l§cBungeeCord has been reloaded. This is NOT advisable and you will not be supported with any issues that arise! Please restart BungeeCord ASAP.
+18:25:32 [INFOS] Listening on /0.0.0.0:25565
+18:43:54 [INFOS] [Midey1901] <-> ServerConnector [Corucentre] has connected
+18:43:54 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+18:44:05 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+18:44:05 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Corucentre] has disconnected
+18:44:09 [INFOS] [Midey1901] <-> ServerConnector [Korriban] has connected
+18:44:09 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+18:44:11 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+18:44:11 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Korriban] has disconnected
+18:44:14 [INFOS] [Midey1901] <-> ServerConnector [Yavin] has connected
+18:44:14 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+18:44:18 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+18:44:18 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Yavin] has disconnected
+18:44:27 [INFOS] [Midey1901] <-> ServerConnector [Corucentre] has connected
+18:44:27 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+18:44:29 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+18:44:29 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Corucentre] has disconnected
+19:35:08 [AVERTISSEMENT] [Midey1901] -> UpstreamBridge - IOException: Une connexion existante a dû être fermée par l’hôte distant
+19:35:08 [INFOS] [Midey1901] disconnected with: §fIOException : Une connexion existante a dû être fermée par l’hôte distant @ sun.nio.ch.SocketDispatcher:-2
+19:35:08 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+19:35:08 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+20:38:02 [INFOS] Using standard Java JCE cipher.
+20:38:02 [INFOS] Using standard Java compressor.
+20:38:02 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.19-R0.1-SNAPSHOT:19424ab:1678
+20:38:02 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+20:38:02 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+20:38:02 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+20:38:02 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+20:38:02 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+20:38:02 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+20:38:02 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+20:38:02 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+20:38:02 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+20:38:02 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+20:38:02 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+20:38:02 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+20:38:02 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+20:38:02 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+20:38:02 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+20:38:02 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+20:38:02 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+20:38:02 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+20:38:02 [INFOS] Listening on /0.0.0.0:25565
+20:38:12 [INFOS] [/127.0.0.1:51558] <-> InitialHandler has pinged
+20:38:14 [INFOS] [/127.0.0.1:51568] <-> InitialHandler has connected
+20:38:14 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+20:50:42 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+20:50:42 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+20:50:42 [INFOS] [/127.0.0.1:51675] <-> InitialHandler has pinged
+20:50:48 [INFOS] [Midey1901,/127.0.0.1:51707] <-> InitialHandler has connected
+20:50:48 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+20:52:07 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+20:52:07 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+20:52:08 [INFOS] [/127.0.0.1:51728] <-> InitialHandler has pinged
+20:52:11 [INFOS] [Midey1901,/127.0.0.1:51758] <-> InitialHandler has connected
+20:52:11 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+20:52:54 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+20:52:54 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+20:52:55 [INFOS] [/127.0.0.1:51773] <-> InitialHandler has pinged
+20:52:57 [INFOS] [Midey1901,/127.0.0.1:51800] <-> InitialHandler has connected
+20:52:57 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+20:53:39 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+20:53:39 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+20:53:40 [INFOS] [/127.0.0.1:51816] <-> InitialHandler has pinged
+20:53:42 [INFOS] [Midey1901,/127.0.0.1:51838] <-> InitialHandler has connected
+20:53:42 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+20:54:08 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+20:54:08 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+20:54:08 [INFOS] [/127.0.0.1:51860] <-> InitialHandler has pinged
+20:54:11 [INFOS] [Midey1901,/127.0.0.1:51887] <-> InitialHandler has connected
+20:54:11 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+20:54:26 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+20:54:26 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+20:54:27 [INFOS] [/127.0.0.1:51898] <-> InitialHandler has pinged
+20:54:29 [INFOS] [Midey1901,/127.0.0.1:51904] <-> InitialHandler has connected
+20:54:29 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+21:07:07 [INFOS] [Midey1901] disconnected with: §fServer closed
+21:07:07 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+21:07:07 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+21:07:38 [INFOS] [Midey1901,/127.0.0.1:51981] <-> InitialHandler has connected
+21:07:38 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+21:44:20 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+21:44:20 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+21:44:20 [INFOS] [/127.0.0.1:52107] <-> InitialHandler has pinged
+21:44:23 [INFOS] [Midey1901,/127.0.0.1:52126] <-> InitialHandler has connected
+21:44:23 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+21:45:23 [INFOS] [Midey1901] disconnected with: §fServer closed
+21:45:23 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+21:45:23 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+21:54:44 [INFOS] [Midey1901,/127.0.0.1:52190] <-> InitialHandler has connected
+21:54:44 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+22:24:08 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+22:24:08 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+22:24:08 [INFOS] [/127.0.0.1:52298] <-> InitialHandler has pinged
+22:24:40 [INFOS] [Midey1901,/127.0.0.1:52338] <-> InitialHandler has connected
+22:24:40 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+22:41:22 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+22:41:22 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+22:41:22 [INFOS] [/127.0.0.1:52393] <-> InitialHandler has pinged
+22:42:46 [INFOS] [Midey1901,/127.0.0.1:52435] <-> InitialHandler has connected
+22:42:46 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+22:42:48 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+22:42:48 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+22:42:49 [INFOS] [/127.0.0.1:52438] <-> InitialHandler has pinged
+22:45:42 [INFOS] [Midey1901,/127.0.0.1:52496] <-> InitialHandler has connected
+22:45:42 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+22:45:53 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+22:45:53 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+22:45:54 [INFOS] [/127.0.0.1:52499] <-> InitialHandler has pinged
+22:46:19 [INFOS] [Midey1901,/127.0.0.1:52542] <-> InitialHandler has connected
+22:46:19 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+22:49:23 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+22:49:23 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+22:49:24 [INFOS] [/127.0.0.1:52563] <-> InitialHandler has pinged
+22:49:28 [INFOS] [Midey1901,/127.0.0.1:52597] <-> InitialHandler has connected
+22:49:28 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+22:49:35 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+22:49:35 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+22:49:36 [INFOS] [/127.0.0.1:52602] <-> InitialHandler has pinged
+22:54:07 [INFOS] [Midey1901,/127.0.0.1:52652] <-> InitialHandler has connected
+22:54:07 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+22:54:15 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+22:54:15 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+22:54:15 [INFOS] [/127.0.0.1:52655] <-> InitialHandler has pinged
+23:04:19 [INFOS] [Midey1901,/127.0.0.1:52717] <-> InitialHandler has connected
+23:04:19 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+23:05:26 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+23:05:26 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+23:05:26 [INFOS] [/127.0.0.1:52733] <-> InitialHandler has pinged
+23:05:33 [INFOS] [Midey1901,/127.0.0.1:52765] <-> InitialHandler has connected
+23:05:33 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+23:07:07 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+23:07:07 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+23:07:08 [INFOS] [/127.0.0.1:52783] <-> InitialHandler has pinged
+23:07:14 [INFOS] [Midey1901,/127.0.0.1:52814] <-> InitialHandler has connected
+23:07:14 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+23:09:19 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+23:09:19 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+23:09:19 [INFOS] [/127.0.0.1:52828] <-> InitialHandler has pinged
+23:09:24 [INFOS] [Midey1901,/127.0.0.1:52859] <-> InitialHandler has connected
+23:09:24 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+23:10:37 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+23:10:37 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+23:10:38 [INFOS] [/127.0.0.1:52888] <-> InitialHandler has pinged
+23:10:43 [INFOS] [Midey1901,/127.0.0.1:52918] <-> InitialHandler has connected
+23:10:43 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+23:11:46 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+23:11:46 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+23:11:46 [INFOS] [/127.0.0.1:52944] <-> InitialHandler has pinged
+23:44:00 [INFOS] [Midey1901,/127.0.0.1:53071] <-> InitialHandler has connected
+23:44:00 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+23:49:06 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+23:49:06 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+23:49:06 [INFOS] [/127.0.0.1:53097] <-> InitialHandler has pinged
+23:49:13 [INFOS] [Midey1901,/127.0.0.1:53128] <-> InitialHandler has connected
+23:49:13 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+23:52:53 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+23:52:53 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+23:52:53 [INFOS] [/127.0.0.1:53152] <-> InitialHandler has pinged
+23:52:59 [INFOS] [Midey1901,/127.0.0.1:53183] <-> InitialHandler has connected
+23:52:59 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+23:55:56 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+23:55:56 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+23:55:56 [INFOS] [/127.0.0.1:53198] <-> InitialHandler has pinged
+23:56:03 [INFOS] [Midey1901,/127.0.0.1:53229] <-> InitialHandler has connected
+23:56:03 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+23:58:24 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+23:58:24 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+23:58:25 [INFOS] [/127.0.0.1:53252] <-> InitialHandler has pinged
+23:58:46 [INFOS] [Midey1901,/127.0.0.1:53289] <-> InitialHandler has connected
+23:58:46 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+00:03:34 [INFOS] [Midey1901] disconnected with: §fServer closed
+00:03:34 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+00:03:34 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+00:03:52 [INFOS] Closing listener [id: 0x16e042fb, L:/0:0:0:0:0:0:0:0:25565]
+00:03:52 [INFOS] Closing pending connections
+00:03:52 [INFOS] Disconnecting 0 connections
+00:03:52 [INFOS] Saving reconnect locations
+00:03:52 [INFOS] Disabling plugins
+00:03:52 [INFOS] Closing IO threads
+00:03:54 [INFOS] Thank you and goodbye
+17:22:44 [INFOS] Using standard Java JCE cipher.
+17:22:44 [INFOS] Using standard Java compressor.
+17:22:44 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.19-R0.1-SNAPSHOT:19424ab:1678
+17:22:44 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+17:22:44 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+17:22:44 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+17:22:44 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+17:22:44 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+17:22:44 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+17:22:45 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+17:22:45 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+17:22:45 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+17:22:45 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+17:22:45 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+17:22:45 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+17:22:45 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+17:22:45 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+17:22:45 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+17:22:45 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+17:22:45 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+17:22:45 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+17:22:45 [INFOS] Listening on /0.0.0.0:25565
+17:23:51 [INFOS] [/127.0.0.1:50960] <-> InitialHandler has pinged
+17:23:52 [INFOS] [/127.0.0.1:50969] <-> InitialHandler has connected
+17:23:52 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+17:24:20 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+17:24:20 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+17:24:21 [INFOS] [/127.0.0.1:51000] <-> InitialHandler has pinged
+17:29:11 [INFOS] [/127.0.0.1:51044] <-> InitialHandler has connected
+17:29:11 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+17:29:24 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+17:29:24 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+17:29:24 [INFOS] [/127.0.0.1:51048] <-> InitialHandler has pinged
+17:32:36 [INFOS] [Midey1901,/127.0.0.1:51086] <-> InitialHandler has connected
+17:32:36 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+17:32:56 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+17:32:56 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+17:32:56 [INFOS] [/127.0.0.1:51097] <-> InitialHandler has pinged
+17:34:02 [INFOS] [Midey1901,/127.0.0.1:51142] <-> InitialHandler has connected
+17:34:02 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+17:34:05 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+17:34:05 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+17:34:06 [INFOS] [/127.0.0.1:51146] <-> InitialHandler has pinged
+17:37:55 [INFOS] [Midey1901,/127.0.0.1:51194] <-> InitialHandler has connected
+17:37:55 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+17:37:58 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+17:37:58 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+17:37:59 [INFOS] [/127.0.0.1:51201] <-> InitialHandler has pinged
+17:43:02 [INFOS] [Midey1901,/127.0.0.1:51251] <-> InitialHandler has connected
+17:43:02 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+17:43:04 [AVERTISSEMENT] [Midey1901] -> UpstreamBridge - IOException: Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+17:43:04 [INFOS] [Midey1901] disconnected with: §fIOException : Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte @ sun.nio.ch.SocketDispatcher:-2
+17:43:04 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+17:43:04 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+17:43:05 [INFOS] [/127.0.0.1:51253] <-> InitialHandler has pinged
+17:43:31 [INFOS] [Midey1901,/127.0.0.1:51296] <-> InitialHandler has connected
+17:43:31 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+17:43:40 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+17:43:40 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+17:43:40 [INFOS] [/127.0.0.1:51302] <-> InitialHandler has pinged
+17:44:00 [INFOS] [Midey1901,/127.0.0.1:51336] <-> InitialHandler has connected
+17:44:00 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+18:22:31 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+18:22:31 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+18:22:32 [INFOS] [/127.0.0.1:51441] <-> InitialHandler has pinged
+18:36:33 [INFOS] [Midey1901,/127.0.0.1:51511] <-> InitialHandler has connected
+18:36:33 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+18:42:28 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+18:42:28 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+18:42:28 [INFOS] [/127.0.0.1:51546] <-> InitialHandler has pinged
+18:42:33 [INFOS] [Midey1901,/127.0.0.1:51578] <-> InitialHandler has connected
+18:42:33 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+18:44:20 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+18:44:20 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+18:44:20 [INFOS] [/127.0.0.1:51603] <-> InitialHandler has pinged
+18:44:25 [INFOS] [Midey1901,/127.0.0.1:51633] <-> InitialHandler has connected
+18:44:25 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+18:45:11 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+18:45:11 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+18:45:11 [INFOS] [/127.0.0.1:51640] <-> InitialHandler has pinged
+18:54:58 [INFOS] [Midey1901,/127.0.0.1:51715] <-> InitialHandler has connected
+18:54:58 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+18:55:30 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+18:55:30 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+18:55:31 [INFOS] [/127.0.0.1:51728] <-> InitialHandler has pinged
+19:02:29 [INFOS] [Midey1901,/127.0.0.1:51778] <-> InitialHandler has connected
+19:02:29 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+19:03:05 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+19:03:05 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+19:03:06 [INFOS] [/127.0.0.1:51784] <-> InitialHandler has pinged
+19:03:08 [INFOS] [Midey1901,/127.0.0.1:51804] <-> InitialHandler has connected
+19:03:08 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+19:05:25 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+19:05:25 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+19:05:26 [INFOS] [/127.0.0.1:51852] <-> InitialHandler has pinged
+19:05:28 [INFOS] [Midey1901,/127.0.0.1:51867] <-> InitialHandler has connected
+19:05:28 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+19:06:20 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+19:06:20 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+19:06:21 [INFOS] [/127.0.0.1:51893] <-> InitialHandler has pinged
+19:06:58 [INFOS] [Midey1901,/127.0.0.1:51929] <-> InitialHandler has connected
+19:06:58 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+19:07:09 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+19:07:09 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+19:07:10 [INFOS] [/127.0.0.1:51932] <-> InitialHandler has pinged
+19:08:16 [INFOS] [Midey1901,/127.0.0.1:51985] <-> InitialHandler has connected
+19:08:16 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+19:09:48 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+19:09:48 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+19:09:48 [INFOS] [/127.0.0.1:52013] <-> InitialHandler has pinged
+19:09:50 [INFOS] [Midey1901,/127.0.0.1:52037] <-> InitialHandler has connected
+19:09:51 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+19:11:49 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+19:11:49 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+19:11:50 [INFOS] [/127.0.0.1:52061] <-> InitialHandler has pinged
+19:11:55 [INFOS] [Midey1901,/127.0.0.1:52093] <-> InitialHandler has connected
+19:11:55 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+19:12:15 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+19:12:15 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+19:12:15 [INFOS] [/127.0.0.1:52100] <-> InitialHandler has pinged
+19:12:28 [INFOS] [Midey1901,/127.0.0.1:52136] <-> InitialHandler has connected
+19:12:28 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+19:13:50 [INFOS] [Midey1901] disconnected with: §fServer closed
+19:13:50 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+19:13:50 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+19:35:05 [INFOS] [Midey1901,/127.0.0.1:52218] <-> InitialHandler has connected
+19:35:05 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+19:38:50 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+19:38:50 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+19:38:50 [INFOS] [/127.0.0.1:52257] <-> InitialHandler has pinged
+19:38:57 [INFOS] [Midey1901,/127.0.0.1:52288] <-> InitialHandler has connected
+19:38:57 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+19:39:20 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+19:39:20 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+19:39:21 [INFOS] [/127.0.0.1:52299] <-> InitialHandler has pinged
+19:39:33 [INFOS] [Midey1901,/127.0.0.1:52337] <-> InitialHandler has connected
+19:39:33 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+19:39:55 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+19:39:55 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+19:39:55 [INFOS] [/127.0.0.1:52352] <-> InitialHandler has pinged
+19:40:05 [INFOS] [Midey1901,/127.0.0.1:52389] <-> InitialHandler has connected
+19:40:05 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+19:43:23 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+19:43:23 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+19:43:23 [INFOS] [/127.0.0.1:52423] <-> InitialHandler has pinged
+19:43:38 [INFOS] [Midey1901,/127.0.0.1:52464] <-> InitialHandler has connected
+19:43:38 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+19:45:19 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+19:45:19 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+19:45:19 [INFOS] [/127.0.0.1:52486] <-> InitialHandler has pinged
+19:45:40 [INFOS] [Midey1901,/127.0.0.1:52528] <-> InitialHandler has connected
+19:45:40 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+19:52:41 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+19:52:41 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+19:52:42 [INFOS] [/127.0.0.1:52589] <-> InitialHandler has pinged
+19:52:44 [INFOS] [Midey1901,/127.0.0.1:52612] <-> InitialHandler has connected
+19:52:44 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+19:56:33 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+19:56:33 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+19:56:33 [INFOS] [/127.0.0.1:52669] <-> InitialHandler has pinged
+20:08:35 [INFOS] [Midey1901,/127.0.0.1:52749] <-> InitialHandler has connected
+20:08:35 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+21:12:59 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+21:12:59 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+21:13:00 [INFOS] [/127.0.0.1:52975] <-> InitialHandler has pinged
+21:13:13 [INFOS] [Midey1901,/127.0.0.1:53011] <-> InitialHandler has connected
+21:13:13 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+21:13:16 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+21:13:19 [AVERTISSEMENT] [Midey1901] <-> ServerConnector [Lobby] - IOException: Une connexion existante a dû être fermée par l’hôte distant
+21:13:19 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has disconnected
+21:13:29 [INFOS] [Midey1901,/127.0.0.1:53024] <-> InitialHandler has connected
+21:13:29 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+21:33:32 [INFOS] [Midey1901] disconnected with: §fServer closed
+21:33:32 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+21:33:32 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+21:35:08 [INFOS] [Midey1901,/127.0.0.1:53126] <-> InitialHandler has connected
+21:35:08 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+23:30:46 [AVERTISSEMENT] [Midey1901] -> UpstreamBridge - IOException: Une connexion existante a dû être fermée par l’hôte distant
+23:30:46 [INFOS] [Midey1901] disconnected with: §fIOException : Une connexion existante a dû être fermée par l’hôte distant @ sun.nio.ch.SocketDispatcher:-2
+23:30:46 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+23:30:46 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+23:31:02 [INFOS] Closing listener [id: 0x283944e3, L:/0:0:0:0:0:0:0:0:25565]
+23:31:02 [INFOS] Closing pending connections
+23:31:02 [INFOS] Disconnecting 0 connections
+23:31:02 [INFOS] Saving reconnect locations
+23:31:02 [INFOS] Disabling plugins
+23:31:02 [INFOS] Closing IO threads
+23:31:04 [INFOS] Thank you and goodbye
+11:30:08 [INFOS] Using standard Java JCE cipher.
+11:30:08 [INFOS] Using standard Java compressor.
+11:30:08 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.19-R0.1-SNAPSHOT:19424ab:1678
+11:30:08 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+11:30:08 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+11:30:08 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+11:30:08 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+11:30:08 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+11:30:08 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+11:30:08 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+11:30:08 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+11:30:08 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+11:30:08 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+11:30:08 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+11:30:08 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+11:30:08 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+11:30:08 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+11:30:08 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+11:30:08 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+11:30:08 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+11:30:08 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+11:30:09 [INFOS] Listening on /0.0.0.0:25565
+11:31:38 [INFOS] [/127.0.0.1:61511] <-> InitialHandler has pinged
+11:31:39 [INFOS] [/127.0.0.1:61521] <-> InitialHandler has connected
+11:31:39 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+17:15:02 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+17:15:02 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+17:15:56 [INFOS] [/127.0.0.1:63033] <-> InitialHandler has connected
+17:15:56 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+19:40:51 [INFOS] [/127.0.0.1:63839] <-> InitialHandler has pinged
+19:40:52 [INFOS] [Arzodiacc,/127.0.0.1:63849] <-> InitialHandler has connected
+19:40:52 [INFOS] [Arzodiacc] <-> ServerConnector [Lobby] has connected
+19:42:42 [INFOS] [Arzodiacc] -> UpstreamBridge has disconnected
+19:42:42 [INFOS] [Arzodiacc] <-> DownstreamBridge <-> [Lobby] has disconnected
+19:42:43 [INFOS] [/127.0.0.1:63902] <-> InitialHandler has pinged
+19:42:45 [INFOS] [Arzodiacc,/127.0.0.1:63926] <-> InitialHandler has connected
+19:42:45 [INFOS] [Arzodiacc] <-> ServerConnector [Lobby] has connected
+20:40:04 [AVERTISSEMENT] [Midey1901] -> UpstreamBridge - IOException: Une connexion existante a dû être fermée par l’hôte distant
+20:40:04 [INFOS] [Midey1901] disconnected with: §fIOException : Une connexion existante a dû être fermée par l’hôte distant @ sun.nio.ch.SocketDispatcher:-2
+20:40:04 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+20:40:04 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+20:40:05 [AVERTISSEMENT] [Arzodiacc] -> UpstreamBridge - IOException: Une connexion existante a dû être fermée par l’hôte distant
+20:40:05 [INFOS] [Arzodiacc] disconnected with: §fIOException : Une connexion existante a dû être fermée par l’hôte distant @ sun.nio.ch.SocketDispatcher:-2
+20:40:05 [INFOS] [Arzodiacc] <-> DownstreamBridge <-> [Lobby] has disconnected
+20:40:05 [INFOS] [Arzodiacc] -> UpstreamBridge has disconnected
+20:40:11 [INFOS] Closing listener [id: 0x3e256feb, L:/0:0:0:0:0:0:0:0:25565]
+20:40:11 [INFOS] Closing pending connections
+20:40:11 [INFOS] Disconnecting 0 connections
+20:40:11 [INFOS] Saving reconnect locations
+20:40:11 [INFOS] Disabling plugins
+20:40:11 [INFOS] Closing IO threads
+20:40:13 [INFOS] Thank you and goodbye
+10:13:28 [INFOS] Using standard Java JCE cipher.
+10:13:28 [INFOS] Using standard Java compressor.
+10:13:28 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.19-R0.1-SNAPSHOT:19424ab:1678
+10:13:28 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+10:13:28 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+10:13:28 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+10:13:28 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+10:13:28 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+10:13:28 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+10:13:28 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+10:13:28 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+10:13:28 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+10:13:28 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+10:13:28 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+10:13:28 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+10:13:28 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+10:13:28 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+10:13:28 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+10:13:28 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+10:13:28 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+10:13:28 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+10:13:29 [INFOS] Listening on /0.0.0.0:25565
+10:13:39 [INFOS] [/127.0.0.1:59700] <-> InitialHandler has pinged
+10:13:41 [INFOS] [/127.0.0.1:59710] <-> InitialHandler has connected
+10:13:41 [INFOS] [Arzodiacc] <-> ServerConnector [Lobby] has connected
+10:57:13 [INFOS] [/127.0.0.1:60362] <-> InitialHandler has pinged
+10:57:16 [INFOS] [Midey1901,/127.0.0.1:60386] <-> InitialHandler has connected
+10:57:16 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+11:52:35 [AVERTISSEMENT] [Arzodiacc] -> UpstreamBridge - IOException: Une connexion existante a dû être fermée par l’hôte distant
+11:52:35 [INFOS] [Arzodiacc] disconnected with: §fIOException : Une connexion existante a dû être fermée par l’hôte distant @ sun.nio.ch.SocketDispatcher:-2
+11:52:35 [INFOS] [Arzodiacc] <-> DownstreamBridge <-> [Lobby] has disconnected
+11:52:35 [INFOS] [Arzodiacc] -> UpstreamBridge has disconnected
+11:52:36 [AVERTISSEMENT] [Midey1901] -> UpstreamBridge - IOException: Une connexion existante a dû être fermée par l’hôte distant
+11:52:36 [INFOS] [Midey1901] disconnected with: §fIOException : Une connexion existante a dû être fermée par l’hôte distant @ sun.nio.ch.SocketDispatcher:-2
+11:52:36 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+11:52:36 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+11:52:45 [INFOS] Closing listener [id: 0xc30f01c1, L:/0:0:0:0:0:0:0:0:25565]
+11:52:45 [INFOS] Closing pending connections
+11:52:45 [INFOS] Disconnecting 0 connections
+11:52:46 [INFOS] Saving reconnect locations
+11:52:46 [INFOS] Disabling plugins
+11:52:46 [INFOS] Closing IO threads
+11:52:48 [INFOS] Thank you and goodbye
+18:03:06 [INFOS] Using standard Java JCE cipher.
+18:03:06 [INFOS] Using standard Java compressor.
+18:03:06 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.19-R0.1-SNAPSHOT:19424ab:1678
+18:03:07 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+18:03:07 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+18:03:07 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+18:03:07 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+18:03:07 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+18:03:07 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+18:03:07 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+18:03:07 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+18:03:07 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+18:03:07 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+18:03:08 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+18:03:08 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+18:03:08 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+18:03:08 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+18:03:08 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+18:03:08 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+18:03:08 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+18:03:08 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+18:03:11 [INFOS] Listening on /0.0.0.0:25565
+18:03:21 [INFOS] [/127.0.0.1:61527] <-> InitialHandler has pinged
+18:03:22 [INFOS] [/127.0.0.1:61535] <-> InitialHandler has connected
+18:03:22 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+18:04:37 [INFOS] [/127.0.0.1:61657] <-> InitialHandler has connected
+18:04:37 [INFOS] [Arzodiacc] <-> ServerConnector [Lobby] has connected
+23:05:21 [AVERTISSEMENT] [Midey1901] -> UpstreamBridge - IOException: Une connexion existante a dû être fermée par l’hôte distant
+23:05:21 [INFOS] [Midey1901] disconnected with: §fIOException : Une connexion existante a dû être fermée par l’hôte distant @ sun.nio.ch.SocketDispatcher:-2
+23:05:21 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+23:05:21 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+23:17:49 [AVERTISSEMENT] [Arzodiacc] <-> DownstreamBridge <-> [Lobby] - IOException: Une connexion existante a dû être fermée par l’hôte distant
+23:17:49 [INFOS] [Arzodiacc] disconnected with: §fIOException : Une connexion existante a dû être fermée par l’hôte distant @ sun.nio.ch.SocketDispatcher:-2
+23:17:49 [INFOS] [Arzodiacc] -> UpstreamBridge has disconnected
+23:17:49 [INFOS] [Arzodiacc] <-> DownstreamBridge <-> [Lobby] has disconnected
+23:18:20 [INFOS] [/127.0.0.1:63589] <-> InitialHandler has connected
+23:18:21 [INFOS] [Arzodiacc] <-> ServerConnector [Lobby] has connected
+23:20:31 [AVERTISSEMENT] [Arzodiacc] <-> DownstreamBridge <-> [Lobby] - IOException: Une connexion existante a dû être fermée par l’hôte distant
+23:20:31 [INFOS] [Arzodiacc] disconnected with: §fIOException : Une connexion existante a dû être fermée par l’hôte distant @ sun.nio.ch.SocketDispatcher:-2
+23:20:31 [INFOS] [Arzodiacc] -> UpstreamBridge has disconnected
+23:20:31 [INFOS] [Arzodiacc] <-> DownstreamBridge <-> [Lobby] has disconnected
+23:25:51 [INFOS] [Arzodiacc,/127.0.0.1:63647] <-> InitialHandler has connected
+23:25:51 [INFOS] [Arzodiacc] <-> ServerConnector [Lobby] has connected
+23:26:25 [INFOS] [Arzodiacc] -> UpstreamBridge has disconnected
+23:26:25 [INFOS] [Arzodiacc] <-> DownstreamBridge <-> [Lobby] has disconnected
+23:26:32 [INFOS] [Arzodiacc,/127.0.0.1:63657] <-> InitialHandler has connected
+23:26:32 [INFOS] [Arzodiacc] <-> ServerConnector [Lobby] has connected
+23:26:37 [INFOS] [Arzodiacc] -> UpstreamBridge has disconnected
+23:26:39 [AVERTISSEMENT] [Arzodiacc] <-> ServerConnector [Lobby] - IOException: Une connexion existante a dû être fermée par l’hôte distant
+23:26:39 [INFOS] [Arzodiacc] <-> ServerConnector [Lobby] has disconnected
+23:27:18 [INFOS] §6You may connect to the following servers at this time: §6Corucentre§6, Korriban§6, Yavin§6, Lobby
+23:27:42 [INFOS] [Arzodiacc,/127.0.0.1:63686] <-> InitialHandler has connected
+23:28:51 [INFOS] Using standard Java JCE cipher.
+23:28:51 [INFOS] Using standard Java compressor.
+23:28:51 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.19-R0.1-SNAPSHOT:19424ab:1678
+23:28:51 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+23:28:51 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+23:28:51 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+23:28:51 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+23:28:51 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+23:28:51 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+23:28:51 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+23:28:51 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+23:28:51 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+23:28:51 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+23:28:51 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+23:28:51 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+23:28:51 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+23:28:51 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+23:28:51 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+23:28:51 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+23:28:51 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+23:28:51 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+23:28:52 [AVERTISSEMENT] Could not bind to host /0.0.0.0:25565
+java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Unknown Source)
+	at sun.nio.ch.Net.bind(Unknown Source)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(Unknown Source)
+	at io.netty.channel.socket.nio.NioServerSocketChannel.doBind(NioServerSocketChannel.java:141)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.bind(AbstractChannel.java:562)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.bind(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeBind(AbstractChannelHandlerContext.java:600)
+	at io.netty.channel.AbstractChannelHandlerContext.bind(AbstractChannelHandlerContext.java:579)
+	at io.netty.channel.DefaultChannelPipeline.bind(DefaultChannelPipeline.java:973)
+	at io.netty.channel.AbstractChannel.bind(AbstractChannel.java:260)
+	at io.netty.bootstrap.AbstractBootstrap$2.run(AbstractBootstrap.java:356)
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:569)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.lang.Thread.run(Unknown Source)
+23:29:16 [INFOS] Closing pending connections
+23:29:16 [INFOS] Disconnecting 0 connections
+23:29:17 [INFOS] Saving reconnect locations
+23:29:17 [INFOS] Disabling plugins
+23:29:17 [INFOS] Closing IO threads
+23:29:24 [INFOS] Using standard Java JCE cipher.
+23:29:24 [INFOS] Using standard Java compressor.
+23:29:24 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.19-R0.1-SNAPSHOT:19424ab:1678
+23:29:24 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+23:29:24 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+23:29:24 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+23:29:24 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+23:29:24 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+23:29:24 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+23:29:24 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+23:29:24 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+23:29:24 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+23:29:24 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+23:29:24 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+23:29:24 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+23:29:25 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+23:29:25 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+23:29:25 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+23:29:25 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+23:29:25 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+23:29:25 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+23:29:25 [AVERTISSEMENT] Could not bind to host /0.0.0.0:25565
+java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Unknown Source)
+	at sun.nio.ch.Net.bind(Unknown Source)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(Unknown Source)
+	at io.netty.channel.socket.nio.NioServerSocketChannel.doBind(NioServerSocketChannel.java:141)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.bind(AbstractChannel.java:562)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.bind(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeBind(AbstractChannelHandlerContext.java:600)
+	at io.netty.channel.AbstractChannelHandlerContext.bind(AbstractChannelHandlerContext.java:579)
+	at io.netty.channel.DefaultChannelPipeline.bind(DefaultChannelPipeline.java:973)
+	at io.netty.channel.AbstractChannel.bind(AbstractChannel.java:260)
+	at io.netty.bootstrap.AbstractBootstrap$2.run(AbstractBootstrap.java:356)
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:569)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.lang.Thread.run(Unknown Source)
+23:29:29 [INFOS] §cCommand not found
+23:29:31 [INFOS] Closing pending connections
+23:29:31 [INFOS] Disconnecting 0 connections
+23:29:31 [INFOS] Saving reconnect locations
+23:29:31 [INFOS] Disabling plugins
+23:29:31 [INFOS] Closing IO threads
+23:29:44 [INFOS] Using standard Java JCE cipher.
+23:29:44 [INFOS] Using standard Java compressor.
+23:29:44 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.19-R0.1-SNAPSHOT:19424ab:1678
+23:29:44 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+23:29:44 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+23:29:44 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+23:29:44 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+23:29:44 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+23:29:44 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+23:29:44 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+23:29:44 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+23:29:44 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+23:29:44 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+23:29:44 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+23:29:44 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+23:29:44 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+23:29:44 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+23:29:44 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+23:29:44 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+23:29:44 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+23:29:44 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+23:29:45 [INFOS] Listening on /0.0.0.0:25565
+23:30:20 [INFOS] [/127.0.0.1:63892] <-> InitialHandler has connected
+23:30:20 [INFOS] [Arzodiacc] <-> ServerConnector [Lobby] has connected
+23:30:20 [GRAVE] [Arzodiacc] <-> ServerConnector [Lobby] - encountered exception: net.md_5.bungee.util.QuietException: Server is online mode!
+23:30:20 [INFOS] [Arzodiacc] disconnected with: §fException Connecting:QuietException : Server is online mode!
+23:30:20 [INFOS] [Arzodiacc] -> UpstreamBridge has disconnected
+23:30:20 [INFOS] [Arzodiacc] <-> ServerConnector [Lobby] has disconnected
+23:30:26 [INFOS] [/127.0.0.1:63896] <-> InitialHandler has connected
+23:30:26 [INFOS] [Arzodiacc] <-> ServerConnector [Lobby] has connected
+23:30:26 [GRAVE] [Arzodiacc] <-> ServerConnector [Lobby] - encountered exception: net.md_5.bungee.util.QuietException: Server is online mode!
+23:30:26 [INFOS] [Arzodiacc] disconnected with: §fException Connecting:QuietException : Server is online mode!
+23:30:26 [INFOS] [Arzodiacc] -> UpstreamBridge has disconnected
+23:30:26 [INFOS] [Arzodiacc] <-> ServerConnector [Lobby] has disconnected
+23:31:16 [INFOS] [/127.0.0.1:63903] <-> InitialHandler has pinged
+23:31:18 [INFOS] [/127.0.0.1:63924] <-> InitialHandler has connected
+23:31:18 [INFOS] [Arzodiacc] <-> ServerConnector [Lobby] has connected
+23:34:08 [AVERTISSEMENT] [Arzodiacc] <-> DownstreamBridge <-> [Lobby] - IOException: Une connexion existante a dû être fermée par l’hôte distant
+23:34:08 [INFOS] [Arzodiacc] disconnected with: §fIOException : Une connexion existante a dû être fermée par l’hôte distant @ sun.nio.ch.SocketDispatcher:-2
+23:34:08 [INFOS] [Arzodiacc] -> UpstreamBridge has disconnected
+23:34:08 [INFOS] [Arzodiacc] <-> DownstreamBridge <-> [Lobby] has disconnected
+23:34:22 [INFOS] [/127.0.0.1:63993] <-> InitialHandler has pinged
+23:34:24 [INFOS] [/127.0.0.1:64010] <-> InitialHandler has connected
+23:34:24 [INFOS] [Arzodiacc] <-> ServerConnector [Lobby] has connected
+23:34:34 [AVERTISSEMENT] [Arzodiacc] <-> DownstreamBridge <-> [Lobby] - IOException: Une connexion existante a dû être fermée par l’hôte distant
+23:34:34 [INFOS] [Arzodiacc] disconnected with: §fIOException : Une connexion existante a dû être fermée par l’hôte distant @ sun.nio.ch.SocketDispatcher:-2
+23:34:34 [INFOS] [Arzodiacc] -> UpstreamBridge has disconnected
+23:34:34 [INFOS] [Arzodiacc] <-> DownstreamBridge <-> [Lobby] has disconnected
+23:35:16 [INFOS] [Arzodiacc,/127.0.0.1:64051] <-> InitialHandler has connected
+23:35:16 [INFOS] [Arzodiacc] <-> ServerConnector [Lobby] has connected
+23:56:24 [INFOS] [Arzodiacc] disconnected with: §cProxy lost connection to server.
+23:56:24 [INFOS] [Arzodiacc] <-> DownstreamBridge <-> [Lobby] has disconnected
+23:56:24 [INFOS] [Arzodiacc] -> UpstreamBridge has disconnected
+23:56:42 [INFOS] Closing listener [id: 0x1b0c059e, L:/0:0:0:0:0:0:0:0:25565]
+23:56:42 [INFOS] Closing pending connections
+23:56:42 [INFOS] Disconnecting 0 connections
+23:56:43 [INFOS] Saving reconnect locations
+23:56:43 [INFOS] Disabling plugins
+23:56:43 [INFOS] Closing IO threads
+12:29:54 [INFOS] Using standard Java JCE cipher.
+12:29:54 [INFOS] Using standard Java compressor.
+12:29:54 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.19-R0.1-SNAPSHOT:19424ab:1678
+12:29:54 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+12:29:54 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+12:29:54 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+12:29:54 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+12:29:54 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+12:29:54 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+12:29:54 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+12:29:54 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+12:29:54 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+12:29:54 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+12:29:54 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+12:29:54 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+12:29:54 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+12:29:54 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+12:29:54 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+12:29:54 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+12:29:54 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+12:29:54 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+12:29:55 [INFOS] Listening on /0.0.0.0:25565
+12:30:13 [INFOS] [/127.0.0.1:61088] <-> InitialHandler has pinged
+12:30:15 [INFOS] [/127.0.0.1:61117] <-> InitialHandler has connected
+12:30:16 [INFOS] [Arzodiacc] <-> ServerConnector [Lobby] has connected
+14:20:01 [INFOS] [Arzodiacc] disconnected with: §fServer closed
+14:20:01 [INFOS] [Arzodiacc] -> UpstreamBridge has disconnected
+14:20:01 [INFOS] [Arzodiacc] <-> DownstreamBridge <-> [Lobby] has disconnected
+14:20:08 [INFOS] Closing listener [id: 0x2fde59d9, L:/0:0:0:0:0:0:0:0:25565]
+14:20:08 [INFOS] Closing pending connections
+14:20:08 [INFOS] Disconnecting 0 connections
+14:20:08 [INFOS] Saving reconnect locations
+14:20:08 [INFOS] Disabling plugins
+14:20:08 [INFOS] Closing IO threads
+14:20:09 [INFOS] §cCommand not found
+16:00:39 [INFOS] Using standard Java JCE cipher.
+16:00:39 [INFOS] Using standard Java compressor.
+16:00:39 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.19-R0.1-SNAPSHOT:19424ab:1678
+16:00:39 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+16:00:39 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+16:00:39 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+16:00:39 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+16:00:39 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+16:00:39 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+16:00:39 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:00:39 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:00:39 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:00:39 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:00:39 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:00:39 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:00:39 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:00:39 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:00:39 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:00:39 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:00:39 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:00:39 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+16:00:40 [INFOS] Listening on /0.0.0.0:25565
+16:01:46 [INFOS] [/127.0.0.1:59760] <-> InitialHandler has connected
+16:01:47 [INFOS] [Arzodiacc] <-> ServerConnector [Lobby] has connected
+16:51:33 [AVERTISSEMENT] [Arzodiacc] -> UpstreamBridge - IOException: Une connexion existante a dû être fermée par l’hôte distant
+16:51:33 [INFOS] [Arzodiacc] disconnected with: §fIOException : Une connexion existante a dû être fermée par l’hôte distant @ sun.nio.ch.SocketDispatcher:-2
+16:51:33 [INFOS] [Arzodiacc] <-> DownstreamBridge <-> [Lobby] has disconnected
+16:51:33 [INFOS] [Arzodiacc] -> UpstreamBridge has disconnected
+16:51:36 [INFOS] Closing listener [id: 0x54f636d4, L:/0:0:0:0:0:0:0:0:25565]
+16:51:36 [INFOS] Closing pending connections
+16:51:36 [INFOS] Disconnecting 0 connections
+16:51:36 [INFOS] Saving reconnect locations
+16:51:36 [INFOS] Disabling plugins
+16:51:36 [INFOS] Closing IO threads
+16:51:39 [INFOS] Thank you and goodbye
+13:00:25 [INFOS] Using standard Java JCE cipher.
+13:00:25 [INFOS] Using standard Java compressor.
+13:00:25 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.19-R0.1-SNAPSHOT:19424ab:1678
+13:00:25 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+13:00:25 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+13:00:25 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+13:00:25 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+13:00:25 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+13:00:25 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+13:00:25 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+13:00:25 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+13:00:25 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+13:00:25 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+13:00:25 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+13:00:25 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+13:00:25 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+13:00:25 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+13:00:25 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+13:00:25 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+13:00:25 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+13:00:25 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+13:00:26 [INFOS] Listening on /0.0.0.0:25565
+13:27:49 [INFOS] [/127.0.0.1:61914] <-> InitialHandler has connected
+13:27:49 [INFOS] [Arzodiacc] <-> ServerConnector [Lobby] has connected
+13:27:50 [INFOS] [Arzodiacc] -> UpstreamBridge has disconnected
+13:27:50 [INFOS] [Arzodiacc] <-> DownstreamBridge <-> [Lobby] has disconnected
+13:28:03 [INFOS] [/127.0.0.1:61948] <-> InitialHandler has pinged
+13:28:06 [INFOS] [/127.0.0.1:61977] <-> InitialHandler has connected
+13:28:06 [INFOS] [Arzodiacc] <-> ServerConnector [Lobby] has connected
+18:24:46 [INFOS] [/127.0.0.1:63858] <-> InitialHandler has pinged
+18:24:49 [INFOS] [/127.0.0.1:63888] <-> InitialHandler has connected
+18:24:49 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+00:18:37 [AVERTISSEMENT] [Arzodiacc] -> UpstreamBridge - IOException: Une connexion existante a dû être fermée par l’hôte distant
+00:18:37 [INFOS] [Arzodiacc] disconnected with: §fIOException : Une connexion existante a dû être fermée par l’hôte distant @ sun.nio.ch.SocketDispatcher:-2
+00:18:37 [INFOS] [Arzodiacc] <-> DownstreamBridge <-> [Lobby] has disconnected
+00:18:37 [INFOS] [Arzodiacc] -> UpstreamBridge has disconnected
+00:18:38 [AVERTISSEMENT] [Midey1901] -> UpstreamBridge - IOException: Une connexion existante a dû être fermée par l’hôte distant
+00:18:38 [INFOS] [Midey1901] disconnected with: §fIOException : Une connexion existante a dû être fermée par l’hôte distant @ sun.nio.ch.SocketDispatcher:-2
+00:18:38 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+00:18:38 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+00:18:48 [INFOS] Closing listener [id: 0x5d61c0d2, L:/0:0:0:0:0:0:0:0:25565]
+00:18:48 [INFOS] Closing pending connections
+00:18:48 [INFOS] Disconnecting 0 connections
+00:18:49 [INFOS] Saving reconnect locations
+00:18:49 [INFOS] Disabling plugins
+00:18:49 [INFOS] Closing IO threads
