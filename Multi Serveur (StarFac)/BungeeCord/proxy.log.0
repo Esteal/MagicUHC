@@ -1813,3 +1813,38 @@ java.net.BindException: Address already in use: bind
 00:48:37 [INFOS] Saving reconnect locations
 00:48:37 [INFOS] Disabling plugins
 00:48:37 [INFOS] Closing IO threads
+20:15:21 [INFOS] Using standard Java JCE cipher.
+20:15:21 [INFOS] Using standard Java compressor.
+20:15:21 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.19-R0.1-SNAPSHOT:19424ab:1678
+20:15:21 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+20:15:21 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+20:15:21 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+20:15:21 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+20:15:21 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+20:15:21 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+20:15:21 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+20:15:21 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+20:15:21 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+20:15:21 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+20:15:21 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+20:15:21 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+20:15:21 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+20:15:21 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+20:15:21 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+20:15:21 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+20:15:21 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+20:15:21 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:19424ab:1678 by SpigotMC
+20:15:22 [INFOS] Listening on /0.0.0.0:25565
+20:15:25 [INFOS] [/127.0.0.1:58603] <-> InitialHandler has pinged
+20:15:26 [INFOS] [/127.0.0.1:58604] <-> InitialHandler has connected
+20:15:26 [INFOS] [Midey1901] <-> ServerConnector [Lobby] has connected
+22:50:03 [AVERTISSEMENT] [Midey1901] -> UpstreamBridge - IOException: Une connexion existante a dû être fermée par l’hôte distant
+22:50:03 [INFOS] [Midey1901] disconnected with: §fIOException : Une connexion existante a dû être fermée par l’hôte distant @ sun.nio.ch.SocketDispatcher:-2
+22:50:03 [INFOS] [Midey1901] <-> DownstreamBridge <-> [Lobby] has disconnected
+22:50:03 [INFOS] [Midey1901] -> UpstreamBridge has disconnected
+22:50:17 [INFOS] Closing listener [id: 0x2e2eb0fb, L:/0:0:0:0:0:0:0:0:25565]
+22:50:17 [INFOS] Closing pending connections
+22:50:17 [INFOS] Disconnecting 0 connections
+22:50:17 [INFOS] Saving reconnect locations
+22:50:17 [INFOS] Disabling plugins
+22:50:17 [INFOS] Closing IO threads

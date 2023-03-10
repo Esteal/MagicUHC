@@ -46,7 +46,7 @@ public class StatsLoader implements Listener {
 		locP.replace(p, p.getLocation());
 		HashMap<Player, Float> speedP = main.getStatsControler().getSpeedPlayer();
 		if((speedP.get(p) -0.2)*1000/3 <= 20) {
-			speedP.replace(p, speedP.get(p) + 0.0001f);
+			speedP.replace(p, speedP.get(p) + 0.00005f);
 		}
 		else if ((speedP.get(p) -0.2)*1000/3 <= 25) {
 			speedP.replace(p, speedP.get(p) + 0.0000001f);
@@ -68,7 +68,7 @@ public class StatsLoader implements Listener {
 		if(main.getCooldownStunt().containsKey(p)) e.setCancelled(true);
 		HashMap<Player, Float> resistanceP = main.getStatsControler().getResistancePlayer();
 		if((resistanceP.get(p) -0.2)*1000/3 <= 30) {
-			resistanceP.replace(p, resistanceP.get(p) + 0.0001f);
+			resistanceP.replace(p, resistanceP.get(p) + 0.001f);
 		}
 		else if ((resistanceP.get(p) -0.2)*1000/3 <= 60) {
 			resistanceP.replace(p, resistanceP.get(p) + 0.00001f);
@@ -91,7 +91,7 @@ public class StatsLoader implements Listener {
 		double dDamage = damage + damage * main.getStatsControler().getForcePlayer().get(p);
 		HashMap<Player, Float> forceP = main.getStatsControler().getForcePlayer();
 		if((forceP.get(p) -0.2)*1000/3 <= 30) {
-			forceP.replace(p, forceP.get(p) + 0.0001f);
+			forceP.replace(p, forceP.get(p) + 0.001f);
 		}
 		else if ((forceP.get(p) -0.2)*1000/3 <= 60) {
 			forceP.replace(p, forceP.get(p) + 0.00001f);

@@ -45,7 +45,7 @@ public class GradeLoader extends BukkitRunnable{
 				choice .setItem(1, lumineux.getItem());
 				p.openInventory(choice);
 			}
-			else if((s >= 0.29f && f >= 0.60f && r >= 0.60f) && (s < 0.40f && f < 0.90f && r < 0.90f)) {
+			else if((s >= 0.29f && f >= 0.60f && r >= 0.60f)) {
 				if(g.equalsIgnoreCase("Apprenti sith")) {
 					updateGrade(p, "Chevalier sith");
 					Bukkit.broadcastMessage("Le joueur §e" + p.getDisplayName() + "§r vient de passer §4Chevalier sith");

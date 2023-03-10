@@ -30,6 +30,7 @@ import fr.midey.starcraft.commands.CommandsStats;
 import fr.midey.starcraft.gradeManager.GradeChat;
 import fr.midey.starcraft.gradeManager.GradeLoader;
 import fr.midey.starcraft.gradeManager.onMenuGrade;
+import fr.midey.starcraft.itemsPackage.beskar.Beskar;
 import fr.midey.starcraft.mySQL.DbConnection;
 import fr.midey.starcraft.mySQL.DbManager;
 import fr.midey.starcraft.mySQL.DbUpdate;
@@ -47,6 +48,7 @@ public class Stats extends JavaPlugin{
 	private GradeLoader gradeLoader;
 	private DbUpdate dbUpdate;
 	private SpellCheckTimer spellCheckTimer;
+	private Beskar beskar = new Beskar();
 	
 	private HashMap<UUID, String> playerGrade = new HashMap<UUID, String>();
 	private HashMap<Player, List<String>> playerSpellAvailable = new HashMap<Player, List<String>>();
@@ -85,6 +87,8 @@ public class Stats extends JavaPlugin{
 		pm.registerEvents(new onQuitPlayer(this), this);
 		pm.registerEvents(new onDeathPlayer(), this);
 		pm.registerEvents(new onRespawnPlayer(this), this);
+		//Craft 
+		pm.registerEvents(new Beskar(), this);
 		//GradeManager
 		pm.registerEvents(new StatsLoader(this), this);
 		pm.registerEvents(new onMenuGrade(this), this);
@@ -109,6 +113,7 @@ public class Stats extends JavaPlugin{
 		getCommand("stats").setExecutor(new CommandsStats(this));
 		getCommand("wand").setExecutor(new CommandsStats(this));
 
+		
 		for (Player p : Bukkit.getOnlinePlayers()) {
 			UUID uuid = p.getUniqueId();
 			DbConnection statsConnection = getDbManager().getStatsConnection();
@@ -147,8 +152,15 @@ public class Stats extends JavaPlugin{
 				}
 			}			
 		}, 0, 5);
+		
+		createRecipe();
 	}
 	
+	private void createRecipe() {
+		beskar.craftMorceauDeBeskar();
+		beskar.craftBeskar();
+	}
+
 	@Override
 	public void onDisable() {
 		for (Player p : Bukkit.getOnlinePlayers()) {
