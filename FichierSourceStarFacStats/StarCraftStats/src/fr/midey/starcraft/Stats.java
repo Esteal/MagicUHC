@@ -30,7 +30,10 @@ import fr.midey.starcraft.commands.CommandsStats;
 import fr.midey.starcraft.gradeManager.GradeChat;
 import fr.midey.starcraft.gradeManager.GradeLoader;
 import fr.midey.starcraft.gradeManager.onMenuGrade;
+import fr.midey.starcraft.itemsPackage.LightSaber;
 import fr.midey.starcraft.itemsPackage.beskar.Beskar;
+import fr.midey.starcraft.itemsPackage.beskar.BeskarArmor;
+import fr.midey.starcraft.itemsPackage.beskar.BeskarLib;
 import fr.midey.starcraft.mySQL.DbConnection;
 import fr.midey.starcraft.mySQL.DbManager;
 import fr.midey.starcraft.mySQL.DbUpdate;
@@ -48,7 +51,10 @@ public class Stats extends JavaPlugin{
 	private GradeLoader gradeLoader;
 	private DbUpdate dbUpdate;
 	private SpellCheckTimer spellCheckTimer;
+	
 	private Beskar beskar = new Beskar();
+	private BeskarArmor beskarArmor = new BeskarArmor();
+	private LightSaber lightSaber = new LightSaber();
 	
 	private HashMap<UUID, String> playerGrade = new HashMap<UUID, String>();
 	private HashMap<Player, List<String>> playerSpellAvailable = new HashMap<Player, List<String>>();
@@ -88,7 +94,8 @@ public class Stats extends JavaPlugin{
 		pm.registerEvents(new onDeathPlayer(), this);
 		pm.registerEvents(new onRespawnPlayer(this), this);
 		//Craft 
-		pm.registerEvents(new Beskar(), this);
+		pm.registerEvents(new BeskarLib(), this);
+		pm.registerEvents(new LightSaber(), this);
 		//GradeManager
 		pm.registerEvents(new StatsLoader(this), this);
 		pm.registerEvents(new onMenuGrade(this), this);
@@ -159,6 +166,11 @@ public class Stats extends JavaPlugin{
 	private void createRecipe() {
 		beskar.craftMorceauDeBeskar();
 		beskar.craftBeskar();
+		beskarArmor.craftBeskarHelmet();
+		beskarArmor.craftBeskarChestplate();
+		beskarArmor.craftBeskarLeggings();
+		beskarArmor.craftBeskarBoots();
+		lightSaber.craftRedSaber();
 	}
 
 	@Override
@@ -166,6 +178,7 @@ public class Stats extends JavaPlugin{
 		for (Player p : Bukkit.getOnlinePlayers()) {
 			dbUpdate.updateBDD(p);
 		}
+		Bukkit.clearRecipes();
 		this.dbManager.close();
 	}
 
