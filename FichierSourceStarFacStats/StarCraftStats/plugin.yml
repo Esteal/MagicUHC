@@ -5,10 +5,13 @@ author: Midey
 commands:
   set:
     description: modifie les stats d'un joueur
-    permission: set.use
+    permission: god.use
   stats:
     description: affiche les stats et grades du joueur
-    permission: stats.use
+    permission: player.use
   wand:
     description: donne un wand au joueur
-    permission: wand.uses
+    permission: god.uses
+  infos:
+    description: affiche les informations du joueur
+    permission: player.use

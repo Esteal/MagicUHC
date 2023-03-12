@@ -29,7 +29,7 @@ public class GradeLoader extends BukkitRunnable{
 			float r = main.getStatsControler().getResistancePlayer().get(p);
 			String g = main.getPlayerGrade().get(p.getUniqueId());
 			
-			if(s >= 0.26f && f >= 0.30f && r >= 0.30f && g.equalsIgnoreCase("Vagabond")) {
+			if(((s -0.2)*1000/3) >= 20 && (f * 100) >= 30f && (r * 100) >= 30f && g.equalsIgnoreCase("Vagabond")) {
 				//Choix sith ou jedi
 				Inventory choice = Bukkit.createInventory(p, 9, "Force");
 				
@@ -45,7 +45,7 @@ public class GradeLoader extends BukkitRunnable{
 				choice .setItem(1, lumineux.getItem());
 				p.openInventory(choice);
 			}
-			else if((s >= 0.29f && f >= 0.60f && r >= 0.60f)) {
+			else if((((s -0.2)*1000/3) >= 30 && (f * 100) >= 60f && (r * 100) >= 60f)) {
 				if(g.equalsIgnoreCase("Apprenti sith")) {
 					updateGrade(p, "Chevalier sith");
 					Bukkit.broadcastMessage("Le joueur §e" + p.getDisplayName() + "§r vient de passer §4Chevalier sith");
@@ -54,15 +54,16 @@ public class GradeLoader extends BukkitRunnable{
 					updateGrade(p, "Chevalier jedi");
 					Bukkit.broadcastMessage("Le joueur §e" + p.getDisplayName() + "§r vient de passer §bChevalier jedi");
 				}
-			}
-			else if (s >= 0.32f && f >= 0.90f && r >= 0.90f) {
-				if(g.equalsIgnoreCase("Chevalier sith")) {
-					updateGrade(p, "Seigneur sith");
-					Bukkit.broadcastMessage("Le joueur §e" + p.getDisplayName() + "§r vient de passer §4Seigneur sith");
-				}
-				else if(g.equalsIgnoreCase("Chevalier jedi")) {
-					updateGrade(p, "Maître jedi");
-					Bukkit.broadcastMessage("Le joueur §e" + p.getDisplayName() + "§r vient de passer §bMaître jedi");
+			
+				else if ((((s -0.2)*1000/3) >= 40 && (f * 100) >= 90f && (r * 100) >= 90f)) {
+					if(g.equalsIgnoreCase("Chevalier sith")) {
+						updateGrade(p, "Seigneur sith");
+						Bukkit.broadcastMessage("Le joueur §e" + p.getDisplayName() + "§r vient de passer §4Seigneur sith");
+					}
+					else if(g.equalsIgnoreCase("Chevalier jedi")) {
+						updateGrade(p, "Maître jedi");
+						Bukkit.broadcastMessage("Le joueur §e" + p.getDisplayName() + "§r vient de passer §bMaître jedi");
+					}
 				}
 			}
 		}

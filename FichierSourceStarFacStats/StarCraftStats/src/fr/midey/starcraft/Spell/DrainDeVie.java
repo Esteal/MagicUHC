@@ -46,8 +46,8 @@ public class DrainDeVie implements Listener {
 				BukkitTask task = Bukkit.getScheduler().runTaskTimer(main, new Runnable() {
 					@Override
 					public void run() {
-						Stars stars = new Stars(loc, EnumParticle.FOOTSTEP);
-						Circle circle = new Circle(loc, EnumParticle.FOOTSTEP, p, main, 7, "Drain de vie");
+						Stars stars = new Stars(loc, EnumParticle.ENCHANTMENT_TABLE);
+						Circle circle = new Circle(loc, EnumParticle.ENCHANTMENT_TABLE, p, main, 7, "Drain de vie");
 						stars.drawStars();
 						circle.drawCircle();
 					}		

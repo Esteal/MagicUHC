@@ -9,6 +9,7 @@ import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.Inventory;
+import org.bukkit.inventory.ItemStack;
 
 import fr.midey.starcraft.Stats;
 import fr.midey.starcraft.itemsPackage.ItemWand;
@@ -33,22 +34,25 @@ public class CommandsStats implements CommandExecutor {
 			}
 		}
 		
+		if(msg.equalsIgnoreCase("infos")) {
+			if(sender instanceof Player) {
+				Player p = (Player) sender;
+				Inventory infoMenu = Bukkit.createInventory(p, 54, "Stats de " + p.getDisplayName());
+				ItemStack stats = stats(p);
+				infoMenu.setItem(8, stats);
+				p.openInventory(infoMenu);
+			}
+		}
+		
 		/*Affiche les stats du joueur dans un menu*/
 		if(msg.equalsIgnoreCase("stats")) {
 			if(sender instanceof Player) {
 				Player p = (Player) sender;
 				Inventory statsMenu = Bukkit.createInventory(p, 9, "Stats de " + p.getDisplayName());
-				ItemsConstructor Stats = new ItemsConstructor(Material.SIGN);
-				Stats.applyName("§6§lStatistiques");
-				Stats.applyLore("§e§lGrade: §f" + main.getPlayerGrade().get(p.getUniqueId()));
-				DecimalFormat decimalFormat = new DecimalFormat("#.##");
-				Stats.applyLore("§aResistance §f: " + decimalFormat.format(main.getStatsControler().getResistancePlayer().get(p) * 100) + "%");
-				Stats.applyLore("§cForce §f: " + decimalFormat.format(main.getStatsControler().getForcePlayer().get(p) * 100) + "%");
-				Stats.applyLore("§bRapidité §f: " + decimalFormat.format((main.getStatsControler().getSpeedPlayer().get(p) -0.2)*1000/3) + "%");
-				statsMenu.setItem(0, Stats.getItem());
+				ItemStack stats = stats(p);
+				statsMenu.setItem(0, stats);
 				p.openInventory(statsMenu);
 			}
-			
 		}
 		
 		/*Change les stats du joueur*/
@@ -110,5 +114,16 @@ public class CommandsStats implements CommandExecutor {
 			}
 		}
 		return true;
+	}
+	
+	public ItemStack stats(Player p) {
+			ItemsConstructor Stats = new ItemsConstructor(Material.SIGN);
+			Stats.applyName("§6§lStatistiques");
+			Stats.applyLore("§e§lGrade: §f" + main.getPlayerGrade().get(p.getUniqueId()));
+			DecimalFormat decimalFormat = new DecimalFormat("#.######");
+			Stats.applyLore("§aResistance §f: " + decimalFormat.format(main.getStatsControler().getResistancePlayer().get(p) * 100) + "%");
+			Stats.applyLore("§cForce §f: " + decimalFormat.format(main.getStatsControler().getForcePlayer().get(p) * 100) + "%");
+			Stats.applyLore("§bRapidité §f: " + decimalFormat.format((main.getStatsControler().getSpeedPlayer().get(p) -0.2)*1000/3) + "%");
+			return Stats.getItem();
 	}
 }

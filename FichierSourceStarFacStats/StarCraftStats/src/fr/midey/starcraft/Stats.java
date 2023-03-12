@@ -30,7 +30,8 @@ import fr.midey.starcraft.commands.CommandsStats;
 import fr.midey.starcraft.gradeManager.GradeChat;
 import fr.midey.starcraft.gradeManager.GradeLoader;
 import fr.midey.starcraft.gradeManager.onMenuGrade;
-import fr.midey.starcraft.itemsPackage.LightSaber;
+import fr.midey.starcraft.itemsPackage.Saber.CrystalKyber;
+import fr.midey.starcraft.itemsPackage.Saber.LightSaber;
 import fr.midey.starcraft.itemsPackage.beskar.Beskar;
 import fr.midey.starcraft.itemsPackage.beskar.BeskarArmor;
 import fr.midey.starcraft.itemsPackage.beskar.BeskarLib;
@@ -55,6 +56,7 @@ public class Stats extends JavaPlugin{
 	private Beskar beskar = new Beskar();
 	private BeskarArmor beskarArmor = new BeskarArmor();
 	private LightSaber lightSaber = new LightSaber();
+	private CrystalKyber crystalKyber = new CrystalKyber();
 	
 	private HashMap<UUID, String> playerGrade = new HashMap<UUID, String>();
 	private HashMap<Player, List<String>> playerSpellAvailable = new HashMap<Player, List<String>>();
@@ -96,6 +98,7 @@ public class Stats extends JavaPlugin{
 		//Craft 
 		pm.registerEvents(new BeskarLib(), this);
 		pm.registerEvents(new LightSaber(), this);
+		pm.registerEvents(new CrystalKyber(), this);
 		//GradeManager
 		pm.registerEvents(new StatsLoader(this), this);
 		pm.registerEvents(new onMenuGrade(this), this);
@@ -119,6 +122,7 @@ public class Stats extends JavaPlugin{
 		getCommand("set").setExecutor(new CommandsStats(this));
 		getCommand("stats").setExecutor(new CommandsStats(this));
 		getCommand("wand").setExecutor(new CommandsStats(this));
+		getCommand("infos").setExecutor(new CommandsStats(this));
 
 		
 		for (Player p : Bukkit.getOnlinePlayers()) {
@@ -170,7 +174,9 @@ public class Stats extends JavaPlugin{
 		beskarArmor.craftBeskarChestplate();
 		beskarArmor.craftBeskarLeggings();
 		beskarArmor.craftBeskarBoots();
-		lightSaber.craftRedSaber();
+		lightSaber.craftSaber();
+		crystalKyber.craftCrystalNeutre();
+		crystalKyber.craftCrystal();
 	}
 
 	@Override

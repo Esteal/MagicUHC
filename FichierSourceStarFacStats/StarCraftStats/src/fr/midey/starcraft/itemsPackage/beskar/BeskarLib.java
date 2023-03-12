@@ -41,26 +41,26 @@ public class BeskarLib implements Listener{
 		helmetBeskar.applyName("§bCasque en Beskar");
 		helmetBeskar.applyLore("§4Casque composé du métal mandalorien possédant");
 		helmetBeskar.applyLore("§4la plus grande résistance de la galaxie");
-		helmetBeskar.applyEnchant(Enchantment.DURABILITY, 10);
 		helmetBeskar.applyEnchant(Enchantment.PROTECTION_ENVIRONMENTAL, 4);
-		
+		helmetBeskar.applyUmbreakable(true);
+
 		chestplateBeskar.applyName("§bPlastron en Beskar");
 		chestplateBeskar.applyLore("§4Plastron composé du métal mandalorien possédant");
 		chestplateBeskar.applyLore("§4la plus grande résistance de la galaxie");
-		chestplateBeskar.applyEnchant(Enchantment.DURABILITY, 10);
 		chestplateBeskar.applyEnchant(Enchantment.PROTECTION_ENVIRONMENTAL, 4);
-		
+		chestplateBeskar.applyUmbreakable(true);
+
 		leggingsBeskar.applyName("§bJambières en Beskar");
 		leggingsBeskar.applyLore("§4Jambières composé du métal mandalorien possédant");
 		leggingsBeskar.applyLore("§4la plus grande résistance de la galaxie");
-		leggingsBeskar.applyEnchant(Enchantment.DURABILITY, 10);
 		leggingsBeskar.applyEnchant(Enchantment.PROTECTION_ENVIRONMENTAL, 4);
+		leggingsBeskar.applyUmbreakable(true);
 		
 		bootsBeskar.applyName("§bBottes en Beskar");
 		bootsBeskar.applyLore("§4Bottes composé du métal mandalorien possédant");
 		bootsBeskar.applyLore("§4la plus grande résistance de la galaxie");
-		bootsBeskar.applyEnchant(Enchantment.DURABILITY, 10);
 		bootsBeskar.applyEnchant(Enchantment.PROTECTION_ENVIRONMENTAL, 4);
+		bootsBeskar.applyUmbreakable(true);
 		
 		this.beskars = beskar.getItem();
 		this.morceauBeskars = morceauBeskar.getItem();

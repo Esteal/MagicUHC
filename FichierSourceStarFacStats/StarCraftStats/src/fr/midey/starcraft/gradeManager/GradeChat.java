@@ -20,8 +20,10 @@ public class GradeChat implements Listener {
 		Player p = e.getPlayer();
 		if(main.getPlayerGrade().containsKey(p.getUniqueId())) {
 			String grade = main.getPlayerGrade().get(p.getUniqueId());
-			
-			if(grade.equalsIgnoreCase("Seigneur sith") || grade.equalsIgnoreCase("Chevalier sith") || grade.equalsIgnoreCase("Apprenti sith")) {
+			if (grade.equalsIgnoreCase("Vagabond")) {
+				e.setFormat("§8[" + grade + "] " + "§r" +p.getDisplayName() + " - §7" + e.getMessage());
+			}
+			else if(grade.equalsIgnoreCase("Seigneur sith") || grade.equalsIgnoreCase("Chevalier sith") || grade.equalsIgnoreCase("Apprenti sith")) {
 				e.setFormat("§4[" + grade + "] " + "§r" +p.getDisplayName() + " - §7" + e.getMessage());
 			}
 			else if(grade.equalsIgnoreCase("Maître jedi") || grade.equalsIgnoreCase("Chevalier jedi") || grade.equalsIgnoreCase("Apprenti jedi")) {

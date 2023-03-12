@@ -1,7 +1,10 @@
 package fr.midey.starcraft.statsManager;
 
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 
+import org.bukkit.Bukkit;
 import org.bukkit.Location;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
@@ -9,15 +12,24 @@ import org.bukkit.event.Listener;
 import org.bukkit.event.entity.EntityDamageByEntityEvent;
 import org.bukkit.event.entity.EntityDamageEvent;
 import org.bukkit.event.player.PlayerMoveEvent;
+import org.bukkit.inventory.ItemStack;
+import org.bukkit.potion.PotionEffect;
+import org.bukkit.potion.PotionEffectType;
 
 import fr.midey.starcraft.Stats;
+import fr.midey.starcraft.itemsPackage.Saber.LightSaber;
 
 public class StatsLoader implements Listener {
 
 	private Stats main;
-	
+	LightSaber sabers = new LightSaber();
+	List<ItemStack> saber = new ArrayList<>();
+
 	public StatsLoader(Stats main) {
 		this.main = main;
+		saber.add(sabers.blueSaber.getItem());
+		saber.add(sabers.redSaber.getItem());
+		saber.add(sabers.greenSaber.getItem());
 	}
 
 	@EventHandler
@@ -49,13 +61,13 @@ public class StatsLoader implements Listener {
 			speedP.replace(p, speedP.get(p) + 0.00005f);
 		}
 		else if ((speedP.get(p) -0.2)*1000/3 <= 25) {
-			speedP.replace(p, speedP.get(p) + 0.0000001f);
+			speedP.replace(p, speedP.get(p) + 0.000005f);
 		}
 		else if((speedP.get(p) -0.2)*1000/3 <= 30) {
-			speedP.replace(p, speedP.get(p) + 0.00000001f);
+			speedP.replace(p, speedP.get(p) + 0.0000005f);
 		}
 		else if((speedP.get(p) -0.2)*1000/3 <= 40) {
-			speedP.replace(p, speedP.get(p) + 0.000000001f);
+			speedP.replace(p, speedP.get(p) + 0.00000005f);
 		}
 		p.setWalkSpeed(speedP.get(p));
 	}
@@ -67,17 +79,17 @@ public class StatsLoader implements Listener {
 		Player p = (Player)e.getEntity();
 		if(main.getCooldownStunt().containsKey(p)) e.setCancelled(true);
 		HashMap<Player, Float> resistanceP = main.getStatsControler().getResistancePlayer();
-		if((resistanceP.get(p) -0.2)*1000/3 <= 30) {
-			resistanceP.replace(p, resistanceP.get(p) + 0.001f);
+		if(resistanceP.get(p) * 100 <= 30) {
+			resistanceP.replace(p, resistanceP.get(p) + 0.03f);
 		}
-		else if ((resistanceP.get(p) -0.2)*1000/3 <= 60) {
-			resistanceP.replace(p, resistanceP.get(p) + 0.00001f);
+		else if (resistanceP.get(p) * 100 <= 60) {
+			resistanceP.replace(p, resistanceP.get(p) + 0.003f);
 		}
-		else if((resistanceP.get(p) -0.2)*1000/3 <= 90) {
-			resistanceP.replace(p, resistanceP.get(p) + 0.000001f);
+		else if(resistanceP.get(p) * 100 <= 90) {
+			resistanceP.replace(p, resistanceP.get(p) + 0.0003f);
 		}
-		else if((resistanceP.get(p) -0.2)*1000/3 <= 100) {
-			resistanceP.replace(p, resistanceP.get(p) + 0.0000001f);
+		else if(resistanceP.get(p) * 100 <= 100) {
+			resistanceP.replace(p, resistanceP.get(p) + 0.00003f);
 		}
 		double reducedDamage = damage - damage * (main.getStatsControler().getResistancePlayer().get(p)/2);
 		e.setDamage(reducedDamage);
@@ -88,20 +100,33 @@ public class StatsLoader implements Listener {
 		if(!(e.getDamager() instanceof Player)) return;
 		double damage = e.getDamage();
 		Player p = (Player) e.getDamager();
+		Bukkit.broadcastMessage("normal original : " + damage);
+		if(saber.contains(p.getItemInHand())) {
+			if (damage > 5) damage = 18;
+			else damage = 15;
+			for(PotionEffect effect : p.getActivePotionEffects()) {
+				if (effect.getType().equals(PotionEffectType.INCREASE_DAMAGE)) {
+					damage = 22;
+					break;
+				}
+			}
+		}
 		double dDamage = damage + damage * main.getStatsControler().getForcePlayer().get(p);
 		HashMap<Player, Float> forceP = main.getStatsControler().getForcePlayer();
-		if((forceP.get(p) -0.2)*1000/3 <= 30) {
+		if(forceP.get(p) * 100 <= 30) {
+			forceP.replace(p, forceP.get(p) + 0.01f);
+		}
+		else if (forceP.get(p) * 100 <= 60) {
 			forceP.replace(p, forceP.get(p) + 0.001f);
 		}
-		else if ((forceP.get(p) -0.2)*1000/3 <= 60) {
+		else if(forceP.get(p) * 100 <= 90) {
+			forceP.replace(p, forceP.get(p) + 0.0001f);
+		}
+		else if(forceP.get(p) * 100 <= 100) {
 			forceP.replace(p, forceP.get(p) + 0.00001f);
 		}
-		else if((forceP.get(p) -0.2)*1000/3 <= 90) {
-			forceP.replace(p, forceP.get(p) + 0.000001f);
-		}
-		else if((forceP.get(p) -0.2)*1000/3 <= 100) {
-			forceP.replace(p, forceP.get(p) + 0.0000001f);
-		}
+		Bukkit.broadcastMessage("normal: " + damage);
+		Bukkit.broadcastMessage("final : " + dDamage);
 		e.setDamage(dDamage);
 	}
 }

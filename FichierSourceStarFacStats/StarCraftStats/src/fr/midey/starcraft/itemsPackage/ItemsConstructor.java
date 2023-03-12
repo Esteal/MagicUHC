@@ -30,6 +30,13 @@ public class ItemsConstructor {
 		it.setItemMeta(M);
 	}
 	
+	public void applyUmbreakable(boolean umbreak) {
+			ItemMeta M = it.getItemMeta();
+			M.spigot().setUnbreakable(umbreak);
+			M.addItemFlags(ItemFlag.HIDE_ATTRIBUTES);
+			it.setItemMeta(M);
+	}
+	
 	public void applyName(String named) {
 		ItemMeta M = it.getItemMeta();
 		name = named;
