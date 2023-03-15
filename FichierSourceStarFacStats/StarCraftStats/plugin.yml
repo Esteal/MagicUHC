@@ -15,3 +15,6 @@ commands:
   infos:
     description: affiche les informations du joueur
     permission: player.use
+  vision:
+    description: donne effect night vision
+    permission: player.use

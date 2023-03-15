@@ -22,10 +22,10 @@ public class BeskarLib implements Listener{
 	
 	final ItemStack morceauBeskars;
 	final ItemStack beskars;
-	final ItemStack helmetBeskars;
-	final ItemStack chestplateBeskars;
-	final ItemStack leggingsBeskars;
-	final ItemStack bootsBeskars;
+	public final ItemStack helmetBeskars;
+	public final ItemStack chestplateBeskars;
+	public final ItemStack leggingsBeskars;
+	public final ItemStack bootsBeskars;
 	
 	public BeskarLib() {
 		

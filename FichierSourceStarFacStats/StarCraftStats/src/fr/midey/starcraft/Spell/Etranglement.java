@@ -49,7 +49,7 @@ public class Etranglement implements Listener {
 				double x = loc.getX();
 				double y = loc.getY();
 				double z = loc.getZ();
-				for (int t = 0; t < 25; t++) {
+				for (int t = 0; t < 50; t++) {
 					double xV = v.getX() + x;
 					double yV = v.getY() + y;
 					double zV = v.getZ() + z;
@@ -67,6 +67,7 @@ public class Etranglement implements Listener {
 							main.getCooldownEtranglement().put(p, 60);
 							player.setVelocity(player.getLocation().getDirection().multiply(-1).setY(1));
 							player.addPotionEffect(new PotionEffect(PotionEffectType.HARM, 30, 0));
+							player.setHealth(player.getHealth() - 4);
 						}
 					}
 					if (target == 1) break; 

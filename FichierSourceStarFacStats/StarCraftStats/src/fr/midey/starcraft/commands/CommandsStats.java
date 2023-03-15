@@ -10,6 +10,8 @@ import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.Inventory;
 import org.bukkit.inventory.ItemStack;
+import org.bukkit.potion.PotionEffect;
+import org.bukkit.potion.PotionEffectType;
 
 import fr.midey.starcraft.Stats;
 import fr.midey.starcraft.itemsPackage.ItemWand;
@@ -31,6 +33,14 @@ public class CommandsStats implements CommandExecutor {
 				Player p = (Player)sender;
 				ItemWand it = new ItemWand(main); 
 				p.getInventory().addItem(it.getWand());
+			}
+		}
+		
+		if(msg.equalsIgnoreCase("vision")) {
+			if (sender instanceof Player) {
+				Player p = (Player) sender;
+				p.addPotionEffect(new PotionEffect(PotionEffectType.NIGHT_VISION, 99999, 2), true);
+				return true;
 			}
 		}
 		

@@ -4,7 +4,6 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-import org.bukkit.Bukkit;
 import org.bukkit.Location;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
@@ -36,13 +35,10 @@ public class StatsLoader implements Listener {
 	public void loadSpeed(PlayerMoveEvent e) {
 		
 		Player p = e.getPlayer();
-		if(main.getCooldownEtranglé().containsKey(p)) {
-			e.setCancelled(true);
-			return;
-		}
 		
-		if(main.getCooldownStunt().containsKey(p)) {
-			e.setCancelled(true);
+		if(main.getCooldownStunt().containsKey(p) || main.getCooldownEtranglé().containsKey(p)) {
+			p.setWalkSpeed(0);
+			if(e.getFrom().getY() != e.getTo().getY()) e.setCancelled(true);
 			return;
 		}
 
@@ -100,13 +96,12 @@ public class StatsLoader implements Listener {
 		if(!(e.getDamager() instanceof Player)) return;
 		double damage = e.getDamage();
 		Player p = (Player) e.getDamager();
-		Bukkit.broadcastMessage("normal original : " + damage);
 		if(saber.contains(p.getItemInHand())) {
 			if (damage > 5) damage = 18;
 			else damage = 15;
 			for(PotionEffect effect : p.getActivePotionEffects()) {
 				if (effect.getType().equals(PotionEffectType.INCREASE_DAMAGE)) {
-					damage = 22;
+					damage = 25;
 					break;
 				}
 			}
@@ -125,8 +120,6 @@ public class StatsLoader implements Listener {
 		else if(forceP.get(p) * 100 <= 100) {
 			forceP.replace(p, forceP.get(p) + 0.00001f);
 		}
-		Bukkit.broadcastMessage("normal: " + damage);
-		Bukkit.broadcastMessage("final : " + dDamage);
 		e.setDamage(dDamage);
 	}
 }

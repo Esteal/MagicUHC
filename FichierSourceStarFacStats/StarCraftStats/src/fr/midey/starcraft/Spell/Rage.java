@@ -65,8 +65,7 @@ public class Rage implements Listener {
 					@Override
 					public void run() {
 						task.cancel();
-						p.addPotionEffect(new PotionEffect(PotionEffectType.SLOW, 20*10,0));
-						p.addPotionEffect(new PotionEffect(PotionEffectType.WEAKNESS, 20*30,1));
+						p.addPotionEffect(new PotionEffect(PotionEffectType.SLOW, 20*15,3));
 					}
 					
 				}, 20*10);

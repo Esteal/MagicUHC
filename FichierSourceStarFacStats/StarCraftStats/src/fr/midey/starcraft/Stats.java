@@ -123,6 +123,7 @@ public class Stats extends JavaPlugin{
 		getCommand("stats").setExecutor(new CommandsStats(this));
 		getCommand("wand").setExecutor(new CommandsStats(this));
 		getCommand("infos").setExecutor(new CommandsStats(this));
+		getCommand("vision").setExecutor(new CommandsStats(this));
 
 		
 		for (Player p : Bukkit.getOnlinePlayers()) {

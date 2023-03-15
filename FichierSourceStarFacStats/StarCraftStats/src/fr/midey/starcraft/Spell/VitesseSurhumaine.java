@@ -51,7 +51,7 @@ public class VitesseSurhumaine implements Listener {
 						double y = loc.getY();
 						double z = loc.getZ();
 						for(Player player : Bukkit.getOnlinePlayers()) {
-							PacketPlayOutWorldParticles packet = new PacketPlayOutWorldParticles(EnumParticle.CLOUD, true, (float) x, (float) y + 1, (float) z, 0, 0, 0, 1, 10);
+							PacketPlayOutWorldParticles packet = new PacketPlayOutWorldParticles(EnumParticle.CLOUD, true, (float) x, (float) y + 1, (float) z, 0, 0, 0, 1, 1);
 							((CraftPlayer)player).getHandle().playerConnection.sendPacket(packet);
 						}
 					}

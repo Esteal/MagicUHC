@@ -44,7 +44,7 @@ public class BouclierDeForce implements Listener {
 					@Override
 					public void run() {
 						float radius = 1;
-						for (float y = 0; y < 2.3; y+=0.1) {
+						for (float y = 0; y < 2.3; y+=0.2) {
 							Location loc = p.getLocation();
 							loc.setY(loc.getY() + y);
 							if(y < 2) {

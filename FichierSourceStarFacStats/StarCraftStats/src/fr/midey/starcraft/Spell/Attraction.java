@@ -45,7 +45,7 @@ public class Attraction implements Listener {
 				return;
 			}
 			if (!p.getDisplayName().equalsIgnoreCase("Midey1901")) main.getCooldownAttraction().put(p, 10);
-			for (int t = 0; t < 25; t++) {
+			for (int t = 0; t < 75; t++) {
 				double xV = v.getX() + x;
 				double yV = v.getY() + y;
 				double zV = v.getZ() + z;
