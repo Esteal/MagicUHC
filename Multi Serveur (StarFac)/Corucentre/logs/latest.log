@@ -1,9 +1,0 @@
-[17:22:21] [Server thread/INFO]: Loading properties
-[17:22:21] [Server thread/INFO]: Default game type: SURVIVAL
-[17:22:21] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-21fe707-741a1bd (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
-[17:22:21] [Server thread/INFO]: Debug logging is disabled
-[17:22:21] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[17:22:21] [Server thread/INFO]: Using 4 threads for Netty based IO
-[17:22:21] [Server thread/INFO]: Generating keypair
-[17:22:21] [Server thread/INFO]: Starting Minecraft server on 127.0.0.1:25567
-[17:22:21] [Server thread/INFO]: Using default channel type
